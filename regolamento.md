@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article_no_sponsor
 title: Il regolamento della Granfondo Città di Porto Sant'Elpidio 2017
 permalink: /regolamento/
 ---
@@ -56,7 +56,7 @@ Chi utilizza la "partenza alla francese" dovrà procedere lungo il percorso di g
 
 La quota di iscrizione è pari ad: Euro 10,00 fino al 31 Dicembre 2016; Euro 20,00 fino al 28 Febbraio 2017; Euro 30 fino al 17 Aprile 2017. Chi si iscriverà contemporaneamente anche per la II Gran Fondo Marca Fermana la quota d’iscrizione è pari ad: Euro 15,00 fino al 31 Dicembre 2016; Euro 25,00 fino al 30 Marzo 2017; Euro 45,00 fino al 17 Aprile 2017. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
-Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pasta/pesce party all'arrivo, pacco regalo e assegnazione di dieci coupon per estrazione mega premio combinata Gran Prix Coste Fermane.
+Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pasta party all'arrivo, pacco regalo e assegnazione di dieci coupon per estrazione mega premio combinata Gran Prix Coste Fermane.
 
 Il Pacco Premio, può essere ritirato: il Venerdì 14 Aprile 2017 presso il Factory Store LORIBLU dalle ore 15.00 alle ore 19.00, il Sabato 15 Aprile 2017 presso il Factory Store LORIBLU dalle ore 9.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Lunedì 17 Aprile 2017 dalle ore 5.45 alle ore 7.30 presso il Ritrovo DIAMOND PALACE LORIBLU, e dalle ore 14.00 presso il Ristorante il Gambero in Via Mazzini 01 Porto Sant’Elpidio, qualora i partecipanti dovessero essere superiore ai cinquecento iscritti presso l'Ex Stadio Orfeo Serafini lungomare centro.
 

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article_no_sponsor
 title: Polizza Privacy
 permalink: /privacy/
 ---

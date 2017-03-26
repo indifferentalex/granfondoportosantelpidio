@@ -53,6 +53,10 @@ a p {
 	.large-frame {
 		padding: 25%;
 	}
+
+	.particular-frame {
+		padding: 5% 25%;
+	}
 }
 
 .sponsors {
