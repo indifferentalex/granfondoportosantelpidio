@@ -1,0 +1,70 @@
+---
+layout: default
+title: Gran Fondo Città di Porto Sant'Elpidio Edizione {{ site.current_year }}
+description: Benvenuti a Porto Sant'Elpidio, la cittadina sul litorale Marchigiano che quest'anno avrà l'onore di ospitare il Meeting Nazionale Giovanissimi 2017. Situata nelle Marche, sul mare Adriatico e a pochi chilometri dai monti Sibillini. a grande presenza di società sportive ciclistiche e le migliaia di persone che oggi praticano il ciclismo a Porto Sant’Elpidio hanno reso la cittadina la protagonista di eventi importanti come il Giro d'Italia e la Tirreno-Adriatico. La città che ha il mare e la bici nel cuore.
+---
+
+<div style="position: relative; margin-left: -24px; margin-right: -24px; padding: 0px 24px;" class="row centerpiece">
+	<img class="home-banner-image" src="{{ site.baseurl }}/assets/images/sfondo_prova_1.jpg"/>
+
+	<div class="col-md-5 col-md-push-7 vcenter">
+		<img class="centerpiece" src="{{ site.baseurl }}/assets/images/data_granfondo_2017.png"/>
+	</div><!--
+	--><div class="col-md-7 col-md-pull-5 vcenter">
+		<!-- <h1 class="home-banner-text">Gran Fondo Città di Porto Sant'Elpidio</h1> -->
+		<p class="home-banner-text">Questo 2017 la <strong>Gran Fondo Città di Porto Sant'Elpidio</strong> ritorna con <strong>la Quinta Edizione</strong>.</p>
+		<p class="home-banner-text">Nel percorso saranno attraversati 19 comuni del Fermano (Porto San Giorgio, Lapedona, Moresco, Monterubbiano, Petritoli, Monte Vidon Combatte, Ortezzano, Monte Rinaldo, Montelparo, Monteleone di Fermo, Servigliano, Belmonte Piceno, Montottone, Monte Giberto, Ponzano di Fermo, Fermo, Monte Urano, Sant’Elpidio a Mare e Porto Sant’Elpidio) ed uno della Provincia di Ascoli (Montalto delle Marche).</p>
+		<p class="home-banner-text">Il nuovo tracciato misura 134,3 chilometri ed attraversa molti scorci suggestivi dell’entroterra fermano con tanti panorami che si aprono alla vista dei partecipanti, dal mare fino ad arrivare ai piedi dei Sibillini con strade prive di traffico e tanta natura incontaminata.</p>
+		<!-- <p class="home-banner-text"><i>"La città che ha il mare e la bici nel cuore"</i></p> -->
+	</div>
+</div>
+<!-- 
+<div class="row affiliates">
+	<div class="col-md-4"><img src="{{ site.baseurl }}/assets/images/logo_pse.jpg"/></div>
+	<div class="col-md-4"><img src="{{ site.baseurl }}/assets/images/stemma_pse.jpg"/></div>
+	<div class="col-md-4"><img src="{{ site.baseurl }}/assets/images/logo_grand_prix.jpg"/></div>
+</div>
+ -->
+<div class="row home-page-information">
+	<div class="col-md-4">
+		<h2>Il percorso</h2>
+		<p>Il modo più comodo (se si portano le biciclette) e senza dubbio arrivare in macchina tramite l'uscita dall'autostrada A24 proprio a Porto Sant'Elpidio. Questo sbocco vi farà uscire nella parte sud della città dalla quale è facilmente raggiungibile qualsiasi posto? Per chi arriva in treno ci sta la stazione di Porto Sant'Elpidio servita dai treni regionali, con collegamenti possibili nelle città più grandi dei dintorni. Chi desidera viaggiare in camper troverà molte soluzioni, incluso un nuovo centro camper nel centro del lungomare. C'è inoltre la possibilità di volare fino ad Ancona.</p>
+		<p>Potete trovare cartine e indicazioni più dettagliate cliccando su <a href="directions.html">questo link</a>.</p>
+	</div>
+	<div class="col-md-4">
+		<h2>La città</h2>
+		<p>Ci sono molti alberghi convenzionati per l'evento che potete trovare sulla pagina degli alberghi <a href="hotels.html">cliccando qui</a>. Se desiderate avere un aiuto a prenotare il vostro soggiorno non esistate a contattarci per avere ulteriore informazioni oppure per farvi prenotare le stanze che necesitate?, saremo lieti di aiutarvi.</p>
+	</div>
+	<div class="col-md-4">
+		<h2>Come partecipare</h2>
+		<p>La quota di iscrizione è pari a 20 euro al 28 febbraio, 30 euro fino al 17 aprile. Chi si iscriverà contemporaneamente anche per la Gran Fondo Marca Fermana (domenica 1 ottobre) la quota d’iscrizione è pari 25 euro fino al 30 marzo, 45 euro fino al 17 aprile. Le iscrizioni possono essere effettuate attraverso KronoService o tramite il sito cliccando sulla voce "Iscriversi" in alto.</p>
+		<p>Le iscrizioni comprendono assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pasta/pesce party all’arrivo, pacco regalo e assegnazione di un mega premio per il vincitore della combinata Gran Prix Coste Fermane.</p>
+	</div>
+</div>
+
+<div class="row sponsors">
+	<div class="col-md-12"><h2>Un ringraziamento agli Sponsor</h2></div>
+	<div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/loriblu.jpg"/></div><!--
+	--><div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/il_gambero.jpg"/></div><!--
+	--><div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/loriblu.jpg"/></div><!--
+	--><div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/il_gambero.jpg"/></div><!--
+	--><div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/loriblu.jpg"/></div><!--
+	--><div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/il_gambero.jpg"/></div><!--
+	-->
+</div>
+
+<div class="articles-list">
+{% for post in site.posts %}
+	<a href="{{ post.url }}">
+		<div class="row article-row">
+			<div class="col-md-3 col-md-push-9 vcenter">
+				<img alt="{{ post.imagealt }}" src="{{ site.baseurl }}{{ post.image }}"/>
+			</div><!--
+			--><div class="col-md-9 col-md-pull-3 vcenter">
+				<h3>{{ post.title }}</h3>
+				<p>{{ post.description }}..</p>
+			</div>	
+		</div>
+	</a>
+{% endfor %}
+</div>

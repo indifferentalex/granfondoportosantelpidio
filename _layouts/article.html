@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{% include head.html %}
+<body>
+  {% include header.html %}
+
+  <div class="container-fluid main-content">
+  	<div class="row article-content">
+  		<div class="col-md-1"></div>
+  		<div class="col-md-8">
+    		{{ content }}
+    	</div>
+      <div class="col-md-2 sponsors-column">
+        <img src="{{ site.baseurl }}/assets/images/loriblu.jpg"/>
+        <img src="{{ site.baseurl }}/assets/images/il_gambero.jpg"/>
+        <img src="{{ site.baseurl }}/assets/images/loriblu.jpg"/>
+      </div>
+    	<div class="col-md-1"></div>
+    </div>
+  </div>
+
+  {% include footer.html %}
+</div>
+</body>
+</html>
