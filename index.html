@@ -28,17 +28,17 @@ description: Benvenuti a Porto Sant'Elpidio, la cittadina sul litorale Marchigia
 	<div class="col-md-4">
 		<h2>Il percorso</h2>
 		<p>Nel percorso che misura 134,3 chilometri saranno attraversati 19 comuni del Fermano (Porto San Giorgio, Lapedona, Moresco, Monterubbiano, Petritoli, Monte Vidon Combatte, Ortezzano, Monte Rinaldo, Montelparo, Monteleone di Fermo, Servigliano, Belmonte Piceno, Montottone, Monte Giberto, Ponzano di Fermo, Fermo, Monte Urano, Sant’Elpidio a Mare e Porto Sant’Elpidio) ed uno della Provincia di Ascoli (Montalto delle Marche).</p>
-		<p>Sono consultabili <a href="planimetria">la planimetria</a>, <a href="altimetria">l'altimetria</a>, <a href="cronotabella">la cronotabella</a> e l'intero percorso GPS è disponibile da scaricare sia in formato .gpx e .kml.</p>
+		<p>Sono consultabili <a href="{{ site.baseurl }}/planimetria">la planimetria</a>, <a href="{{ site.baseurl }}/altimetria">l'altimetria</a>, <a href="{{ site.baseurl }}/cronotabella">la cronotabella</a> e l'intero percorso GPS è disponibile da scaricare sia in formato .gpx e .kml.</p>
 	</div>
 	<div class="col-md-4">
 		<!-- <img class="medium-frame" src="{{ site.baseurl }}/assets/images/logo_pse_contorno.png"/> -->
 		<h2>La città</h2>
 		<p>Porto Sant'Elpidio è un comune italiano di circa 27.000 abitanti della provincia di Fermo nelle Marche, che si concentra in modo notevole sulla produzione delle calzature da donna. Il suo tessuto urbanistico si è principalmente sviluppato in linea con il litorale marino, seguendo i due principali assi viari costieri: la strada statale 16 Adriatica e la linea ferroviaria adriatica. La forma allungata del territorio è delimitata a nord e a sud rispettivamente dai fiumi Chienti e Tenna.</p>
-		<p>Su questo sito potete inoltre trovare <a href="restaurants">i ristoranti</a> e <a href="hotels">gli alberghi</a> di Porto Sant'Elpidio e della zona circostante.</p>
+		<p>Su questo sito potete inoltre trovare <a href="{{ site.baseurl }}/restaurants">i ristoranti</a> e <a href="{{ site.baseurl }}/hotels">gli alberghi</a> di Porto Sant'Elpidio e della zona circostante.</p>
 	</div>
 	<div class="col-md-4">
 		<h2>Come partecipare</h2>
-		<p>La quota di iscrizione è pari a 20 euro al 28 febbraio, 30 euro fino al 17 aprile. Chi si iscriverà contemporaneamente anche per la Gran Fondo Marca Fermana (domenica 1 ottobre) la quota d’iscrizione è pari 25 euro fino al 30 marzo, 45 euro fino al 17 aprile. Le iscrizioni possono essere effettuate attraverso KronoService o tramite il sito <a href="iscrizione.html">cliccando qui.</a></p>
+		<p>La quota di iscrizione è pari a 20 euro al 28 febbraio, 30 euro fino al 17 aprile. Chi si iscriverà contemporaneamente anche per la Gran Fondo Marca Fermana (domenica 1 ottobre) la quota d’iscrizione è pari 25 euro fino al 30 marzo, 45 euro fino al 17 aprile. Le iscrizioni possono essere effettuate attraverso KronoService o tramite il sito <a href="{{ site.baseurl }}/iscrizione.html">cliccando qui.</a></p>
 		<p>Le iscrizioni comprendono assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pasta party all’arrivo, pacco regalo e assegnazione di un mega premio per il vincitore della combinata Gran Prix Coste Fermane.</p>
 	</div>
 </div>
@@ -56,7 +56,7 @@ description: Benvenuti a Porto Sant'Elpidio, la cittadina sul litorale Marchigia
 
 <div class="articles-list">
 {% for post in site.posts %}
-	<a href="{{ post.url }}">
+	<a href="{{ site.baseurl }}/{{ post.url }}">
 		<div class="row article-row">
 			<div class="col-md-3 col-md-push-9 vcenter">
 				<img alt="{{ post.imagealt }}" src="{{ site.baseurl }}{{ post.image }}"/>
