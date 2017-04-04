@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Gran Fondo Città di Porto Sant'Elpidio Edizione {{ site.current_year }}
-description: Benvenuti a Porto Sant'Elpidio, la cittadina sul litorale Marchigiano che quest'anno avrà l'onore di ospitare il Meeting Nazionale Giovanissimi 2017. Situata nelle Marche, sul mare Adriatico e a pochi chilometri dai monti Sibillini. a grande presenza di società sportive ciclistiche e le migliaia di persone che oggi praticano il ciclismo a Porto Sant’Elpidio hanno reso la cittadina la protagonista di eventi importanti come il Giro d'Italia e la Tirreno-Adriatico. La città che ha il mare e la bici nel cuore.
+title: Gran Fondo Città di Porto Sant'Elpidio Edizione V 17 Aprile 2017
+description: Gran Fondo Città di Porto Sant'Elpidio 17 Aprile, vi diamo il benvenuto alla Città che ha il mare e la bici nel cuore.
 ---
 
 <div style="position: relative; margin-left: -24px; margin-right: -24px; padding: 0px 24px;" class="row centerpiece">
@@ -43,20 +43,19 @@ description: Benvenuti a Porto Sant'Elpidio, la cittadina sul litorale Marchigia
 	</div>
 </div>
 
-<div class="row sponsors">
+<!-- <div class="row sponsors">
 	<div class="col-md-12"><h2>Un ringraziamento agli Sponsor</h2></div>
-	<div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/loriblu.jpg"/></div><!--
-	--><div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/il_gambero.jpg"/></div><!--
-	--><div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/loriblu.jpg"/></div><!--
-	--><div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/il_gambero.jpg"/></div><!--
-	--><div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/loriblu.jpg"/></div><!--
-	--><div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/il_gambero.jpg"/></div><!--
-	-->
-</div>
+	<div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/loriblu.jpg"/></div>
+	<div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/il_gambero.jpg"/></div>
+	<div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/loriblu.jpg"/></div>
+	<div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/il_gambero.jpg"/></div>
+	<div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/loriblu.jpg"/></div>
+	<div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/il_gambero.jpg"/></div>
+</div> -->
 
 <div class="articles-list">
 {% for post in site.posts %}
-	<a href="{{ site.baseurl }}/{{ post.url }}">
+	<a href="{{ site.baseurl }}{{ post.url }}">
 		<div class="row article-row">
 			<div class="col-md-3 col-md-push-9 vcenter">
 				<img alt="{{ post.imagealt }}" src="{{ site.baseurl }}{{ post.image }}"/>

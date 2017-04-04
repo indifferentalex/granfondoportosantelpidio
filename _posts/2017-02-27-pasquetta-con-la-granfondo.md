@@ -3,13 +3,13 @@ layout: article
 title: "Porto Sant’Elpidio, Pasquetta con la Granfondo all’insegna del turismo lento"
 description: "Non si ferma la macchina organizzativa della Granfondo Porto Sant’Elpidio in data lunedì 17 aprile nel giorno di Pasquetta. I promotori del Gruppo Ciclistico Faleriense e Gio.Ca Communications lavorano senza sosta per continuare ad infiocchettare la quinta edizione di un evento che va oltre il lato sportivo ed agonistico, nonché un ottimo volano per il turismo lento."
 date: 2017-02-27 10:00:00 -0600
-image: /assets/images/GF_Porto_SantElpidio_17apr2017_cartolina.jpg
+image: /assets/images/GF_Porto_SantElpidio_17apr2017_cartolina_piccola.jpg
 imagealt: "Granfondo Città di Porto Sant'Elpidio 2017, V Edizione"
 ---
 
 # Porto Sant’Elpidio, Pasquetta con la Granfondo all’insegna del turismo lento
 
-![Granfondo Città di Porto Sant'Elpidio 2017, V Edizione]({{ site.baseurl }}/assets/images/GF_Porto_SantElpidio_17apr2017_cartolina.jpg)
+![Granfondo Città di Porto Sant'Elpidio 2017, V Edizione]({{ site.baseurl }}/assets/images/GF_Porto_SantElpidio_17apr2017_cartolina_piccola.jpg)
 
 Non si ferma la macchina organizzativa della Granfondo Porto Sant’Elpidio in data lunedì 17 aprile nel giorno di Pasquetta. I promotori del Gruppo Ciclistico Faleriense e Gio.Ca Communications lavorano senza sosta per continuare ad infiocchettare la quinta edizione di un evento che va oltre il lato sportivo ed agonistico, nonché un ottimo volano per il “turismo lento”.
 
