@@ -43,15 +43,66 @@ description: Gran Fondo Città di Porto Sant'Elpidio 17 Aprile, vi diamo il benv
 	</div>
 </div>
 
-<!-- <div class="row sponsors">
+<script type="text/javascript">
+	jQuery(function() {
+		basePath = "{{ site.baseurl }}/assets/images/";
+		extension = "_sponsor.jpg";
+		goldSponsors = ["giorgio_mare"];
+		mainSponsorsOne = ["loriblu", "madi_service", "givi", "il_gambero"];
+		mainSponsorsTwo = ["omm", "tutti_campioni", "lineaoro", "femblu"];
+		sponsorsOne = ["didacus", "hair_services", "ares", "marinozzi", "esserre", "sebastiano_migliore", "archidea", "bedetta", "vetreria_petrini", "ecopel", "progetto_alto_gradimento", "autocarrozzeria_cognini"];
+		sponsorsTwo = ["renzi", "tacchificio_moderno", "benzi_pellami", "italtacco", "perla_sul_mare", "flog", "fabiani", "cluanplast", "brasili", "sbrolla", "black_label", "eco_elpidiense"];
+		sponsorsThree = ["ars", "steca", "luciani", "repo", "biotre_consulting", "biotre_servizi", "euro_graf", "sorbatti", "carrozzeria_adriatica", "nero_servizi", "ch_hotels", "inline", "fraben", "assoittico"];
+
+		// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random#Getting_a_random_integer_between_two_values
+		function getRandomIntInclusive(min, max) {
+		  min = Math.ceil(min);
+		  max = Math.floor(max);
+		  return Math.floor(Math.random() * (max - min + 1)) + min;
+		}
+
+		possiblePositions = [1, 2, 3, 4, 5, 6];
+		finalOrder = [];
+
+		var possiblePositionsLength = possiblePositions.length - 1;
+		console.log(possiblePositionsLength);
+		for (var i = 0; i < possiblePositions.length; i++) {
+			var positionChosen = getRandomIntInclusive(0, possiblePositionsLength);
+			finalOrder[i] = possiblePositions[positionChosen];
+			// var temp = possiblePositions[finalOrder[i]];
+			console.log("position chosen: " + positionChosen + " value: " + finalOrder[i]);
+			possiblePositions[positionChosen] = possiblePositions[possiblePositionsLength];
+			console.log(possiblePositions);		
+			possiblePositionsLength--;
+		}
+
+		for (var i = 0; i < finalOrder.length; i++) {
+			if (finalOrder[i] == 1) {
+				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + goldSponsors[0] + extension);
+			} else if (finalOrder[i] == 2) {
+				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + mainSponsorsOne[getRandomIntInclusive(0, 3)] + extension);
+			} else if (finalOrder[i] == 3) {
+				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + mainSponsorsTwo[getRandomIntInclusive(0, 3)] + extension);
+			} else if (finalOrder[i] == 4) {
+				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + sponsorsOne[getRandomIntInclusive(0, sponsorsOne.length - 1)] + extension);
+			} else if (finalOrder[i] == 5) {
+				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + sponsorsTwo[getRandomIntInclusive(0, sponsorsTwo.length - 1)] + extension);
+			} else if (finalOrder[i] == 6) {
+				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + sponsorsThree[getRandomIntInclusive(0, sponsorsThree.length - 1)] + extension);
+			}
+		}
+	});
+</script>
+
+<div class="row sponsors">
 	<div class="col-md-12"><h2>Un ringraziamento agli Sponsor</h2></div>
-	<div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/loriblu.jpg"/></div>
-	<div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/il_gambero.jpg"/></div>
-	<div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/loriblu.jpg"/></div>
-	<div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/il_gambero.jpg"/></div>
-	<div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/loriblu.jpg"/></div>
-	<div class="col-md-2"><img src="{{ site.baseurl }}/assets/images/il_gambero.jpg"/></div>
-</div> -->
+	<div class="col-md-2"><img id="sponsor_1" src=""/></div>
+	<div class="col-md-2"><img id="sponsor_2" src=""/></div>
+	<div class="col-md-2"><img id="sponsor_3" src=""/></div>
+	<div class="col-md-2"><img id="sponsor_4" src=""/></div>
+	<div class="col-md-2"><img id="sponsor_5" src=""/></div>
+	<div class="col-md-2"><img id="sponsor_6" src=""/></div>
+</div>
 
 <div class="articles-list">
 {% for post in site.posts %}
