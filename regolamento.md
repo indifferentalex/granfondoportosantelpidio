@@ -58,7 +58,7 @@ La quota di iscrizione è pari ad: Euro 10,00 fino al 31 Dicembre 2016; Euro 20,
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pasta party all'arrivo, pacco regalo e assegnazione di dieci coupon per estrazione mega premio combinata Gran Prix Coste Fermane.
 
-Il Pacco Premio, può essere ritirato: il Venerdì 14 Aprile 2017 presso il Factory Store LORIBLU dalle ore 15.00 alle ore 19.00, il Sabato 15 Aprile 2017 presso il Factory Store LORIBLU dalle ore 9.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Lunedì 17 Aprile 2017 dalle ore 5.45 alle ore 7.30 presso il Ritrovo DIAMOND PALACE LORIBLU, e dalle ore 14.00 presso il Ristorante il Gambero in Via Mazzini 01 Porto Sant’Elpidio, qualora i partecipanti dovessero essere superiore ai cinquecento iscritti presso l'Ex Stadio Orfeo Serafini lungomare centro.
+Il Pacco Premio, può essere ritirato: il Venerdì 14 Aprile 2017 presso il Factory Store LORIBLU dalle ore 15.00 alle ore 19.00, il Sabato 15 Aprile 2017 presso il Factory Store LORIBLU dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Lunedì 17 Aprile 2017 dalle ore 5.45 alle ore 7.30 presso il Ritrovo DIAMOND PALACE LORIBLU, e dalle ore 14.00 presso il Ristorante il Gambero in Via Mazzini 01 Porto Sant’Elpidio, qualora i partecipanti dovessero essere superiore ai cinquecento iscritti presso l'Ex Stadio Orfeo Serafini lungomare centro.
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
@@ -74,7 +74,7 @@ In caso di annullamento della manifestazione causa forze maggiori la quota di pa
 
 Le iscrizioni on line si aprono il 01 Novembre 2016 e chiuderanno Venerdì 14 Aprile 2017 alle ore 20.00.
 
-Le iscrizioni con operatore sono aperte: Venerdì 14 Aprile 2017 dalle ore 15.00 alle ore 19.00 e Sabato 15 Aprile 2016, dalle ore 9.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso il Factory Store LORIBLU. Lunedì 17 Aprile 2017 dalle ore 5.45 alle ore 7.30 presso il Ritrovo Diamond Palace LORIBLU.
+Le iscrizioni con operatore sono aperte: Venerdì 14 Aprile 2017 dalle ore 15.00 alle ore 19.00 e Sabato 15 Aprile 2016, dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso il Factory Store LORIBLU. Lunedì 17 Aprile 2017 dalle ore 5.45 alle ore 7.30 presso il Ritrovo Diamond Palace LORIBLU.
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, card per il ritiro del pacco premio, card per il Pasta Party, lista premi ed informazioni sul percorso.
 

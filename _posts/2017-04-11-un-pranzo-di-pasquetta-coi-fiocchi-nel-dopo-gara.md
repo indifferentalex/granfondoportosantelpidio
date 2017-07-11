@@ -9,6 +9,8 @@ imagealt: "Cartolina della Granfondo Città di Porto Sant'Elpidio 2017, V Edizio
 
 # Granfondo Porto Sant’Elpidio, un pranzo di pasquetta coi fiocchi nel dopo gara!
 
+#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+
 ![Cartolina della Granfondo Città di Porto Sant'Elpidio 2017, V Edizione]({{ site.baseurl }}/assets/images/GF_Porto_SantElpidio_17apr2017_cartolina_piccola.jpg)
 
 La Granfondo Città di Porto Sant’Elpidio è la grande festa di Pasquetta: appuntamento a lunedì 17 aprile nella città elpidiense per un evento capace di creare sinergie e la forza di fare squadra tra gli organizzatori della Gio.Ca. Communications e il Comitato Promotore del Grande Ciclismo a Porto Sant’Elpidio, oltre alle istituzioni, in primis il comune di Porto Sant’Elpidio.

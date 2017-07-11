@@ -9,6 +9,8 @@ imagealt: "Petritoli comune della Granfondo Città di Porto Sant'Elpidio 2017, V
 
 # Petritoli, Monte Vidon Combatte e Ortezzano: pedalando tra i comuni della Granfondo Porto Sant’Elpidio
 
+#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+
 ![Petritoli comune della Granfondo Città di Porto Sant'Elpidio 2017, V Edizione]({{ site.baseurl }}/assets/images/Petritoli_panorama.jpg)
 
 Granfondo Porto Sant’Elpidio: quella di lunedì 17 aprile nel giorno di Pasquetta sarà la quinta edizione di un evento che regalerà una grande voglia di partecipare e di pedalare nel percorso unico di 134 chilometri tra le colline verdeggianti e le valli degradanti sui bacini dell’Aso e dell’Ete a un passo dai Monti Sibillini per un totale di 19 comuni attraversati nel Fermano (Porto San Giorgio, Lapedona, Moresco, Monterubbiano, Petritoli, Monte Vidon Combatte, Ortezzano, Monte Rinaldo, Montelparo, Monteleone di Fermo, Servigliano, Belmonte Piceno, Montottone, Monte Giberto, Ponzano di Fermo, Fermo, Monte Urano, Sant’Elpidio a Mare e Porto Sant’Elpidio) ed uno nella Provincia di Ascoli Piceno (Montalto delle Marche).

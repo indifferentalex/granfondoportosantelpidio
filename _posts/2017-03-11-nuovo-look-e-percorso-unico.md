@@ -9,6 +9,8 @@ imagealt: "L'altimetria della Granfondo Città di Porto Sant'Elpidio 2017, V Edi
 
 # Nuovo look e percorso unico per la Granfondo Città di Porto Sant’Elpidio del 17 aprile
 
+#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+
 ![L'altimetria della Granfondo Città di Porto Sant'Elpidio 2017, V Edizione]({{ site.baseurl }}/assets/images/GF_PSE_17_alt.jpg)
 
 La Granfondo Città di Porto Sant’Elpidio si prepara alla quinta edizione grazie a un’organizzazione da manuale messa in campo dal Gruppo Ciclistico Faleriense e dalla Gio.Ca Communications, in sintonia con l’amministrazione comunale elpidiense, con una formula che intende prima di tutto valorizza il territorio senza tralasciare il lato sportivo ed agonistico per un lunedì di Pasqua (17 aprile) tutto da trascorrere in sella a una bicicletta.

@@ -9,6 +9,8 @@ imagealt: "Monterubbiano, attraversato dalla Granfondo Città di Porto Sant'Elpi
 
 # Lapedona, Moresco e Monterubbiano: pedalando tra i comuni della Granfondo Porto Sant’Elpidio
 
+#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+
 ![Lapedona, attraversato dalla Granfondo Città di Porto Sant'Elpidio 2017, V Edizione]({{ site.baseurl }}/assets/images/Lapedona.jpg)
 
 La Granfondo Porto Sant’Elpidio rappresenta un classico di inizio stagione per coniugare alla perfezione il ciclismo con il turismo lento a primavera inoltrata ed è pronto ad andare in scena per la quinta volta lunedì 17 aprile nel giorno di Pasquetta.

@@ -9,6 +9,8 @@ imagealt: "Comitato organizzatore e tavolo d'onore"
 
 # Porto Sant’Elpidio: la granfondo, la bicicletta e il territorio
 
+#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+
 ![Comitato organizzatore e tavolo d'onore]({{ site.baseurl }}/assets/images/GF_PSElpidio_tavolo_d_onore.jpg)
 
 Il ciclismo a Porto Sant’Elpidio è una religione, uno sport che ha scritto la storia dei grandi campioni, continua ad appassionare la gente e a mostrare la bellezza di un territorio. Tutti questi elementi messi insieme danno la dimensione di questo sport che può essere praticato in tutti i mesi dell’anno.

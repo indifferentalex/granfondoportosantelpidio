@@ -9,6 +9,8 @@ imagealt: "Monte Rinaldo comune della Granfondo Città di Porto Sant'Elpidio 201
 
 # Granfondo Città di Porto Sant’Elpidio, meno di due settimane all’evento di Pasquetta
 
+#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+
 ![Cartolina della Granfondo Città di Porto Sant'Elpidio 2017, V Edizione]({{ site.baseurl }}/assets/images/GF_Porto_SantElpidio_17apr2017_cartolina_piccola.jpg)
 
 Un lunedì di Pasqua (17 aprile) tutto a due ruote quello che vede lo svolgimento della Granfondo Città di Porto Sant’Elpidio, il primo evento di richiamo del ciclismo nel territorio elpidiense della stagione 2017 che contempla il Meeting Nazionale dei Giovanissimi a giugno e la Granfondo della Marca Fermana ad ottobre con il Gruppo Ciclistico Faleriense e la Gio.Ca Communications a capo di un comitato organizzatore ad hoc nell’ambito di un’operazione di marketing territoriale che proietta Porto Sant’Elpidio e il territorio circostante ad assumere un ruolo di primissimo piano grazie al collaudato binomio tra il turismo e il ciclismo.
