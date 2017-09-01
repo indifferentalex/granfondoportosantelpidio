@@ -4,14 +4,14 @@ title: "Granfondo del Fermano: domenica 15 ottobre la seconda edizione"
 description: "Con l’autunno alle porte a Porto Sant’Elpidio inizia ufficialmente la marcia di avvicinamento verso la seconda edizione della Granfondo del Fermano a conclusione di una lunghissima stagione targata il Grande Ciclismo a Porto Sant'Elpidio che vede la Gio.Ca. Communications e l’amministrazione comunale di Porto Sant’Elpidio sempre in prima fila con il ciclismo."
 date: 2017-08-30 10:00:00 -0600
 image: https://s3.eu-central-1.amazonaws.com/giovanissimi/Granfondo+del+Fermano+15102017.jpg
-imagealt: "Monterubbiano, attraversato dalla Granfondo Città di Porto Sant'Elpidio 2017, V Edizione"
+imagealt: "La seconda edizione si terrà domenica 15 ottobre"
 ---
 
 # Granfondo del Fermano: domenica 15 ottobre la seconda edizione
 
 #### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
 
-![Lapedona, attraversato dalla Granfondo Città di Porto Sant'Elpidio 2017, V Edizione](https://s3.eu-central-1.amazonaws.com/giovanissimi/Granfondo+del+Fermano+15102017.jpg)
+![La seconda edizione si terrà domenica 15 ottobre](https://s3.eu-central-1.amazonaws.com/giovanissimi/Granfondo+del+Fermano+15102017.jpg)
 
 Con l’autunno alle porte a Porto Sant’Elpidio inizia ufficialmente la marcia di avvicinamento verso la seconda edizione della Granfondo del Fermano a conclusione di una lunghissima stagione targata il Grande Ciclismo a Porto Sant'Elpidio che vede la Gio.Ca. Communications e l’amministrazione comunale di Porto Sant’Elpidio sempre in prima fila con il ciclismo.
 
