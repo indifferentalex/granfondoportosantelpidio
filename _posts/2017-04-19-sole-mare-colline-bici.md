@@ -17,7 +17,7 @@ Una festa di Pasquetta coi fiocchi quella andata in scena a Porto Sant’Elpidio
 
 ![Partenza della Granfondo Città di Porto Sant'Elpidio al Diamond Palace Loriblu]({{ site.baseurl }}/assets/images/GF PSElpidio 17042017 partenza Loriblu.jpg)
 
-Una mattinata fredda e ventosa a fare da cornice alla partenza dal “Diamante” di Loriblu e poi il sole ha alimentato l’ardore agonistico e lo spettacolo tra le salite, gli strappi, le curve e le discese sui 134 chilometri del tracciato coinvolgendo i 19 comuni del Fermano (Porto San Giorgio, Lapedona, Moresco, Monterubbiano, Petritoli, Monte Vidon Combatte, Ortezzano, Monte Rinaldo, Montelparo, Monteleone di Fermo, Servigliano, Belmonte Piceno, Montottone, Monte Giberto, Ponzano di Fermo, Fermo, Monte Urano, Sant’Elpidio a Mare e Porto Sant’Elpidio) ed uno nella provincia di Ascoli Piceno (Montalto delle Marche).
+Una mattinata fredda e ventosa a fare da cornice alla partenza dal “Diamante” di Loriblu e poi il sole ha alimentato l’ardore agonistico e lo spettacolo tra le salite, gli strappi, le curve e le discese sui 134 chilometri del tracciato coinvolgendo i 19 comuni Marca Fermana (Porto San Giorgio, Lapedona, Moresco, Monterubbiano, Petritoli, Monte Vidon Combatte, Ortezzano, Monte Rinaldo, Montelparo, Monteleone di Fermo, Servigliano, Belmonte Piceno, Montottone, Monte Giberto, Ponzano di Fermo, Fermo, Monte Urano, Sant’Elpidio a Mare e Porto Sant’Elpidio) ed uno nella provincia di Ascoli Piceno (Montalto delle Marche).
 
 Dopo una lunga battaglia che ha visto una quindicina di corridori al comando della corsa, Igor Zanetti (Scott Team Granfondo) e Cristian Barchi (Cannondale Gobbi Fsa) hanno preso coraggio e fatto la differenza per mettere nel mirino il traguardo.
 

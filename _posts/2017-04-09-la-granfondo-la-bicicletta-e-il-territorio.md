@@ -25,7 +25,7 @@ Nell’elegante cornice dello showroom dell’azienda Loriblu, a dare lustro all
 
 # IL PERCORSO
 
-Il tracciato è il punto di forza della manifestazione: nel raggio di 50 chilometri si passa dal Mare Adriatico ai piedi dei Monti Sibillini, attraverso i fondovalle e le colline, perfetti per gli amanti della biciletta, toccando strade lontane dal grande traffico e luoghi incontaminati. Nuovo look quest’anno con la distanza unica agonistica di 134 chilometri attraversando ben 19 comuni del Fermano (Porto San Giorgio, Lapedona, Moresco, Monterubbiano, Petritoli, Monte Vidon Combatte, Ortezzano, Monte Rinaldo, Montelparo, Monteleone di Fermo, Servigliano, Belmonte Piceno, Montottone, Monte Giberto, Ponzano di Fermo, Fermo, Monte Urano, Sant’Elpidio a Mare e Porto Sant’Elpidio) ed uno della Provincia di Ascoli Piceno (Montalto delle Marche).
+Il tracciato è il punto di forza della manifestazione: nel raggio di 50 chilometri si passa dal Mare Adriatico ai piedi dei Monti Sibillini, attraverso i fondovalle e le colline, perfetti per gli amanti della biciletta, toccando strade lontane dal grande traffico e luoghi incontaminati. Nuovo look quest’anno con la distanza unica agonistica di 134 chilometri attraversando ben 19 comuni Marca Fermana (Porto San Giorgio, Lapedona, Moresco, Monterubbiano, Petritoli, Monte Vidon Combatte, Ortezzano, Monte Rinaldo, Montelparo, Monteleone di Fermo, Servigliano, Belmonte Piceno, Montottone, Monte Giberto, Ponzano di Fermo, Fermo, Monte Urano, Sant’Elpidio a Mare e Porto Sant’Elpidio) ed uno della Provincia di Ascoli Piceno (Montalto delle Marche).
 
 # DAL KURDISTAN A PORTO SANT’ELPIDIO
 

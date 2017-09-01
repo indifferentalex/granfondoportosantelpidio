@@ -54,7 +54,7 @@ Chi utilizza la "partenza alla francese" dovrà procedere lungo il percorso di g
 
 ## 4. Quota di partecipazione
 
-La quota di iscrizione è pari ad: Euro 10,00 fino al 31 Dicembre 2016; Euro 20,00 fino al 28 Febbraio 2017; Euro 30 fino al 17 Aprile 2017. Chi si iscriverà contemporaneamente anche per la II Gran Fondo Marca Fermana la quota d’iscrizione è pari ad: Euro 15,00 fino al 31 Dicembre 2016; Euro 25,00 fino al 30 Marzo 2017; Euro 45,00 fino al 17 Aprile 2017. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
+La quota di iscrizione è pari ad: Euro 10,00 fino al 31 Dicembre 2016; Euro 20,00 fino al 28 Febbraio 2017; Euro 30 fino al 17 Aprile 2017. Chi si iscriverà contemporaneamente anche per la II Gran Fondo del Fermano la quota d’iscrizione è pari ad: Euro 15,00 fino al 31 Dicembre 2016; Euro 25,00 fino al 30 Marzo 2017; Euro 45,00 fino al 17 Aprile 2017. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pasta party all'arrivo, pacco regalo e assegnazione di dieci coupon per estrazione mega premio combinata Gran Prix Coste Fermane.
 

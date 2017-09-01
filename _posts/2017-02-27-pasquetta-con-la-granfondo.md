@@ -19,7 +19,7 @@ Non si ferma la macchina organizzativa della Granfondo Porto Sant’Elpidio in d
 
 È stato confermato il percorso dello scorso anno con il classico incolonnamento davanti al Diamond Palace Loriblu. Nei primi 102 chilometri, comuni ad entrambi i percorsi, la velocità sarà assistita per una media di 30 km/h, mentre i restanti 51,6 chilometri saranno a velocità libera per la granfondo ed i restanti 36,1 chilometri saranno nella stessa maniera per la mediofondo.
 
-Nei due percorsi saranno attraversati 19 comuni del Fermano (Porto San Giorgio, Lapedona, Moresco, Monterubbiano, Petritoli, Monte Vidon Combatte, Ortezzano, Monte Rinaldo, Montelparo, Monteleone di Fermo, Servigliano, Belmonte Piceno, Montottone, Monte Giberto, Ponzano di Fermo, Fermo, Monte Urano, Sant’Elpidio a Mare e Porto Sant’Elpidio) ed uno della Provincia di Ascoli (Montalto delle Marche).
+Nei due percorsi saranno attraversati 19 comuni Marca Fermana (Porto San Giorgio, Lapedona, Moresco, Monterubbiano, Petritoli, Monte Vidon Combatte, Ortezzano, Monte Rinaldo, Montelparo, Monteleone di Fermo, Servigliano, Belmonte Piceno, Montottone, Monte Giberto, Ponzano di Fermo, Fermo, Monte Urano, Sant’Elpidio a Mare e Porto Sant’Elpidio) ed uno della Provincia di Ascoli (Montalto delle Marche).
 
 ![La planimetria della Granfondo Città di Porto Sant'Elpidio 2017]({{ site.baseurl }}/assets/images/GF_PSE_17_plan.jpg)
 

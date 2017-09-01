@@ -321,7 +321,7 @@ button.navbar-toggle {
 }
 
 li.dropdown.open ul.dropdown-menu {
-	width: 200px;
+	width: auto;
 	left: -10px;
 	text-align: center;
 }

@@ -15,7 +15,7 @@ imagealt: "Monterubbiano, attraversato dalla Granfondo Città di Porto Sant'Elpi
 
 La Granfondo Porto Sant’Elpidio rappresenta un classico di inizio stagione per coniugare alla perfezione il ciclismo con il turismo lento a primavera inoltrata ed è pronto ad andare in scena per la quinta volta lunedì 17 aprile nel giorno di Pasquetta.
 
-I percorsi di 152 e 131 chilometri, con i primi 102 a velocità assistita, coinvolgono 19 comuni del Fermano ed uno della provincia di Ascoli Piceno per un’ampia offerta turistica agli occhi dei partecipanti e dei rispettivi familiari ed accompagnatori.
+I percorsi di 152 e 131 chilometri, con i primi 102 a velocità assistita, coinvolgono 19 comuni Marca Fermana ed uno della provincia di Ascoli Piceno per un’ampia offerta turistica agli occhi dei partecipanti e dei rispettivi familiari ed accompagnatori.
 
 Dopo il via da Porto Sant’Elpidio (Loriblu), il passaggio sulla riviera tra Porto San Giorgio e Marina Palmense, si transita al chilometro 11 nel territorio di Lapedona, comune che si estende tra Fermo e il fiume Aso a poca distanza dal mare, porta tracce, come tutta l’area picena, della colonizzazione e quindi della civiltà romana. Forse la testimonianza più ragguardevole di ciò è espressa dal cippo funerario di un magistrato locale conservato sotto il loggiato comunale.
 
