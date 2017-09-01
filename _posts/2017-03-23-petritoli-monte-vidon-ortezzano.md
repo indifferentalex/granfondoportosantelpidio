@@ -41,7 +41,7 @@ Le vicende  storiche  di  Ortezzano seguirono  quelle  del  fermano  e  quelle  
 
 La fertilità della valle e del territorio collinare permette di ottenere una pregiata coltivazione ortofrutticola. Numerosi sono i laboratori artigianali a conduzione famigliare che si caratterizzano per la specificità dei prodotti: la lavorazione di carni suine, la produzione di olio e uva che le cantine locali trasformano in olio e vino di qualità come il Falerio e il Rosso Piceno.
 
-La quota di iscrizione è pari a 30 euro fino al 17 aprile. Chi si iscriverà contemporaneamente anche per la Granfondo Marca Fermana (domenica 1 ottobre) la quota d’iscrizione è pari a 25 euro fino al 30 marzo, 45 euro fino al 17 aprile. Le iscrizioni possono essere effettuate attraverso KronoService o anche su www.granfondocittadiportosantelpidio.it.
+La quota di iscrizione è pari a 30 euro fino al 17 aprile. Chi si iscriverà contemporaneamente anche per la Granfondo Marca Fermana (domenica 15 ottobre) la quota d’iscrizione è pari a 25 euro fino al 30 marzo, 45 euro fino al 17 aprile. Le iscrizioni possono essere effettuate attraverso KronoService o anche su www.granfondocittadiportosantelpidio.it.
 
 Per gruppi superiori a 10 atleti si applica uno sconto del 20% e per i partecipanti “partenza alla Francese” 10 euro (nel modulo d’iscrizione va specificata la dicitura “partenza alla francese”).
 

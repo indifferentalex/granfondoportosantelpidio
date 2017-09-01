@@ -23,7 +23,7 @@ Il nuovo tracciato misura 134,3 chilometri ed attraversa molti scorci suggestivi
 
 ![La planimetria della Granfondo Città di Porto Sant'Elpidio 2017, V Edizione]({{ site.baseurl }}/assets/images/GF_PSE_17_plan.jpg)
 
-La quota di iscrizione è pari a 30 euro fino al 17 aprile. Chi si iscriverà contemporaneamente anche per la Gran Fondo Marca Fermana (domenica 1 ottobre) la quota d’iscrizione è pari 25 euro fino al 30 marzo, 45 euro fino al 17 aprile. Le iscrizioni possono essere effettuate attraverso KronoService o anche su www.granfondocittadiportosantelpidio.it.
+La quota di iscrizione è pari a 30 euro fino al 17 aprile. Chi si iscriverà contemporaneamente anche per la Gran Fondo Marca Fermana (domenica 15 ottobre) la quota d’iscrizione è pari 25 euro fino al 30 marzo, 45 euro fino al 17 aprile. Le iscrizioni possono essere effettuate attraverso KronoService o anche su www.granfondocittadiportosantelpidio.it.
 
 Per gruppi superiori a 10 atleti si applica uno sconto del 20% e per i partecipanti “partenza alla Francese” 10 euro (nel modulo d’iscrizione va specificata la dicitura “partenza alla francese”).
 

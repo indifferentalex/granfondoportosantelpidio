@@ -33,7 +33,7 @@ Al chilometro 31,5 si trova Rubbianello, frazione più grande del comune di Mont
 
 Da visitare è anche il nuovo Polo Culturale San Francesco, una struttura polivalente che comprende: un Auditorium (chiesa sconsacrata del XIII secolo), un Museo Storico Archeologico, una biblioteca, una sala espositiva, un centro di educazione ambientale ed un orto botanico.
 
-La quota di iscrizione è pari a 30 euro fino al 17 aprile. Chi si iscriverà contemporaneamente anche per la Gran Fondo Marca Fermana (domenica 1 ottobre) la quota d’iscrizione è pari 25 euro fino al 30 marzo, 45 euro fino al 17 aprile. Le iscrizioni possono essere effettuate attraverso KronoService o anche su www.granfondocittadiportosantelpidio.it.
+La quota di iscrizione è pari a 30 euro fino al 17 aprile. Chi si iscriverà contemporaneamente anche per la Gran Fondo Marca Fermana (domenica 15 ottobre) la quota d’iscrizione è pari 25 euro fino al 30 marzo, 45 euro fino al 17 aprile. Le iscrizioni possono essere effettuate attraverso KronoService o anche su www.granfondocittadiportosantelpidio.it.
 
 Per gruppi superiori a 10 atleti si applica uno sconto del 20% e per i partecipanti “partenza alla Francese” 10 euro (nel modulo d’iscrizione va specificata la dicitura “partenza alla francese”).
 
