@@ -1,14 +1,14 @@
 ---
 layout: article_no_sponsor
-title: Il regolamento della Gran Fondo del Fermano 2017
-permalink: /regolamento/
+title: Il regolamento della Granfondo Città di Porto Sant'Elpidio 2017
+permalink: /regolamento_pse/
 ---
 
 # Il regolamento
 
-La II Gran Fondo del Fermano partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
+La V Gran Fondo Internazionale Città di Porto Sant’Elpidio partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
-La Gran Fondo del Fermano è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2017, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
+La Gran Fondo Internazionale Città di Porto Sant’Elpidio è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2017, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
 
 Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2017, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 15,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
 
@@ -32,17 +32,17 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-**Domenica 15 Ottobre 2017 dalle ore 6.30 alle ore 8.15, con Partenza alle ore 8:30, in luogo da definire.**
+**Lunedì 17 Aprile 2017 dalle ore 5.45 alle ore 7.30, con Partenza alle ore 7.45, presso il Diamond Palace LORIBLU - Via dell’Economia.** (Uscita A14, subito a destra, dopo 300mt).
 
 ## 2. Tipo di partenza
 
-La partenza per la Gran Fondo si effettuerà tutti insieme, i primi 62,8 km saranno non agonistici, la velocità sarà assistita per una media di km/h 30,00. I restanti 66,5 km saranno agonistici velocità libera. Per il tratto agonistico velocità libera il via sarà volante.
+La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento davanti al Diamond Palace LORIBLU e i primi 26,00 km saranno non agonistici, la velocità sarà assistita per una media di kmh 30,00. I restanti 108,300 km saranno agonistici velocità libera. Per il tratto agonistico velocità libera il via sarà volante.
 
 ## 3. Partenza alla Francese
 
-Oltre alla normale procedura di partenza in gruppo prevista per le ore 8:30, viene inserita anche la possibilità, per chi lo desiderasse, di poter partire con la modalità definita "alla francese".
+Oltre alla normale procedura di partenza in gruppo prevista per le ore 7.45, viene inserita anche la possibilità, per chi lo desiderasse, di poter partire con la modalità definita "alla francese".
 
-La "partenza alla francese" sarà possibile dalle ore 7.30 e fino alle ore 8.15.
+La "partenza alla francese" sarà possibile dalle ore 6.30 e fino alle ore 7.15.
 
 È comunque obbligatorio l'uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta (di colore diverso dagli altri). La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di www.kronoservice.com posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso lungo. 
 
@@ -54,13 +54,11 @@ Chi utilizza la "partenza alla francese" dovrà procedere lungo il percorso di g
 
 ## 4. Quota di partecipazione
 
-La quota di iscrizione è pari ad Euro 30,00, per gruppi superiori a 10 atleti Euro 25,00
-e per i partecipanti “partenza alla Francese” euro 20,00 (nel modulo d’iscrizione va
-specificato “partenza alla francese”)
+La quota di iscrizione è pari ad: Euro 10,00 fino al 31 Dicembre 2016; Euro 20,00 fino al 28 Febbraio 2017; Euro 30 fino al 17 Aprile 2017. Chi si iscriverà contemporaneamente anche per la II Gran Fondo del Fermano la quota d’iscrizione è pari ad: Euro 15,00 fino al 31 Dicembre 2016; Euro 25,00 fino al 30 Marzo 2017; Euro 45,00 fino al 17 Aprile 2017. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pasta party all'arrivo, pacco regalo e assegnazione di dieci coupon per estrazione mega premio combinata Gran Prix Coste Fermane.
 
-Il Pacco Premio, può essere ritirato: il Venerdì 13 Ottobre 2017 presso il Factory Store LORIBLU dalle ore 15.00 alle ore 19.00, il Sabato 14 Ottobre 2017 presso il Factory Store LORIBLU dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Lunedì 16 Ottobre 2017 dalle ore 5.45 alle ore 7.30 presso il Ritrovo DIAMOND PALACE LORIBLU, e dalle ore 14.00 presso il Ristorante il Gambero in Via Mazzini 01 Porto Sant’Elpidio, qualora i partecipanti dovessero essere superiore ai cinquecento iscritti presso l'Ex Stadio Orfeo Serafini lungomare centro.
+Il Pacco Premio, può essere ritirato: il Venerdì 14 Aprile 2017 presso il Factory Store LORIBLU dalle ore 15.00 alle ore 19.00, il Sabato 15 Aprile 2017 presso il Factory Store LORIBLU dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Lunedì 17 Aprile 2017 dalle ore 5.45 alle ore 7.30 presso il Ritrovo DIAMOND PALACE LORIBLU, e dalle ore 14.00 presso il Ristorante il Gambero in Via Mazzini 01 Porto Sant’Elpidio, qualora i partecipanti dovessero essere superiore ai cinquecento iscritti presso l'Ex Stadio Orfeo Serafini lungomare centro.
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
@@ -74,9 +72,9 @@ In caso di annullamento della manifestazione causa forze maggiori la quota di pa
 
 ## 5. Apertura e Chiusura iscrizioni
 
-Le iscrizioni on line si aprono il 01 Novembre 2016 e chiuderanno Venerdì 13 Ottobre 2017 alle ore 20.00.
+Le iscrizioni on line si aprono il 01 Novembre 2016 e chiuderanno Venerdì 14 Aprile 2017 alle ore 20.00.
 
-Le iscrizioni con operatore sono aperte: Venerdì 13 Ottobre 2017 dalle ore 15.00 alle ore 19.00 e Sabato 14 Ottobre 2016, dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso il Factory Store LORIBLU. Lunedì 16 Ottobre 2017 dalle ore 5.45 alle ore 7.30 presso il Ritrovo Diamond Palace LORIBLU.
+Le iscrizioni con operatore sono aperte: Venerdì 14 Aprile 2017 dalle ore 15.00 alle ore 19.00 e Sabato 15 Aprile 2016, dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso il Factory Store LORIBLU. Lunedì 17 Aprile 2017 dalle ore 5.45 alle ore 7.30 presso il Ritrovo Diamond Palace LORIBLU.
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, card per il ritiro del pacco premio, card per il Pasta Party, lista premi ed informazioni sul percorso.
 
@@ -91,9 +89,9 @@ Per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito
 
 ## 8. Chilometri totali percorso
 
-**Gran Fondo - Percorso velocità assistita Km. 62,8 - Percorso agonistico velocità libera Km. 66,5. Totale km 129,3.**
+**Gran Fondo - Percorso velocità assistita Km. 26,000 - Percorso agonistico velocità libera Km. 108,300. Totale km 134,300.**
 
-**Partenza alla francese – velocità libera km. 129,3.**
+**Partenza alla francese – velocità libera km. 134,300.**
 
 ## 9. Categorie e Classifiche individuali
 
@@ -147,7 +145,7 @@ I ciclisti che vengono superati dal mezzo "Fine Gara Ciclistica" devono rigorosa
 
 ## 17. Norme
 
-Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L'A.S.D. Gruppo Ciclistico Faleriense come società titolare della Gran Fondo del Fermano declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell'auto di fine manifestazione ciclistica, saranno segnalati all'autorità competente che attuerà le relative azioni.
+Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L'A.S.D. Gruppo Ciclistico Faleriense come società titolare della Gran Fondo Internazionale Città di Porto Sant’Elpidio declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell'auto di fine manifestazione ciclistica, saranno segnalati all'autorità competente che attuerà le relative azioni.
 
 ## 18. Giuria
 
