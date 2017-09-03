@@ -32,57 +32,55 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-**Domenica 15 Ottobre 2017 dalle ore 6.30 alle ore 8.15, con Partenza alle ore 8:30, in luogo da definire.**
+Domenica 15 Ottobre 2017 dalle ore 6.30 alle ore 8.00, con Partenza alle ore 8.30, presso Piazza Risorgimento via XX Settembre - Porto Sant’Elpidio sud (Uscita A14, subito a sinistra, altra rotonda a sinistra, direzione centro).
 
 ## 2. Tipo di partenza
 
-La partenza per la Gran Fondo si effettuerà tutti insieme, i primi 62,8 km saranno non agonistici, la velocità sarà assistita per una media di km/h 30,00. I restanti 66,5 km saranno agonistici velocità libera. Per il tratto agonistico velocità libera il via sarà volante.
+La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento in Piazza Risorgimento Porto Sant’Elpidio sud e i primi 62,800 km saranno non agonistici, la velocità sarà assistita per una media di kmh 30,00. I restanti 66,500 km saranno agonistici velocità libera. Per il tratto agonistico velocità libera il via sarà volante.
 
 ## 3. Partenza alla Francese
 
-Oltre alla normale procedura di partenza in gruppo prevista per le ore 8:30, viene inserita anche la possibilità, per chi lo desiderasse, di poter partire con la modalità definita "alla francese".
+Oltre alla normale procedura di partenza in gruppo prevista per le ore 8.30, viene inserita anche la possibilità, per chi lo desiderasse, di poter partire con la modalità definita “alla francese”.
 
-La "partenza alla francese" sarà possibile dalle ore 7.30 e fino alle ore 8.15.
+La “partenza alla francese” sarà possibile dalle ore 7.00 e fino alle ore 8.00.
 
-È comunque obbligatorio l'uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta (di colore diverso dagli altri). La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di www.kronoservice.com posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso lungo. 
+È comunque obbligatorio l’uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta. La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di www.kronoservice.com posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso.
 
-Con la "partenza alla francese" è lo stesso della Gran Fondo con le indicazioni di colore giallo.
+Con la “partenza alla francese” la segnaletica è la stessa della Gran Fondo con le indicazioni di colore giallo.
 
-E’ obbligatorio rispettare il Codice della Strada prestando particolare attenzione agli incroci che non saranno ancora presidiati dal personale della organizzazione e non muniti da apri corsa e fine corsa. 
+E’ obbligatorio rispettare il Codice della Strada prestando particolare attenzione agli incroci che non saranno ancora presidiati dal personale della organizzazione e non muniti da apri corsa e fine corsa.
 
-Chi utilizza la "partenza alla francese" dovrà procedere lungo il percorso di gara senza interferire né condizionare lo svolgimento della gara agonistica lasciandosi superare agevolmente dalla testa della corsa. Coloro che fossero sorpresi con atteggiamenti scorretti verranno esclusi dalle classifiche unitamente agli altri eventuali concorrenti coinvolti e compiacenti.
+Chi utilizza la “partenza alla francese” dovrà procedere lungo il percorso di gara senza interferire né condizionare lo svolgimento della gara agonistica lasciandosi superare agevolmente dalla testa della corsa. Coloro che fossero sorpresi con atteggiamenti scorretti verranno esclusi dalle classifiche unitamente agli altri eventuali concorrenti coinvolti e compiacenti.
 
 ## 4. Quota di partecipazione
 
-La quota di iscrizione è pari ad Euro 30,00, per gruppi superiori a 10 atleti Euro 25,00
-e per i partecipanti “partenza alla Francese” euro 20,00 (nel modulo d’iscrizione va
-specificato “partenza alla francese”)
+La quota di iscrizione è pari ad Euro 25,00. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
-Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pasta party all'arrivo, pacco regalo e assegnazione di dieci coupon per estrazione mega premio combinata Gran Prix Coste Fermane.
+Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pasta party all’arrivo, pacco regalo.
 
-Il Pacco Premio, può essere ritirato: il Venerdì 13 Ottobre 2017 presso il Factory Store LORIBLU dalle ore 15.00 alle ore 19.00, il Sabato 14 Ottobre 2017 presso il Factory Store LORIBLU dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Lunedì 16 Ottobre 2017 dalle ore 5.45 alle ore 7.30 presso il Ritrovo DIAMOND PALACE LORIBLU, e dalle ore 14.00 presso il Ristorante il Gambero in Via Mazzini 01 Porto Sant’Elpidio, qualora i partecipanti dovessero essere superiore ai cinquecento iscritti presso l'Ex Stadio Orfeo Serafini lungomare centro.
+Il Pacco Premio, può essere ritirato: il Sabato 14 Ottobre 2017 presso l’E Bike Store Tutticampioni in via XX Settembre 23 dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Domenica 15 Ottobre dalle 6.30 alle ore 8.00 presso il Ritrovo Piazza Risorgimento in via XX Settembre, e dalle ore 14.00 presso il Santuario della Corva.
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
-Finita la gara tutti gli iscritti hanno il diritto al pranzo: Pasta Party, che si svolgerà presso l'Ex Stadio Orfeo Serafini lungomare centro di Porto Sant’Elpidio dalle ore 12.15. Famigliari ed accompagnatori possono partecipare al Pasta Party acquistando il buono pasto ad Euro 10,00.
+Finita la gara tutti gli iscritti hanno il diritto al pranzo: Pasta Party, che si svolgerà presso il Santuario Madonna della Corva dalle ore 12.15. Famigliari ed accompagnatori possono partecipare al Pasta Party acquistando il buono pasto ad Euro 10,00.
 
-Per tutti gli iscritti attivo il servizio docce presso Palestra Comunale, Scuola Media G. Galilei, chiaramente segnalato con frecce azzurre.
+Per tutti gli iscritti attivo il servizio docce presso Palestra Comunale, Scuola Media G. Galilei, chiaramente segnalato con frecce.
 
-Non saranno accettate sostituzioni il giorno della gara.
- In caso di mancata partecipazione la quota d'iscrizione versata non sarà restituita.
-In caso di annullamento della manifestazione causa forze maggiori la quota di partecipazione non verrà restituita.
+Non saranno accettate sostituzioni il giorno della gara. In caso di mancata partecipazione la quota d’iscrizione versata non sarà restituita. In caso di
+
+annullamento della manifestazione causa forze maggiori la quota di partecipazione non verrà restituita.
 
 ## 5. Apertura e Chiusura iscrizioni
 
-Le iscrizioni on line si aprono il 01 Novembre 2016 e chiuderanno Venerdì 13 Ottobre 2017 alle ore 20.00.
+Le iscrizioni on line si aprono il 01 Settembre 2017 e chiuderanno Venerdì 13 Ottobre 2017 alle ore 20.00.
 
-Le iscrizioni con operatore sono aperte: Venerdì 13 Ottobre 2017 dalle ore 15.00 alle ore 19.00 e Sabato 14 Ottobre 2016, dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso il Factory Store LORIBLU. Lunedì 16 Ottobre 2017 dalle ore 5.45 alle ore 7.30 presso il Ritrovo Diamond Palace LORIBLU.
+Le iscrizioni con operatore sono aperte: Sabato 14 Ottobre 2017 dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso E Bike Store Tutticampioni via XX Settembre 23. Domenica 15 Ottobre 2017 dalle ore 6.30 alle ore 8.00 presso il Ritrovo in Piazza Risorgimento via XX Settembre.
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, card per il ritiro del pacco premio, card per il Pasta Party, lista premi ed informazioni sul percorso.
 
 ## 6. Iscrizioni individuali e collettive e Modalità di pagamento
 
-Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l'elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d'iscrizione occorre effettuare il pagamento della quota d'iscrizione nei giorni di Venerdì, Sabato e Lunedì all’operatore, oppure attraverso bonifico bancario per Iscrizioni on line. Vedi sul sito voce "Iscrizioni", oppure attraverso il sito di www.kronoservice.com
+Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Sabato e Domenica all’operatore, oppure attraverso bonifico bancario per Iscrizioni on line. Vedi sul sito voce “Iscrizioni”, oppure attraverso il sito di www.kronoservice.com
 
 ## 7. Controlli e Cronometraggio
 
@@ -91,25 +89,25 @@ Per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito
 
 ## 8. Chilometri totali percorso
 
-**Gran Fondo - Percorso velocità assistita Km. 62,8 - Percorso agonistico velocità libera Km. 66,5. Totale km 129,3.**
+Gran Fondo - Percorso velocità assistita Km. 62,800 - Percorso agonistico velocità libera Km. 66,500. Totale km 129,300.
 
-**Partenza alla francese – velocità libera km. 129,3.**
+Partenza alla francese – velocità libera km. 129,300.
 
 ## 9. Categorie e Classifiche individuali
 
-È responsabilità dei singoli partecipanti controllare l'esattezza dei propri dati pubblicati nella lista ufficiale degli iscritti. Non saranno accettate richieste di diversa assegnazione dopo la gara. Categorie della Gran Fondo sono:
+È responsabilità dei singoli partecipanti controllare l’esattezza dei propri dati pubblicati nella lista ufficiale degli iscritti. Non saranno accettate richieste di diversa assegnazione dopo la gara. Categorie della Gran Fondo sono:
 
-* Junior Sport, Elite Sport, Master 1, Master 2, Master 3, Master 4, Master 5, Master 6, Master 7/8.
+Junior Sport, Elite Sport, Master 1, Master 2, Master 3, Master 4, Master 5, Master 6, Master 7/8.
 
-* Junior Women Sport, Elite Women Sport, Master Women Sport 1, Master Women 2.
+Junior Women Sport, Elite Women Sport, Master Women Sport 1, Master Women 2.
 
-* Ciclo Sportivo – La medio fondo del ciclo sportivo termina al primo passaggio sotto lo striscione d’arrivo, esattamente al km 119,600.
+Ciclo Sportivo.
 
-* Comunque tutte le categorie riconosciute dalla Federazione Ciclistica Italiana.
+Comunque tutte le categorie riconosciute dalla Federazione Ciclistica Italiana.
 
-**Saranno premiati i primi 3 assoluti uomini e donne e premi al primo arrivato di tutte le categorie. Nella busta tecnica ci sarà elenco premi.**
+Saranno premiati i primi 3 assoluti uomini e donne e premi ai primi tre arrivati di tutte le categorie. Nella busta tecnica ci sarà elenco premi.
 
-Le classifiche assolute e di categoria saranno redatte sulla base dell'ordine d'arrivo e dei tempi rilevati con il sistema Winnigtime®, Fotofinish e Giudici di Gara.
+Le classifiche assolute e di categoria saranno redatte sulla base dell’ordine d’arrivo e dei tempi rilevati con il sistema Winnigtime®, Fotofinish e Giudici di Gara.
 
 ## 10. Classifica generale per società
 
@@ -147,7 +145,7 @@ I ciclisti che vengono superati dal mezzo "Fine Gara Ciclistica" devono rigorosa
 
 ## 17. Norme
 
-Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L'A.S.D. Gruppo Ciclistico Faleriense come società titolare della Gran Fondo del Fermano declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell'auto di fine manifestazione ciclistica, saranno segnalati all'autorità competente che attuerà le relative azioni.
+Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L’A.S.D. Gruppo Ciclistico Faleriense come società titolare della Gran Fondo Internazionale Città di Porto Sant’Elpidio declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell’auto di fine manifestazione ciclistica, saranno segnalati all’autorità competente che attuerà le relative azioni.
 
 ## 18. Giuria
 
