@@ -836,3 +836,7 @@ p.image-alt-text {
 	top: 0px;
 	left: 0px;
 }
+
+.row.editions-images img {
+	margin-bottom: 24px;
+}
