@@ -52,6 +52,8 @@ E’ obbligatorio rispettare il Codice della Strada prestando particolare attenz
 
 Chi utilizza la “partenza alla francese” dovrà procedere lungo il percorso di gara senza interferire né condizionare lo svolgimento della gara agonistica lasciandosi superare agevolmente dalla testa della corsa. Coloro che fossero sorpresi con atteggiamenti scorretti verranno esclusi dalle classifiche unitamente agli altri eventuali concorrenti coinvolti e compiacenti.
 
+<a name="apertura-e-chiusura-inscrizioni"></a>
+
 ## 4. Quota di partecipazione
 
 La quota di iscrizione è pari ad Euro 25,00. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).

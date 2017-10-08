@@ -831,6 +831,10 @@ p.image-alt-text {
 	background: #fff;
 }
 
+.home-page-information img {
+	margin-top: 36px;
+}
+
 .home-banner-image {
 	position: absolute;
 	top: 0px;
