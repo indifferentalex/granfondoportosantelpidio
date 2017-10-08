@@ -1,20 +1,21 @@
 ---
 layout: article_no_sponsor
-title: Il regolamento della Granfondo Città di Porto Sant'Elpidio 2017
+title: Il regolamento della Granfondo Città di Porto Sant'Elpidio 2018
 permalink: /regolamento_pse/
+logo: logo_gfpse
 ---
 
 # Il regolamento
 
-La V Gran Fondo Internazionale Città di Porto Sant’Elpidio partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
+La VI Gran Fondo Internazionale Città di Porto Sant’Elpidio partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
-La Gran Fondo Internazionale Città di Porto Sant’Elpidio è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2017, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
+La Gran Fondo Internazionale Città di Porto Sant’Elpidio è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2018, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
 
-Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2017, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 15,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
+Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2018, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 15,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
 
 Il Comitato Organizzatore potrà in ogni momento ed a suo insindacabile giudizio decidere se accettare o meno l’iscrizione oppure escludere un iscritto dalla manifestazione, qualora arrecasse danno alla immagine della stessa.
 
-Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l'anno 2017 e:
+Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l'anno 2018 e:
 
 * di avere preso visione del regolamento e di accettarlo integralmente
 
@@ -32,7 +33,7 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-**Lunedì 17 Aprile 2017 dalle ore 5.45 alle ore 7.30, con Partenza alle ore 7.45, presso il Diamond Palace LORIBLU - Via dell’Economia.** (Uscita A14, subito a destra, dopo 300mt).
+**Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30, con Partenza alle ore 7.45, presso il Diamond Palace LORIBLU - Via dell’Economia.** (Uscita A14, subito a destra, dopo 300mt).
 
 ## 2. Tipo di partenza
 
@@ -54,11 +55,11 @@ Chi utilizza la "partenza alla francese" dovrà procedere lungo il percorso di g
 
 ## 4. Quota di partecipazione
 
-La quota di iscrizione è pari ad: Euro 10,00 fino al 31 Dicembre 2016; Euro 20,00 fino al 28 Febbraio 2017; Euro 30 fino al 17 Aprile 2017. Chi si iscriverà contemporaneamente anche per la II Gran Fondo del Fermano la quota d’iscrizione è pari ad: Euro 15,00 fino al 31 Dicembre 2016; Euro 25,00 fino al 30 Marzo 2017; Euro 45,00 fino al 17 Aprile 2017. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
+La quota di iscrizione è pari ad: Euro 10,00 fino al 31 Dicembre 2017; Euro 20,00 fino al 28 Febbraio 2018; Euro 30 fino al 2 Aprile 2018. Chi si iscriverà contemporaneamente anche per la II Gran Fondo del Fermano la quota d’iscrizione è pari ad: Euro 15,00 fino al 31 Dicembre 2017; Euro 25,00 fino al 30 Marzo 2018; Euro 45,00 fino al 2 Aprile 2018. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pasta party all'arrivo, pacco regalo e assegnazione di dieci coupon per estrazione mega premio combinata Gran Prix Coste Fermane.
 
-Il Pacco Premio, può essere ritirato: il Venerdì 14 Aprile 2017 presso il Factory Store LORIBLU dalle ore 15.00 alle ore 19.00, il Sabato 15 Aprile 2017 presso il Factory Store LORIBLU dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Lunedì 17 Aprile 2017 dalle ore 5.45 alle ore 7.30 presso il Ritrovo DIAMOND PALACE LORIBLU, e dalle ore 14.00 presso il Ristorante il Gambero in Via Mazzini 01 Porto Sant’Elpidio, qualora i partecipanti dovessero essere superiore ai cinquecento iscritti presso l'Ex Stadio Orfeo Serafini lungomare centro.
+<!-- Il Pacco Premio, può essere ritirato: il Venerdì 14 Aprile 2018 presso il Factory Store LORIBLU dalle ore 15.00 alle ore 19.00, il Sabato 15 Aprile 2018 presso il Factory Store LORIBLU dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30 presso il Ritrovo DIAMOND PALACE LORIBLU, e dalle ore 14.00 presso il Ristorante il Gambero in Via Mazzini 01 Porto Sant’Elpidio, qualora i partecipanti dovessero essere superiore ai cinquecento iscritti presso l'Ex Stadio Orfeo Serafini lungomare centro. -->
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
@@ -70,13 +71,13 @@ Non saranno accettate sostituzioni il giorno della gara.
  In caso di mancata partecipazione la quota d'iscrizione versata non sarà restituita.
 In caso di annullamento della manifestazione causa forze maggiori la quota di partecipazione non verrà restituita.
 
-## 5. Apertura e Chiusura iscrizioni
+<!-- ## 5. Apertura e Chiusura iscrizioni
 
-Le iscrizioni on line si aprono il 01 Novembre 2016 e chiuderanno Venerdì 14 Aprile 2017 alle ore 20.00.
+Le iscrizioni on line si aprono il 01 Novembre 2017 e chiuderanno Venerdì 14 Aprile 2018 alle ore 20.00.
 
-Le iscrizioni con operatore sono aperte: Venerdì 14 Aprile 2017 dalle ore 15.00 alle ore 19.00 e Sabato 15 Aprile 2016, dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso il Factory Store LORIBLU. Lunedì 17 Aprile 2017 dalle ore 5.45 alle ore 7.30 presso il Ritrovo Diamond Palace LORIBLU.
+Le iscrizioni con operatore sono aperte: Venerdì 14 Aprile 2018 dalle ore 15.00 alle ore 19.00 e Sabato 15 Aprile 2017, dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso il Factory Store LORIBLU. Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30 presso il Ritrovo Diamond Palace LORIBLU.
 
-Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, card per il ritiro del pacco premio, card per il Pasta Party, lista premi ed informazioni sul percorso.
+Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, card per il ritiro del pacco premio, card per il Pasta Party, lista premi ed informazioni sul percorso. -->
 
 ## 6. Iscrizioni individuali e collettive e Modalità di pagamento
 
