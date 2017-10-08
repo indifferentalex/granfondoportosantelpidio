@@ -1,7 +1,7 @@
 ---
 layout: article_no_sponsor
 title: Il regolamento della Gran Fondo del Fermano 2017
-permalink: /regolamento/
+permalink: /regolamento_gran_fondo_del_fermano/
 ---
 
 # Il regolamento

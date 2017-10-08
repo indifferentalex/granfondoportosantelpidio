@@ -331,7 +331,7 @@ li.dropdown.open ul.dropdown-menu {
 }
 
 .navbar-default .navbar-nav .open .dropdown-menu>li>a {
-	padding: 24px 0px;
+	padding: 12px 0px;
 }
 
 @media only screen and (max-width : 992px) {
@@ -843,4 +843,12 @@ p.image-alt-text {
 
 .row.editions-images img {
 	margin-bottom: 24px;
+}
+
+.dropdown-header {
+	white-space: normal;
+}
+
+.dropdown-header img {
+	width: 100%;
 }
