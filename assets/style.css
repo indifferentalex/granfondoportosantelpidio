@@ -852,3 +852,9 @@ p.image-alt-text {
 .dropdown-header img {
 	width: 100%;
 }
+
+@media (max-width: 992px) {
+	.dropdown-header img {
+		width: 50%;
+	}
+}
