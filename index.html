@@ -117,17 +117,35 @@ description: Gran Fondo del Fermano Edizione II 15 Ottobre 2017, vi diamo il ben
 </div>
 
 <div class="articles-list">
-{% for post in site.posts %}
-	<a href="{{ site.baseurl }}{{ post.url }}">
-		<div class="row article-row">
-			<div class="col-md-3 col-md-push-9 vcenter">
-				<img alt="{{ post.imagealt }}" src="{{ site.baseurl }}{{ post.image }}"/>
-			</div><!--
-			--><div class="col-md-9 col-md-pull-3 vcenter">
-				<h3>{{ post.title }}</h3>
-				<p>{{ post.description }}..</p>
-			</div>	
+	{% for post in paginator.posts %}
+		<a href="{{ site.baseurl }}{{ post.url }}">
+			<div class="row article-row">
+				<div class="col-md-3 col-md-push-9 vcenter">
+					<img alt="{{ post.imagealt }}" src="{{ site.baseurl }}{{ post.image }}"/>
+				</div><!--
+				--><div class="col-md-9 col-md-pull-3 vcenter">
+					<h3>{{ post.title }}</h3>
+					<p>{{ post.description }}..</p>
+				</div>	
+			</div>
+		</a>
+	{% endfor %}
+
+	<div class="row pagination">
+		<div class="col-md-12">
+			{% if paginator.previous_page %}
+				<a href="{{ paginator.previous_page_path }}" class="previous">Precedente</a>
+			{% else %}
+				<span class="previous">Precedente</span>
+			{% endif %}
+
+			<span class="page_number">Pagina: {{ paginator.page }} di {{ paginator.total_pages }}</span>
+
+			{% if paginator.next_page %}
+				<a href="{{ paginator.next_page_path }}" class="next">Prossima</a>
+			{% else %}
+				<span class="next">Prossima</span>
+			{% endif %}
 		</div>
-	</a>
-{% endfor %}
+	</div>
 </div>
