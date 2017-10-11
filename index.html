@@ -118,17 +118,31 @@ description: Gran Fondo del Fermano Edizione II 15 Ottobre 2017, vi diamo il ben
 
 <div class="articles-list">
 	{% for post in paginator.posts %}
-		<a href="{{ site.baseurl }}{{ post.url }}">
-			<div class="row article-row">
-				<div class="col-md-3 col-md-push-9 vcenter">
-					<img alt="{{ post.imagealt }}" src="{{ site.baseurl }}{{ post.image }}"/>
-				</div><!--
-				--><div class="col-md-9 col-md-pull-3 vcenter">
-					<h3>{{ post.title }}</h3>
-					<p>{{ post.description }}..</p>
-				</div>	
-			</div>
-		</a>
+		{% if post.external_link %}
+			<a href="{{ post.external_link }}" target="_blank">
+				<div class="row article-row">
+					<div class="col-md-3 col-md-push-9 vcenter">
+						<img alt="{{ post.imagealt }}" src="{{ site.baseurl }}{{ post.image }}"/>
+					</div><!--
+					--><div class="col-md-9 col-md-pull-3 vcenter">
+						<h3>{{ post.title }}</h3>
+						<p>{{ post.description }}..</p>
+					</div>
+				</div>
+			</a>
+		{% else %}
+			<a href="{{ site.baseurl }}{{ post.url }}">
+				<div class="row article-row">
+					<div class="col-md-3 col-md-push-9 vcenter">
+						<img alt="{{ post.imagealt }}" src="{{ site.baseurl }}{{ post.image }}"/>
+					</div><!--
+					--><div class="col-md-9 col-md-pull-3 vcenter">
+						<h3>{{ post.title }}</h3>
+						<p>{{ post.description }}..</p>
+					</div>	
+				</div>
+			</a>
+		{% endif %}
 	{% endfor %}
 
 	<div class="row pagination">
