@@ -57,11 +57,11 @@ Chi utilizza la “partenza alla francese” dovrà procedere lungo il percorso 
 
 ## 4. Quota di partecipazione
 
-La quota di iscrizione è pari ad Euro 25,00. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
+L'iscrizione è gratuita per tutti fino al 30 Settembre 2018, successivamente pari ad: Euro 25,00. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pasta party all’arrivo, pacco regalo.
 
-Il Pacco Premio, può essere ritirato: il Sabato 14 Ottobre 2017 presso l’E Bike Store Tutticampioni in via XX Settembre 23 dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Domenica 15 Ottobre dalle 6.30 alle ore 8.00 presso il Ritrovo Piazza Risorgimento in via XX Settembre, e dalle ore 14.00 presso il Santuario della Corva.
+<!-- Il Pacco Premio, può essere ritirato: il Sabato 14 Ottobre 2017 presso l’E Bike Store Tutticampioni in via XX Settembre 23 dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Domenica 15 Ottobre dalle 6.30 alle ore 8.00 presso il Ritrovo Piazza Risorgimento in via XX Settembre, e dalle ore 14.00 presso il Santuario della Corva. -->
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
@@ -75,11 +75,11 @@ annullamento della manifestazione causa forze maggiori la quota di partecipazion
 
 ## 5. Apertura e Chiusura iscrizioni
 
-Le iscrizioni on line si aprono il 01 Settembre 2017 e chiuderanno Venerdì 13 Ottobre 2017 alle ore 20.00.
+Le iscrizioni on line si aprono il 17 Ottobre 2017 e chiuderanno Venerdì 12 Ottobre 2018 alle ore 20.00.
 
-Le iscrizioni con operatore sono aperte: Sabato 14 Ottobre 2017 dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso E Bike Store Tutticampioni via XX Settembre 23. Domenica 15 Ottobre 2017 dalle ore 6.30 alle ore 8.00 presso il Ritrovo in Piazza Risorgimento via XX Settembre.
+<!-- Le iscrizioni con operatore sono aperte: Sabato 14 Ottobre 2017 dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso E Bike Store Tutticampioni via XX Settembre 23. Domenica 15 Ottobre 2017 dalle ore 6.30 alle ore 8.00 presso il Ritrovo in Piazza Risorgimento via XX Settembre.
 
-Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, card per il ritiro del pacco premio, card per il Pasta Party, lista premi ed informazioni sul percorso.
+Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, card per il ritiro del pacco premio, card per il Pasta Party, lista premi ed informazioni sul percorso. -->
 
 ## 6. Iscrizioni individuali e collettive e Modalità di pagamento
 

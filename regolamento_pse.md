@@ -55,7 +55,7 @@ Chi utilizza la "partenza alla francese" dovrà procedere lungo il percorso di g
 
 ## 4. Quota di partecipazione
 
-La quota di iscrizione è pari ad: Euro 10,00 fino al 31 Dicembre 2017; Euro 20,00 fino al 28 Febbraio 2018; Euro 30 fino al 2 Aprile 2018. Chi si iscriverà contemporaneamente anche per la II Gran Fondo del Fermano la quota d’iscrizione è pari ad: Euro 15,00 fino al 31 Dicembre 2017; Euro 25,00 fino al 30 Marzo 2018; Euro 45,00 fino al 2 Aprile 2018. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
+L'iscrizione è gratuita per tutti fino al 21 Marzo 2018, successivamente pari ad: Euro 25,00. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pasta party all'arrivo, pacco regalo e assegnazione di dieci coupon per estrazione mega premio combinata Gran Prix Coste Fermane.
 
@@ -71,11 +71,11 @@ Non saranno accettate sostituzioni il giorno della gara.
  In caso di mancata partecipazione la quota d'iscrizione versata non sarà restituita.
 In caso di annullamento della manifestazione causa forze maggiori la quota di partecipazione non verrà restituita.
 
-<!-- ## 5. Apertura e Chiusura iscrizioni
+## 5. Apertura e Chiusura iscrizioni
 
-Le iscrizioni on line si aprono il 01 Novembre 2017 e chiuderanno Venerdì 14 Aprile 2018 alle ore 20.00.
+Le iscrizioni on line si aprono il 17 Ottobre 2017 e chiuderanno Venerdì 30 Marzo 2018 alle ore 20.00.
 
-Le iscrizioni con operatore sono aperte: Venerdì 14 Aprile 2018 dalle ore 15.00 alle ore 19.00 e Sabato 15 Aprile 2017, dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso il Factory Store LORIBLU. Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30 presso il Ritrovo Diamond Palace LORIBLU.
+<!-- Le iscrizioni con operatore sono aperte: Venerdì 14 Aprile 2018 dalle ore 15.00 alle ore 19.00 e Sabato 15 Aprile 2017, dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso il Factory Store LORIBLU. Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30 presso il Ritrovo Diamond Palace LORIBLU.
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, card per il ritiro del pacco premio, card per il Pasta Party, lista premi ed informazioni sul percorso. -->
 
