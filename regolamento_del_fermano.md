@@ -61,13 +61,13 @@ L'iscrizione è gratuita per tutti fino al 30 Settembre 2018, successivamente pa
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pasta party all’arrivo, pacco regalo.
 
-<!-- Il Pacco Premio, può essere ritirato: il Sabato 14 Ottobre 2017 presso l’E Bike Store Tutticampioni in via XX Settembre 23 dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Domenica 15 Ottobre dalle 6.30 alle ore 8.00 presso il Ritrovo Piazza Risorgimento in via XX Settembre, e dalle ore 14.00 presso il Santuario della Corva. -->
+Il Pacco Premio, può essere ritirato: il Sabato 13 Ottobre 2018 presso l’E Bike Store Tutticampioni in via XX Settembre 23 dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Domenica 14 Ottobre dalle 6.30 alle ore 8.00 presso il Ritrovo Piazza Risorgimento in via XX Settembre, e dalle ore 14.00 presso il Santuario della Corva.
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
 Finita la gara tutti gli iscritti hanno il diritto al pranzo: Pasta Party, che si svolgerà presso il Santuario Madonna della Corva dalle ore 12.15. Famigliari ed accompagnatori possono partecipare al Pasta Party acquistando il buono pasto ad Euro 10,00.
 
-Per tutti gli iscritti attivo il servizio docce presso Palestra Comunale, Scuola Media G. Galilei, chiaramente segnalato con frecce.
+<!-- Per tutti gli iscritti attivo il servizio docce presso Palestra Comunale, Scuola Media G. Galilei, chiaramente segnalato con frecce. -->
 
 Non saranno accettate sostituzioni il giorno della gara. In caso di mancata partecipazione la quota d’iscrizione versata non sarà restituita. In caso di
 
