@@ -13,6 +13,8 @@ imagealt: "Presentazione ufficiale della Gran Fondo del Fermano, seconda edizion
 
 ![Presentazione ufficiale della Gran Fondo del Fermano, seconda edizione 2017](https://s3.eu-central-1.amazonaws.com/giovanissimi/Granfondo+del+Fermano+06102017+presentazione+(2).jpg)
 
+La Granfondo del Fermano-Memorial Dante Montanini scalda i motori per la data di domenica 15 ottobre e il Ristorante la Perla sul Mare sul lungomare Nord di Porto Sant'Elpidio ha avuto l’onore di tenere a battesimo l’evento granfondistico amatoriale di fine stagione.
+
 Grazie all’impegno sinergico tra la Gio.Ca. Communications, il Comitato Il Grande Ciclismo a Porto Sant’Elpidio e l’amministrazione comunale di Porto Sant’Elpidio, scenografia completamente rinnovata per l’edizione 2017 con le bellezze dell’entroterra fermano e della valle del Tenna pronte a catturare la vista dei partecipanti coinvolgendo 15 comuni in un percorso unico di 129,3 chilometri.
  
 Il perfetto connubio tra il turismo sportivo e religioso, la granfondo che fa da traino ai piccoli comuni e alle realtà imprenditoriali del territorio elpidiense e fermano, lo sport per il benessere della comunità e il grande senso di solidarietà e di accoglienza di Porto Sant’Elpidio verso i comuni dell’entroterra fermano, provati duramente dalle conseguenze del sisma, sono stati i temi salienti della presentazione ufficiale, alla presenza di tanti personaggi del mondo politico, istituzionale, sportivo ed imprenditoriale da sempre vicini all’organizzazione.
