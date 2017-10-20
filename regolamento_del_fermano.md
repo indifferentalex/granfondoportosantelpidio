@@ -1,6 +1,6 @@
 ---
 layout: article_no_sponsor
-title: Il regolamento della Gran Fondo del Fermano 2017
+title: Il regolamento della Gran Fondo del Fermano 2018
 permalink: /regolamento_gran_fondo_del_fermano/
 logo: logo_gfdf
 ---
@@ -9,13 +9,13 @@ logo: logo_gfdf
 
 La II Gran Fondo del Fermano partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
-La Gran Fondo del Fermano è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2017, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
+La Gran Fondo del Fermano è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2018, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
 
-Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2017, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 15,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
+Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2018, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 15,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
 
 Il Comitato Organizzatore potrà in ogni momento ed a suo insindacabile giudizio decidere se accettare o meno l’iscrizione oppure escludere un iscritto dalla manifestazione, qualora arrecasse danno alla immagine della stessa.
 
-Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l'anno 2017 e:
+Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l'anno 2018 e:
 
 * di avere preso visione del regolamento e di accettarlo integralmente
 
@@ -33,7 +33,7 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-Domenica 15 Ottobre 2017 dalle ore 6.30 alle ore 8.00, con Partenza alle ore 8.30, presso Piazza Risorgimento via XX Settembre - Porto Sant’Elpidio sud (Uscita A14, subito a sinistra, altra rotonda a sinistra, direzione centro).
+Domenica 14 Ottobre 2018 dalle ore 6.30 alle ore 8.00, con Partenza alle ore 8.30, presso Piazza Risorgimento via XX Settembre - Porto Sant’Elpidio sud (Uscita A14, subito a sinistra, altra rotonda a sinistra, direzione centro).
 
 ## 2. Tipo di partenza
 
@@ -77,7 +77,7 @@ annullamento della manifestazione causa forze maggiori la quota di partecipazion
 
 Le iscrizioni on line si aprono il 17 Ottobre 2017 e chiuderanno Venerdì 12 Ottobre 2018 alle ore 20.00.
 
-Le iscrizioni con operatore sono aperte: Sabato 14 Ottobre 2017 dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso E Bike Store Tutticampioni via XX Settembre 23. Domenica 15 Ottobre 2017 dalle ore 6.30 alle ore 8.00 presso il Ritrovo in Piazza Risorgimento via XX Settembre.
+Le iscrizioni con operatore sono aperte: Sabato 13 Ottobre 2018 dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso E Bike Store Tutticampioni via XX Settembre 23. Domenica 14 Ottobre 2018 dalle ore 6.30 alle ore 8.00 presso il Ritrovo in Piazza Risorgimento via XX Settembre.
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, card per il ritiro del pacco premio, card per il Pasta Party, lista premi ed informazioni sul percorso.
 
