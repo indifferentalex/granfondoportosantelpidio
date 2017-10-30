@@ -71,7 +71,11 @@ a p {
 
 .sponsors {
 	text-align: center;
-	padding: 48px 0px;
+	padding: 48px 24px;
+}
+
+.sponsors .col-xs-6 {
+	padding: 0px;
 }
 
 .sponsors h2 {
@@ -98,6 +102,12 @@ a p {
 
 .la-storia img.large-frame {
 	padding: 25%;
+}
+
+@media (max-width: 992px) {
+	.first-race-crest img {
+		margin-bottom: 64px;
+	}
 }
 
 @media (max-width: 992px) {
@@ -806,10 +816,19 @@ p.image-alt-text {
 	line-height: 1.5em;
 }
 
+.home-banner-text a {
+	color: #fff;
+	text-decoration: underline;
+}
+
 @media (max-width: 992px) {
 	.home-banner-text {
 		color: #03345d;
 	}
+
+	.home-banner-text a {
+		color: #03345d;
+	}	
 
 	.home-banner-image {
 		display: none;
