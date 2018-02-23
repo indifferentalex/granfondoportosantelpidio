@@ -17,17 +17,17 @@ Il Comitato Organizzatore potrà in ogni momento ed a suo insindacabile giudizio
 
 Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l'anno 2018 e:
 
-* di avere preso visione del regolamento e di accettarlo integralmente
+* di avere preso visione del regolamento e di accettarlo integralmente;
 
-* di avere i requisiti regolamentari
+* di avere i requisiti regolamentari;
 
-* di conoscere le caratteristiche della manifestazione e di essere in condizioni psicofisiche adeguate alla partecipazione
+* di conoscere le caratteristiche della manifestazione e di essere in condizioni psicofisiche adeguate alla partecipazione;
 
-* di voler adeguarsi al regolamento, alle indicazioni della Direzione di gara e del personale addetto all'organizzazione
+* di voler adeguarsi al regolamento, alle indicazioni della Direzione di gara e del personale addetto all'organizzazione;
 
-* di consentire l'utilizzo dei propri dati da parte dei soggetti coinvolti nell'organizzazione della manifestazione nel rispetto del d. lgs 196/03
+* di consentire l'utilizzo dei propri dati da parte dei soggetti coinvolti nell'organizzazione della manifestazione nel rispetto del d. lgs 196/03;
 
-* di consentire l'utilizzo di fotografie, immagini filmate, registrazioni, derivanti dalla propria partecipazione alla manifestazione per ogni legittimo scopo, anche pubblicitario
+* di consentire l'utilizzo di fotografie, immagini filmate, registrazioni, derivanti dalla propria partecipazione alla manifestazione per ogni legittimo scopo, anche pubblicitario;
 
 * di rinunciare a qualsiasi azione di responsabilità o rivalsa nei confronti della società organizzatrice, dei partner o fornitori di quest'ultima, del personale addetto a qualsiasi titolo all'organizzazione, degli sponsor e dei patrocinatori, derivante dalla propria partecipazione alla manifestazione e ai suoi eventi collaterali. Così dicasi per coloro che effettuano l'iscrizione individuale sia a mezzo modulo, on-line, lettera, fax o tramite iscrizione collettiva di squadra.
 
@@ -45,7 +45,7 @@ Oltre alla normale procedura di partenza in gruppo prevista per le ore 7.45, vie
 
 La "partenza alla francese" sarà possibile dalle ore 6.30 e fino alle ore 7.15.
 
-È comunque obbligatorio l'uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta (di colore diverso dagli altri). La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di www.kronoservice.com posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso lungo. 
+È comunque obbligatorio l'uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta (di colore diverso dagli altri). La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di [www.kronoservice.com](http://www.kronoservice.com) posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso lungo. 
 
 Con la "partenza alla francese" è lo stesso della Gran Fondo con le indicazioni di colore giallo.
 
@@ -57,27 +57,25 @@ Chi utilizza la "partenza alla francese" dovrà procedere lungo il percorso di g
 
 L'iscrizione è gratuita per tutti fino al 21 Marzo 2018, successivamente pari ad: Euro 25,00. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
-Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pasta party all'arrivo, pacco regalo e assegnazione di dieci coupon per estrazione mega premio combinata Gran Prix Coste Fermane.
+Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pacco regalo.
 
-Il Pacco Premio, può essere ritirato: il Venerdì 30 Marzo 2018 presso il Factory Store LORIBLU dalle ore 15.00 alle ore 19.00, il Sabato 31 Marzo 2018 presso il Factory Store LORIBLU dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30 presso il Ritrovo DIAMOND PALACE LORIBLU, e dalle ore 14.00 presso il Ristorante il Gambero in Via Mazzini 1 Porto Sant’Elpidio, qualora i partecipanti dovessero essere superiore ai cinquecento iscritti presso l'Ex Stadio Orfeo Serafini lungomare centro.
+Il Pacco Premio, può essere ritirato: il Sabato 31 Marzo 2018 presso il Factory Store LORIBLU dalle ore 15.00 alle ore 19.00. Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30 presso il Ritrovo DIAMOND PALACE LORIBLU, e dalle ore 14.00 presso il ritrovo del Pranzo.
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
-Finita la gara tutti gli iscritti hanno il diritto al pranzo: Pasta Party, che si svolgerà presso l'Ex Stadio Orfeo Serafini lungomare centro di Porto Sant’Elpidio dalle ore 12.15. Famigliari ed accompagnatori possono partecipare al Pasta Party acquistando il buono pasto ad Euro 10,00.
+Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 10,00 euro. Il pranzo si svolgerà presso l’Ex Stadio Orfeo Serafini lungomare centro di Porto Sant’Elpidio dalle ore 12.15. Famigliari ed accompagnatori possono partecipare sempre al costo 10,00 euro.
 
-Per tutti gli iscritti attivo il servizio docce presso Palestra Comunale, Scuola Media G. Galilei, chiaramente segnalato con frecce azzurre.
+Per tutti gli iscritti attivo il servizio docce presso Palestra Comunale, Scuola Media G. Galilei, chiaramente segnalato con frecce.
 
-Non saranno accettate sostituzioni il giorno della gara.
- In caso di mancata partecipazione la quota d'iscrizione versata non sarà restituita.
-In caso di annullamento della manifestazione causa forze maggiori la quota di partecipazione non verrà restituita.
+Non saranno accettate sostituzioni il giorno della gara.  In caso di mancata partecipazione la quota d’iscrizione versata non sarà restituita. In caso di annullamento della manifestazione causa forze maggiori la quota di partecipazione non verrà restituita.
 
 ## 5. Apertura e Chiusura iscrizioni
 
-Le iscrizioni on line si aprono il 17 Ottobre 2017 e chiuderanno Venerdì 30 Marzo 2018 alle ore 20.00.
+Le iscrizioni on line si aprono il 17 Ottobre 2017 e chiuderanno Domenica 01 Aprile 2018 alle ore 20.00.
 
-Le iscrizioni con operatore sono aperte: Venerdì 30 Marzo 2018 dalle ore 15.00 alle ore 19.00 e Sabato 31 Marzo 2018, dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso il Factory Store LORIBLU. Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30 presso il Ritrovo Diamond Palace LORIBLU.
+Le iscrizioni con operatore sono aperte: Sabato 31 Marzo 2018, dalle ore 15.00 alle ore 19.00 presso il Factory Store LORIBLU. Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30 presso il Ritrovo Diamond Palace LORIBLU.
 
-Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, card per il ritiro del pacco premio, card per il Pasta Party, lista premi ed informazioni sul percorso.
+Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, lista premi ed informazioni sul percorso.
 
 ## 6. Iscrizioni individuali e collettive e Modalità di pagamento
 
