@@ -15,7 +15,7 @@ imagealt: "Partenza della Granfondo Città di Porto Sant'Elpidio"
 
 La Porto Sant’Elpidio delle due ruote ritrova la Granfondo per la quinta volta: un appuntamento imperdibile per chi vorrà scegliere di trascorrere un lunedì di Pasqua insolito con il ciclismo amatoriale.
 
-Il percorso di gara misura 134,3 chilometri ed attraversa molti scorci suggestivi dell’entroterra fermano e piceno con tanti panorami che si aprono alla vista dei partecipanti, dal mare fino ad arrivare ai piedi dei Sibillini con strade prive di traffico e tanti luoghi incontaminati.
+Il percorso di gara misura 130,5 chilometri ed attraversa molti scorci suggestivi dell’entroterra fermano e piceno con tanti panorami che si aprono alla vista dei partecipanti, dal mare fino ad arrivare ai piedi dei Sibillini con strade prive di traffico e tanti luoghi incontaminati.
 
 Le iscrizioni stanno iniziando a crescere (Abruzzo, Lazio, Umbria, Emilia Romagna, Veneto e Lombardia le regioni partecipanti oltre alle Marche che farà gli onori di casa) con un elenco di partecipanti di prima qualità con la presenza delle squadre Cannondale Gobbi FSA (Christian Barchi e Antonio Carbotti), la Scott Team Granfondo (Igor Zanetti, Andrea Molini e Fabio Laghi), la Melania Omm (Emidio Celani, Claudio Astolfi, Alessandro Fantini e Wladimiro D’Ascenzo) e la Studio Moda Hair Gallery (Alessandro D’Andrea e Giovanni Lattanzi) tra quelle di riferimento e tra le più quotate per lasciare il segno nella granfondo.
 

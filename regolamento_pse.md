@@ -37,7 +37,7 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 2. Tipo di partenza
 
-La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento davanti al Diamond Palace LORIBLU e i primi 26,00 km saranno non agonistici, la velocità sarà assistita per una media di kmh 30,00. I restanti 108,300 km saranno agonistici velocità libera. Per il tratto agonistico velocità libera il via sarà volante.
+La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento davanti al Diamond Palace LORIBLU e i primi 26,00 km saranno non agonistici, la velocità sarà assistita per una media di kmh 30,00. I restanti 104,300 km saranno agonistici velocità libera. Per il tratto agonistico velocità libera il via sarà volante.
 
 ## 3. Partenza alla Francese
 
@@ -88,9 +88,9 @@ Per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito
 
 ## 8. Chilometri totali percorso
 
-**Gran Fondo - Percorso velocità assistita Km. 26,000 - Percorso agonistico velocità libera Km. 108,300. Totale km 134,300.**
+**Gran Fondo - Percorso velocità assistita Km. 26,000 - Percorso agonistico velocità libera Km. 104,300. Totale km 130,500.**
 
-**Partenza alla francese – velocità libera km. 134,300.**
+**Partenza alla francese – velocità libera km. 130,500.**
 
 ## 9. Categorie e Classifiche individuali
 

@@ -19,7 +19,7 @@ Come nel 2013, anno della prima edizione, si torna alla formula del percorso uni
 
 ![Il via agonistico]({{ site.baseurl }}/assets/images/14725526_586013731600151_4927749116727291555_n.jpg)
 
-Il nuovo tracciato misura 134,3 chilometri ed attraversa molti scorci suggestivi dell’entroterra fermano con tanti panorami che si aprono alla vista dei partecipanti, dal mare fino ad arrivare ai piedi dei Sibillini con strade prive di traffico e tanta natura incontaminata.
+Il nuovo tracciato misura 130,5 chilometri ed attraversa molti scorci suggestivi dell’entroterra fermano con tanti panorami che si aprono alla vista dei partecipanti, dal mare fino ad arrivare ai piedi dei Sibillini con strade prive di traffico e tanta natura incontaminata.
 
 ![La planimetria della Granfondo Città di Porto Sant'Elpidio 2017, V Edizione]({{ site.baseurl }}/assets/images/GF_PSE_17_plan.jpg)
 
