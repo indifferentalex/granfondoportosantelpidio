@@ -814,6 +814,7 @@ p.image-alt-text {
 .home-banner-text {
 	color: #fff;
 	line-height: 1.5em;
+	margin-bottom: 0px;
 }
 
 .home-banner-text a {

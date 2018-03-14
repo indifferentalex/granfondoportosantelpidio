@@ -63,7 +63,7 @@ Il Pacco Premio, può essere ritirato: il Sabato 31 Marzo 2018 presso il Factory
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
-Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 10,00 euro. Il pranzo si svolgerà presso l’Ex Stadio Orfeo Serafini lungomare centro di Porto Sant’Elpidio dalle ore 12.15. Famigliari ed accompagnatori possono partecipare sempre al costo 10,00 euro.
+Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro. Il pranzo si svolgerà presso il ristorante Il Gambero, Via Mazzini 1, Porto Sant’Elpidio dalle ore 12.15. Famigliari ed accompagnatori possono partecipare sempre al costo 15,00 euro.
 
 Per tutti gli iscritti attivo il servizio docce presso Palestra Comunale, Scuola Media G. Galilei, chiaramente segnalato con frecce.
 
