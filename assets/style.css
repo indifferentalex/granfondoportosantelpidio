@@ -809,6 +809,10 @@ p.image-alt-text {
 	.mobile-footer {
 		display: inline;
 	}
+
+	.red-on-mobile {
+		color: #ea212e;
+	}
 }
 
 .home-banner-text {
