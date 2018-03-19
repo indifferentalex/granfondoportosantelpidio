@@ -88,9 +88,9 @@ Per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito
 
 ## 8. Chilometri totali percorso
 
-**Gran Fondo - Percorso velocità assistita Km. 26,000 - Percorso agonistico velocità libera Km. 104,300. Totale km 130,500.**
+**Gran Fondo - Percorso velocità assistita Km. 26,000 - Percorso agonistico velocità libera Km. 104,000. Totale km 130,200.**
 
-**Partenza alla francese – velocità libera km. 130,500.**
+**Partenza alla francese – velocità libera km. 130,200.**
 
 ## 9. Categorie e Classifiche individuali
 
