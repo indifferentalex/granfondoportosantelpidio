@@ -55,7 +55,7 @@ Chi utilizza la "partenza alla francese" dovrà procedere lungo il percorso di g
 
 ## 4. Quota di partecipazione
 
-L'iscrizione è gratuita per tutti fino al 21 Marzo 2018, successivamente pari ad: Euro 25,00. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
+L'iscrizione è gratuita per tutti fino al 30 Marzo 2018, successivamente pari ad: Euro 25,00. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pacco regalo.
 
