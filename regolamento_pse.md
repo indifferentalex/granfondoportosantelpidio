@@ -33,7 +33,7 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-**Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30, con Partenza alle ore 7.45, presso il Diamond Palace LORIBLU - Via dell’Economia.** (Uscita A14, subito a destra, dopo 300mt).
+**Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30, con Partenza alle ore 7.45, presso il Diamond Palace LORIBLU - Via dell’Economia.** (Uscita A14, subito a destra, dopo 500mt).
 
 ## 2. Tipo di partenza
 
@@ -59,9 +59,9 @@ L'iscrizione è gratuita per tutti fino al 30 Marzo 2018, successivamente pari a
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pacco regalo.
 
-Il Pacco Premio, può essere ritirato: il Sabato 31 Marzo 2018 presso il Factory Store LORIBLU dalle ore 15.00 alle ore 19.00. Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30 presso il Ritrovo DIAMOND PALACE LORIBLU, e dalle ore 14.00 presso il ritrovo del Pranzo.
+La busta numero ed il gadget della gran fondo possono essere ritirati presso Diamond Palace Loriblu, Via dell’Economia 09 di Porto Sant’Elpidio, uscita autostradale, rotonda Loriblu a destra per 500 mt. Sabato 31 Marzo 2018 presso il Factory Store LORIBLU dalle ore 15.00 alle ore 19.00. Domenica 01 aprile 2018 dalle ore 15 alle 18.30 presso il Diamond Palace Loriblu. Lunedì 02 Aprile 2018 dalle ore 6.00 alle ore 7.30 presso Il Diamond Palace Loriblu.
 
-Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
+La busta numero può essere ritirata anche da terze persone presentando la card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
 Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro. Il pranzo si svolgerà presso il ristorante Il Gambero, Via Mazzini 1, Porto Sant’Elpidio dalle ore 12.15. Famigliari ed accompagnatori possono partecipare sempre al costo 15,00 euro.
 
@@ -73,13 +73,13 @@ Non saranno accettate sostituzioni il giorno della gara.  In caso di mancata p
 
 Le iscrizioni on line si aprono il 17 Ottobre 2017 e chiuderanno Domenica 01 Aprile 2018 alle ore 20.00.
 
-Le iscrizioni con operatore sono aperte: Sabato 31 Marzo 2018, dalle ore 15.00 alle ore 19.00 presso il Factory Store LORIBLU. Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30 presso il Ritrovo Diamond Palace LORIBLU.
+Le iscrizioni con operatore sono aperte presso Diamond Palace Loriblu, via dell’Economia 09 di Porto Sant’Elpidio, uscita autostradale, rotonda Loriblu a destra 500 mt. Sabato 31 Marzo, dalle ore 15.00 alle ore 19.00 presso il Factory Store LORIBLU. Domenica 01 Aprile 2018 dalle ore 15.00 alle ore 18.30 presso il ritrovo Diamond Palace Loriblu. Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30 presso il Ritrovo Diamond Palace LORIBLU.
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, lista premi ed informazioni sul percorso.
 
-## 6. Iscrizioni individuali e collettive e Modalità di pagamento
+## 6. Iscrizioni individuali e collettive
 
-Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l'elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d'iscrizione occorre effettuare il pagamento della quota d'iscrizione nei giorni di Venerdì, Sabato e Lunedì all’operatore, oppure attraverso bonifico bancario per Iscrizioni on line. Vedi sul sito voce "Iscrizioni", oppure attraverso il sito di www.kronoservice.com
+Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l'elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte.
 
 ## 7. Controlli e Cronometraggio
 
@@ -114,7 +114,7 @@ Sarà stilata una classifica per società con più numero di partecipanti.
 
 ## 11. Premi e Premiazioni
 
-Saranno subito premiati sul palco premiazioni di arrivo i primi tre arrivati uomini e donne, il resto durante il Pasta Party. I premi sono consegnati esclusivamente il giorno della gara.
+Saranno subito premiati sul palco premiazioni di arrivo i primi tre arrivati uomini e donne, il resto durante il pranzo al Ristorante il Gambero in via Mazzini 1 di Porto Sant’Elpidio. I premi sono consegnati esclusivamente il giorno della gara.
 
 ## 12. Assistenza sanitaria
 
@@ -144,7 +144,7 @@ I ciclisti che vengono superati dal mezzo "Fine Gara Ciclistica" devono rigorosa
 
 ## 17. Norme
 
-Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L'A.S.D. Gruppo Ciclistico Faleriense come società titolare della Gran Fondo Internazionale Città di Porto Sant’Elpidio declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell'auto di fine manifestazione ciclistica, saranno segnalati all'autorità competente che attuerà le relative azioni.
+Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. La Gio.Ca Communications come società titolare della Gran Fondo Internazionale Città di Porto Sant’Elpidio declina ogni responsabilità per sé, per il comitato organizzatore e tutti coloro che collaborano alla organizzazione della manifestazione, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell'auto di fine manifestazione ciclistica, saranno segnalati all'autorità competente che attuerà le relative azioni.
 
 ## 18. Giuria
 
