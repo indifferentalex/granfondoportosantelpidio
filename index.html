@@ -88,12 +88,12 @@ description: Vi diamo il benvenuto alla Città che ha il mare e la bici nel cuor
 	jQuery(function() {
 		basePath = "{{ site.baseurl }}/assets/images/";
 		extension = "_sponsor.jpg";
-		goldSponsors = ["giorgio_mare"];
-		mainSponsorsOne = ["loriblu", "madi_service", "givi", "il_gambero"];
-		mainSponsorsTwo = ["omm", "tutti_campioni", "lineaoro", "femblu"];
-		sponsorsOne = ["didacus", "hair_services", "ares", "marinozzi", "esserre", "sebastiano_migliore", "archidea", "bedetta", "vetreria_petrini", "ecopel", "progetto_alto_gradimento", "autocarrozzeria_cognini"];
-		sponsorsTwo = ["renzi", "tacchificio_moderno", "benzi_pellami", "italtacco", "perla_sul_mare", "flog", "fabiani", "cluanplast", "brasili", "sbrolla", "black_label", "eco_elpidiense"];
-		sponsorsThree = ["ars", "steca", "luciani", "repo", "biotre_consulting", "biotre_servizi", "euro_graf", "sorbatti", "carrozzeria_adriatica", "nero_servizi", "ch_hotels", "inline", "fraben", "assoittico"];
+		goldSponsors = [{ "src_name": "giorgio_mare", "link": "http://www.giorgiomare.it/" }];
+		mainSponsorsOne = [{ "src_name": "loriblu", "link": "https://www.loriblu.com/" }, { "src_name": "givi", "link": "http://www.giviplast.com/" }, { "src_name": "il_gambero", "link": "https://www.ristoranteilgambero.eu/" }, { "src_name": "hair_services", "link": "" }];
+		mainSponsorsTwo = [{ "src_name": "tutti_campioni", "link": "https:://www.tutticampioni.com" }, { "src_name": "lineaoro", "link": "http://www.gioiellerialineaoro.it/" }, { "src_name": "didacus", "link": "http://www.didacus.it/" }, { "src_name": "fintel", "link": "http://www.fintelgaseluce.it/" }];
+		sponsorsOne = [{ "src_name": "femblu", "link": "" }, { "src_name": "madi_service", "link": "" }, { "src_name": "ares", "link": "" }, { "src_name": "fm_tv", "link": "" }, { "src_name": "esserre", "link": "" }, { "src_name": "sebastiano_migliore", "link": "" }, { "src_name": "bedetta", "link": "" }, { "src_name": "vetreria_petrini", "link": "" }, { "src_name": "ala", "link": "" }, { "src_name": "fraben", "link": "" }, { "src_name": "inline", "link": "" }];
+		sponsorsTwo = [{ "src_name": "renzi", "link": "" }, { "src_name": "benzi_pellami", "link": "" }, { "src_name": "italtacco", "link": "" }, { "src_name": "perla_sul_mare", "link": "" }, { "src_name": "flog", "link": "" }, { "src_name": "fabiani", "link": "" }, { "src_name": "cluanplast", "link": "" }, { "src_name": "brasili", "link": "" }, { "src_name": "eco_elpidiense", "link": "" }, { "src_name": "proffcreations", "link": "" }, { "src_name": "tropical", "link": "" }];
+		sponsorsThree = [{ "src_name": "ars", "link": "" }, { "src_name": "luciani", "link": "" }, { "src_name": "repo", "link": "" }, { "src_name": "biotre_consulting", "link": "" }, { "src_name": "biotre_servizi", "link": "" }, { "src_name": "euro_graf", "link": "" }, { "src_name": "sorbatti", "link": "" }, { "src_name": "carrozzeria_adriatica", "link": "" }, { "src_name": "nero_servizi", "link": "" }, { "src_name": "ch_hotels", "link": "" }];
 
 		// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random#Getting_a_random_integer_between_two_values
 		function getRandomIntInclusive(min, max) {
@@ -106,30 +106,41 @@ description: Vi diamo il benvenuto alla Città che ha il mare e la bici nel cuor
 		finalOrder = [];
 
 		var possiblePositionsLength = possiblePositions.length - 1;
-		console.log(possiblePositionsLength);
+		// console.log(possiblePositionsLength);
 		for (var i = 0; i < possiblePositions.length; i++) {
 			var positionChosen = getRandomIntInclusive(0, possiblePositionsLength);
 			finalOrder[i] = possiblePositions[positionChosen];
 			// var temp = possiblePositions[finalOrder[i]];
-			console.log("position chosen: " + positionChosen + " value: " + finalOrder[i]);
+			// console.log("position chosen: " + positionChosen + " value: " + finalOrder[i]);
 			possiblePositions[positionChosen] = possiblePositions[possiblePositionsLength];
-			console.log(possiblePositions);		
+			// console.log(possiblePositions);		
 			possiblePositionsLength--;
 		}
 
 		for (var i = 0; i < finalOrder.length; i++) {
 			if (finalOrder[i] == 1) {
-				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + goldSponsors[0] + extension);
+				$("#sponsor_" + (i + 1).toString() + "_link").attr("href", goldSponsors[0]["link"]);
+				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + goldSponsors[0]["src_name"] + extension);
 			} else if (finalOrder[i] == 2) {
-				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + mainSponsorsOne[getRandomIntInclusive(0, 3)] + extension);
+				var randomIndex = getRandomIntInclusive(0, mainSponsorsOne.length - 1);
+				$("#sponsor_" + (i + 1).toString() + "_link").attr("href", mainSponsorsOne[randomIndex]["link"]);
+				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + mainSponsorsOne[randomIndex]["src_name"] + extension);
 			} else if (finalOrder[i] == 3) {
-				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + mainSponsorsTwo[getRandomIntInclusive(0, 3)] + extension);
+				var randomIndex = getRandomIntInclusive(0, mainSponsorsTwo.length - 1);
+				$("#sponsor_" + (i + 1).toString() + "_link").attr("href", mainSponsorsTwo[randomIndex]["link"]);
+				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + mainSponsorsTwo[randomIndex]["src_name"] + extension);
 			} else if (finalOrder[i] == 4) {
-				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + sponsorsOne[getRandomIntInclusive(0, sponsorsOne.length - 1)] + extension);
+				var randomIndex = getRandomIntInclusive(0, sponsorsOne.length - 1);
+				$("#sponsor_" + (i + 1).toString() + "_link").attr("href", sponsorsOne[randomIndex]["link"]);
+				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + sponsorsOne[randomIndex]["src_name"] + extension);
 			} else if (finalOrder[i] == 5) {
-				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + sponsorsTwo[getRandomIntInclusive(0, sponsorsTwo.length - 1)] + extension);
+				var randomIndex = getRandomIntInclusive(0, sponsorsTwo.length - 1);
+				$("#sponsor_" + (i + 1).toString() + "_link").attr("href", sponsorsTwo[randomIndex]["link"]);
+				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + sponsorsTwo[randomIndex]["src_name"] + extension);
 			} else if (finalOrder[i] == 6) {
-				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + sponsorsThree[getRandomIntInclusive(0, sponsorsThree.length - 1)] + extension);
+				var randomIndex = getRandomIntInclusive(0, sponsorsThree.length - 1);
+				$("#sponsor_" + (i + 1).toString() + "_link").attr("href", sponsorsThree[randomIndex]["link"]);
+				$("#sponsor_" + (i + 1).toString()).attr("src", basePath + sponsorsThree[randomIndex]["src_name"] + extension);
 			}
 		}
 	});
@@ -138,16 +149,28 @@ description: Vi diamo il benvenuto alla Città che ha il mare e la bici nel cuor
 <div class="row sponsors">
 	<div class="col-md-12"><h2>Un ringraziamento agli Sponsor</h2></div>
 	<div class="col-md-4">
-		<div class="col-xs-6"><img id="sponsor_1" src=""/></div>
-		<div class="col-xs-6"><img id="sponsor_2" src=""/></div>				
+		<a id="sponsor_1_link" href="" target="_blank">
+			<div class="col-xs-6"><img id="sponsor_1" src=""/></div>
+		</a>
+		<a id="sponsor_2_link" href="" target="_blank">
+			<div class="col-xs-6"><img id="sponsor_2" src=""/></div>
+		</a>
 	</div>
 	<div class="col-md-4">
-		<div class="col-xs-6"><img id="sponsor_3" src=""/></div>
-		<div class="col-xs-6"><img id="sponsor_4" src=""/></div>	
+		<a id="sponsor_3_link" href="" target="_blank">
+			<div class="col-xs-6"><img id="sponsor_3" src=""/></div>
+		</a>
+		<a id="sponsor_4_link" href="" target="_blank">
+				<div class="col-xs-6"><img id="sponsor_4" src=""/></div>
+			</a>
 	</div>
 	<div class="col-md-4">
-		<div class="col-xs-6"><img id="sponsor_5" src=""/></div>
-		<div class="col-xs-6"><img id="sponsor_6" src=""/></div>	
+		<a id="sponsor_5_link" href="" target="_blank">
+			<div class="col-xs-6"><img id="sponsor_5" src=""/></div>
+		</a>
+		<a id="sponsor_6_link" href="" target="_blank">
+				<div class="col-xs-6"><img id="sponsor_6" src=""/></div>	
+			</a>
 	</div>
 </div>
 
