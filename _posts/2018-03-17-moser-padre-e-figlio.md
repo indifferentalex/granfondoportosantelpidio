@@ -2,7 +2,7 @@
 layout: article
 title: "Venerdì 23 marzo Moser padre e figlio a confronto nella serata di presentazione della Granfondo Porto Sant’Elpidio"
 description: "Francesco Moser e Ignazio Moser: riflettori puntati su padre e figlio venerdì 23 marzo alle 19:00 in occasione della presentazione della sesta edizione della Granfondo Porto Sant’Elpidio presso la sala conferenze dell’azienda Loriblu (uscita autostradale A14 Porto Sant’Elpidio)."
-date: 2018-02-24 10:00:00 -0600
+date: 2018-03-17 10:00:00 -0600
 image: https://s3.eu-central-1.amazonaws.com/giovanissimi/copertina_gfpse_2018.jpeg
 imagealt: "Gran Fondo Citta di Porto Sant'Elpidio, 2 Aprile 2018, Pasquetta"
 ---

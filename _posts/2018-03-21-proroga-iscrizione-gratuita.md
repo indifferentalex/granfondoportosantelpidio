@@ -2,7 +2,7 @@
 layout: article
 title: "Granfondo Porto Sant’Elpidio: proroga dell’iscrizione gratuita fino a venerdì 30 marzo"
 description: "L’arrivo della primavera porta una grande novità per i tanti appassionati che vogliono aderire alla Granfondo Porto Sant’Elpidio di lunedì 2 aprile."
-date: 2018-02-24 10:00:00 -0600
+date: 2018-03-21 10:00:00 -0600
 image: https://s3.eu-central-1.amazonaws.com/giovanissimi/copertina_moser.jpg
 imagealt: "23 Marzo, i Moser a Porto Sant'Elpidio, mio padre una leggenda"
 ---
