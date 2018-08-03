@@ -7,7 +7,7 @@ logo: logo_gfdf
 
 # Il regolamento
 
-La II Gran Fondo del Fermano partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
+La III Gran Fondo del Fermano partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
 La Gran Fondo del Fermano è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2018, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
 
@@ -65,7 +65,7 @@ Il Pacco Premio, può essere ritirato: il Sabato 22 settembre 2018 presso l’E 
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
-Finita la gara tutti gli iscritti hanno il diritto al pranzo: Pasta Party, che si svolgerà presso il Santuario Madonna della Corva dalle ore 12.15. Famigliari ed accompagnatori possono partecipare al Pasta Party acquistando il buono pasto ad Euro 10,00.
+Finita la gara gli atleti iscritti possono partecipare al pranzo: Pasta Party, che si svolgerà presso il Santuario Madonna della Corva dalle ore 12.15. Atleti, famigliari ed accompagnatori possono partecipare al Pasta Party acquistando il buono pasto ad Euro 13,00 al ritiro del pacco gara o busta tecnica, oppure è gradita la prenotazione al n. 389 1607169 di Vincenzo Santoni.
 
 <!-- Per tutti gli iscritti attivo il servizio docce presso Palestra Comunale, Scuola Media G. Galilei, chiaramente segnalato con frecce. -->
 
@@ -83,7 +83,7 @@ Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenen
 
 ## 6. Iscrizioni individuali e collettive e Modalità di pagamento
 
-Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Sabato e Domenica all’operatore, oppure attraverso bonifico bancario per Iscrizioni on line. Vedi sul sito voce “Iscrizioni”, oppure attraverso il sito di www.kronoservice.com
+Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Sabato e Domenica all’operatore, oppure attraverso bonifico bancario per Iscrizioni on line solo per i giorni 22 e 23 Settembre in quanto gli altri giorni iscrizioni gratuite. Vedi sul sito voce “Iscrizioni”, oppure attraverso il sito di www.kronoservice.com
 
 ## 7. Controlli e Cronometraggio
 
