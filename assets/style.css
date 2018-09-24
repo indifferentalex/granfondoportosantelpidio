@@ -5,7 +5,7 @@ html, body {
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden; 
+    overflow-x: hidden;
     -webkit-overflow-scrolling: touch;
 }
 
@@ -31,7 +31,7 @@ p {
 }
 
 p a {
-	font-family: 'Roboto Slab', serif;	
+	font-family: 'Roboto Slab', serif;
 	color: #6da0cb;
 }
 
@@ -134,7 +134,7 @@ a p {
 }
 
 .la-storia ul li {
-	font-family: 'Roboto Slab', serif;	
+	font-family: 'Roboto Slab', serif;
 	font-size: 16px;
 	margin-bottom: 12px;
 }
@@ -214,7 +214,7 @@ button.navbar-toggle {
 }
 
 .navbar ul.navbar-nav li:first-child {
-	
+
 }
 
 .navbar ul.navbar-nav li a {
@@ -230,7 +230,7 @@ button.navbar-toggle {
 }
 
 .navbar ul.navbar-nav li:hover {
-	
+
 }
 
 .navbar ul.navbar-nav li:hover>a.main-link {
@@ -274,7 +274,7 @@ button.navbar-toggle {
 	.navbar a.main-site-logo.navbar-brand img {
 		width: 100%;
 		height: auto;
-	}	
+	}
 }
 
 /* EXAMPLE 8 - Center on mobile*/
@@ -395,7 +395,7 @@ p.image-alt-text {
 }
 
 .page-title {
-	
+
 }
 
 .row.centerpiece {
@@ -693,7 +693,7 @@ p.image-alt-text {
 	margin: 24px 0px;
 }
 
-.footer-links {	
+.footer-links {
 	position: relative;
 	color: #fff;
 	padding: 0px 72px;
@@ -737,6 +737,7 @@ p.image-alt-text {
 .final-footer-text {
 	margin-top: 36px;
 	text-align: center;
+	margin-bottom: 12px;
 }
 
 .final-footer-text a {
@@ -833,7 +834,7 @@ p.image-alt-text {
 
 	.home-banner-text a {
 		color: #03345d;
-	}	
+	}
 
 	.home-banner-image {
 		display: none;
