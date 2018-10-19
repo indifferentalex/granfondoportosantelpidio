@@ -2,7 +2,7 @@
 layout: article_no_sponsor
 title: Il regolamento della Gran Fondo del Fermano 2018
 permalink: /regolamento_gran_fondo_del_fermano/
-logo: logo_gfdf
+logo: logo_gfddsdf
 ---
 
 # Il regolamento
