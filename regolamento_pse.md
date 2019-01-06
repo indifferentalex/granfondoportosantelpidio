@@ -7,15 +7,15 @@ logo: logo_gfpse
 
 # Il regolamento
 
-La VI Gran Fondo Internazionale Città di Porto Sant’Elpidio partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
+La VII Gran Fondo Internazionale Città di Porto Sant’Elpidio partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
 La Gran Fondo Internazionale Città di Porto Sant’Elpidio è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2018, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
 
-Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2018, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 15,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
+Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2019, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 15,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
 
 Il Comitato Organizzatore potrà in ogni momento ed a suo insindacabile giudizio decidere se accettare o meno l’iscrizione oppure escludere un iscritto dalla manifestazione, qualora arrecasse danno alla immagine della stessa.
 
-Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l'anno 2018 e:
+Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l’anno 2019 e:
 
 * di avere preso visione del regolamento e di accettarlo integralmente;
 
@@ -33,66 +33,79 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-**Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30, con Partenza alle ore 7.45, presso il Diamond Palace LORIBLU - Via dell’Economia.** (Uscita A14, subito a destra, dopo 500mt).
+Ritrovo presso Piazza Garibaldi - Teatro Beniamino Gigli, Lunedì 22 Aprile 2018 dalle ore 6.30 alle ore 8.30
+
+Partenza presso Via Cesare Battisti (Porto Sant’Elpidio centro, adiacente alla Piazza Garibaldi) alle ore 9.00
 
 ## 2. Tipo di partenza
 
-La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento davanti al Diamond Palace LORIBLU e i primi 26,00 km saranno non agonistici, la velocità sarà assistita per una media di kmh 30,00. I restanti 104,300 km saranno agonistici velocità libera. Per il tratto agonistico velocità libera il via sarà volante.
+La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento in Via Cesare Battisti e i primi 2,00 km saranno non agonistici e per il tratto agonistico velocità libera il via sarà volante.
 
 ## 3. Partenza alla Francese
 
-Oltre alla normale procedura di partenza in gruppo prevista per le ore 7.45, viene inserita anche la possibilità, per chi lo desiderasse, di poter partire con la modalità definita "alla francese".
+Oltre alla normale procedura di partenza in gruppo prevista per le ore 9.00, viene inserita anche la possibilità, per chi lo desiderasse, di poter partire con la modalità definita “alla francese”.
 
-La "partenza alla francese" sarà possibile dalle ore 6.30 e fino alle ore 7.15.
+La “partenza alla francese” sarà possibile dalle ore 7.30 e fino alle ore 8.30.
 
-È comunque obbligatorio l'uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta (di colore diverso dagli altri). La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di [www.kronoservice.com](http://www.kronoservice.com) posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso lungo. 
+È comunque obbligatorio l’uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta. La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di MyLaps ([www.endu.net](https://www.endu.net/)) posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso lungo.
 
-Con la "partenza alla francese" è lo stesso della Gran Fondo con le indicazioni di colore giallo.
+Con la “partenza alla francese” la segnalazione stradale è la stessa della Gran Fondo con le indicazioni di colore giallo.
 
-E’ obbligatorio rispettare il Codice della Strada prestando particolare attenzione agli incroci che non saranno ancora presidiati dal personale della organizzazione e non muniti da apri corsa e fine corsa. 
+E’ obbligatorio rispettare il Codice della Strada prestando particolare attenzione agli incroci che non saranno ancora presidiati dal personale della organizzazione e non muniti da apri corsa e fine corsa.
 
-Chi utilizza la "partenza alla francese" dovrà procedere lungo il percorso di gara senza interferire né condizionare lo svolgimento della gara agonistica lasciandosi superare agevolmente dalla testa della corsa. Coloro che fossero sorpresi con atteggiamenti scorretti verranno esclusi dalle classifiche unitamente agli altri eventuali concorrenti coinvolti e compiacenti.
+Chi utilizza la “partenza alla francese” dovrà procedere lungo il percorso di gara senza interferire né condizionare lo svolgimento della gara agonistica lasciandosi superare agevolmente dalla testa della corsa. Coloro che fossero sorpresi con atteggiamenti scorretti verranno esclusi dalle classifiche unitamente agli altri eventuali concorrenti coinvolti e compiacenti.
 
 <a name="apertura-e-chiusura-inscrizioni"></a>
 
 ## 4. Quota di partecipazione
 
-L'iscrizione è gratuita per tutti fino al 30 Marzo 2018, successivamente pari ad: Euro 25,00. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
+*L’iscrizione è a Pagamento. La quota di partecipazione è di euro 15,00 per coloro che si iscrivono on line.*
 
-Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pacco regalo.
+Per i partecipanti *“partenza alla Francese” Euro 10,00* (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
-La busta numero ed il gadget della gran fondo possono essere ritirati presso Diamond Palace Loriblu, Via dell’Economia 09 di Porto Sant’Elpidio, uscita autostradale, rotonda Loriblu a destra per 500 mt. Sabato 31 Marzo 2018 presso il Factory Store LORIBLU dalle ore 15.00 alle ore 19.00. Domenica 01 aprile 2018 dalle ore 15 alle 18.30 presso il Diamond Palace Loriblu. Lunedì 02 Aprile 2018 dalle ore 6.00 alle ore 7.30 presso Il Diamond Palace Loriblu.
+Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce e pacco regalo.
 
-La busta numero può essere ritirata anche da terze persone presentando la card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
+*Il Pacco Premio, può essere ritirato presso Piazza Garibaldi - Teatro Beniamino Gigli:*
+*Sabato 20 Aprile 2019*, dalle ore 15.00 alle ore 19.00.
+*Domenica 21 Aprile 2019*, dalle 15,00 alle ore 19,00.
+*Lunedì 22 Aprile 2019*, dalle ore 6.30 alle ore 8.30 e dalle ore 14.00 presso il ritrovo del Pranzo.
 
-Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro. Il pranzo si svolgerà presso il ristorante Il Gambero, Via Mazzini 1, Porto Sant’Elpidio dalle ore 12.15. Famigliari ed accompagnatori possono partecipare sempre al costo 15,00 euro.
+Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
+
+*Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro.* Il pranzo si svolgerà presso il Ristorante Il Gambero o altri ristoranti Convenzionati di Porto Sant’Elpidio dalle ore 13.00. Famigliari ed accompagnatori possono partecipare sempre al costo *15,00 euro. Prenotazione a Vostro carico presso Ristoranti convenzionati.*
 
 Per tutti gli iscritti attivo il servizio docce presso Palestra Comunale, Scuola Media G. Galilei, chiaramente segnalato con frecce.
 
-Non saranno accettate sostituzioni il giorno della gara.  In caso di mancata partecipazione la quota d’iscrizione versata non sarà restituita. In caso di annullamento della manifestazione causa forze maggiori la quota di partecipazione non verrà restituita.
+Non saranno accettate sostituzioni il giorno della gara.
+
+In caso di mancata partecipazione la quota d’iscrizione versata non sarà restituita. In caso di annullamento della manifestazione causa forze maggiori la quota di partecipazione non verrà restituita.
 
 ## 5. Apertura e Chiusura iscrizioni
 
-Le iscrizioni on line si aprono il 17 Ottobre 2017 e chiuderanno Domenica 01 Aprile 2018 alle ore 20.00.
+*Le iscrizioni on line si aprono il 07 Gennaio 2018 e chiuderanno Giovedì 18 Aprile alle ore 24.00.*
 
-Le iscrizioni con operatore sono aperte presso Diamond Palace Loriblu, via dell’Economia 09 di Porto Sant’Elpidio, uscita autostradale, rotonda Loriblu a destra 500 mt. Sabato 31 Marzo, dalle ore 15.00 alle ore 19.00 presso il Factory Store LORIBLU. Domenica 01 Aprile 2018 dalle ore 15.00 alle ore 18.30 presso il ritrovo Diamond Palace Loriblu. Lunedì 2 Aprile 2018 dalle ore 5.45 alle ore 7.30 presso il Ritrovo Diamond Palace LORIBLU.
+*Le iscrizioni con operatore, al costo di 20,00 euro, sono aperte presso Piazza Garibaldi - Teatro Beniamino Gigli:*
+
+*Sabato 20 Aprile 2019*, dalle ore 15.00 alle ore 19.00.
+*Domenica 21 Aprile 2019*, dalle 15.00 alle ore 19.00.
+*Lunedì 22 Aprile 2019*, dalle ore 6.30 alle ore 8.30.
+Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, lista premi ed informazioni sul percorso
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, lista premi ed informazioni sul percorso.
 
-## 6. Iscrizioni individuali e collettive
+## 6. Iscrizioni individuali e collettive e modalità di pagamento
 
-Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l'elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte.
+Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Sabato, Domenica e Lunedì *all’operatore al costo di Euro 20,00*, attraverso bonifico bancario per Iscrizioni on line sul sito *www.granfondopse.it al costo di Euro 15,00* (Vedi sul sito voce “Iscrizioni”), oppure attraverso il sito di [www.endu.net](https://www.endu.net/) con possibilità di pagamento tramite carta di credito, Paypal, Bonifico Bancario SOFORT, sempre *al costo di euro 15,00.*
 
 ## 7. Controlli e Cronometraggio
 
-Il servizio di cronometraggio sarà fornito da KronoService, distributore ufficiale del marchio Winning Time.
-Per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito kronoservice.com.
+Il servizio di cronometraggio sarà fornito da MyLaps per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito [www.endu.net](https://www.endu.net/).
 
 ## 8. Chilometri totali percorso
 
-**Gran Fondo - Percorso velocità assistita Km. 26,000 - Percorso agonistico velocità libera Km. 104,000. Totale km 130,200.**
+**La Gran Fondo Totalmente agonistica misura KM 95,600.**
 
-**Partenza alla francese – velocità libera km. 130,200.**
+Partenza alla francese – velocità libera km. 95,600.
 
 ## 9. Categorie e Classifiche individuali
 
@@ -102,25 +115,25 @@ Per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito
 
 * Junior Women Sport, Elite Women Sport, Master Women Sport 1, Master Women 2.
 
-* Ciclo Sportivo – La medio fondo del ciclo sportivo termina al primo passaggio sotto lo striscione d’arrivo, esattamente al km 119,600.
+* Ciclo Sportivo.
 
 * Comunque tutte le categorie riconosciute dalla Federazione Ciclistica Italiana.
 
-**Saranno premiati i primi 3 assoluti uomini e donne e premi al primo arrivato di tutte le categorie. Nella busta tecnica ci sarà elenco premi.**
+Saranno premiati i primi 3 assoluti uomini e donne e premi al primo arrivato di tutte le categorie. Nella busta tecnica ci sarà elenco premi.
 
-Le classifiche assolute e di categoria saranno redatte sulla base dell'ordine d'arrivo e dei tempi rilevati con il sistema Winnigtime®, Fotofinish e Giudici di Gara.
+Le classifiche assolute e di categoria saranno redatte sulla base dell’ordine d’arrivo e dei tempi rilevati con il sistema [www.endu.net](https://www.endu.net/), Fotofinish e Giudici di Gara.
 
 ## 10. Classifica generale per società
 
-Sarà stilata una classifica per società con più numero di partecipanti.
+Sarà stilata una classifica per società con più numero di partecipanti arrivati.
 
 ## 11. Premi e Premiazioni
 
-Saranno subito premiati sul palco premiazioni di arrivo i primi tre arrivati uomini e donne, il resto durante il pranzo al Ristorante il Gambero in via Mazzini 1 di Porto Sant’Elpidio. I premi sono consegnati esclusivamente il giorno della gara.
+Saranno subito premiati sul palco premiazioni di arrivo i primi tre arrivati uomini e donne, il resto durante il Pasta Party. I premi sono consegnati esclusivamente il giorno della gara.
 
 ## 12. Assistenza sanitaria
 
-Prevede l'impiego di più autoambulanze con medici e infermieri, punti fissi di Pronto Soccorso: uno permanente in zona arrivo. Punti mobili.
+Prevede l’impiego di più autoambulanze con medici e infermieri, punti fissi di Pronto Soccorso: uno permanente in zona arrivo. Punti mobili.
 
 ## 13. Assistenza meccanica
 
@@ -130,11 +143,11 @@ Sono autorizzate al seguito auto regolarmente registrate dal direttore di corsa,
 
 ## 14. Equipaggiamento obbligatorio
 
-**Tutti i partecipanti durante tutta la durata della gara dovranno obbligatoriamente indossare il casco, avere e utilizzare correttamente il CHIP per il cronometraggio, avere posizionati correttamente il cartellino numerato della bicicletta e il dorsale numerato sul retro della maglia.**
+Tutti i partecipanti durante tutta la durata della gara dovranno obbligatoriamente indossare il casco, avere e utilizzare correttamente il CHIP per il cronometraggio, avere posizionati correttamente il cartellino numerato della bicicletta e il dorsale numerato sul retro della maglia.
 
 ## 15. Assicurazione
 
-La manifestazione è assicurata dalla FCI (solo iscritti). 
+La manifestazione è assicurata dalla FCI (solo iscritti).
 
 I ciclisti non iscritti non devono inserirsi nel gruppo pena l'espulsione ed in caso di incidente denunciati a norma di legge.
 
@@ -146,7 +159,7 @@ I ciclisti che vengono superati dal mezzo "Fine Gara Ciclistica" devono rigorosa
 
 ## 17. Norme
 
-Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. La Gio.Ca Communications come società titolare della Gran Fondo Internazionale Città di Porto Sant’Elpidio declina ogni responsabilità per sé, per il comitato organizzatore e tutti coloro che collaborano alla organizzazione della manifestazione, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell'auto di fine manifestazione ciclistica, saranno segnalati all'autorità competente che attuerà le relative azioni.
+Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L’A.S.D. Gruppo Ciclistico Faleriense come società titolare della Gran Fondo Internazionale Città di Porto Sant’Elpidio declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell’auto di fine manifestazione ciclistica, saranno segnalati all’autorità competente che attuerà le relative azioni.
 
 ## 18. Giuria
 
