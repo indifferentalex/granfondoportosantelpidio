@@ -9,7 +9,7 @@ imagealt: "Gran Fondo Citta di Porto Sant'Elpidio, grande partenza con oltre 600
 
 # Edizione da incorniciare per la Granfondo Città di Porto Sant’Elpidio
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Gran Fondo Citta di Porto Sant'Elpidio, grande partenza con oltre 600 iscritti](https://s3.eu-central-1.amazonaws.com/giovanissimi/Granfondo+Citta%CC%80+di+Porto+Sant%2527Elpidio+03042018+partenza.jpg)
 

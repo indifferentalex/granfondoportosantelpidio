@@ -9,7 +9,7 @@ imagealt: "Gran Fondo Citta di Porto Sant'Elpidio, 2 Aprile 2018, il giorno di P
 
 # Granfondo Porto Sant’Elpidio: stop sul sito Kronoservice, iscrizioni gratuite direttamente sul posto a Porto Sant’Elpidio
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Gran Fondo Citta di Porto Sant'Elpidio, 2 Aprile 2018, il giorno di Pasquetta](https://s3.eu-central-1.amazonaws.com/giovanissimi/copertina_variant_gfpse_2018.jpg)
 

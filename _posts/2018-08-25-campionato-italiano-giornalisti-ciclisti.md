@@ -9,7 +9,7 @@ imagealt: "Gran Fondo del Fermano 2018, passaggio previsto alla Madonna dell'Amb
 
 # Il Campionato Italiano Giornalisti Ciclisti abbinato alla Granfondo dei Due Santuari del Fermano
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Gran Fondo del Fermano 2018, passaggio previsto alla Madonna dell'Ambro](https://s3.eu-central-1.amazonaws.com/giovanissimi/granfondo_dei_due_santuari.jpg)
 

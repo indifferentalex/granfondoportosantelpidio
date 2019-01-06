@@ -9,7 +9,7 @@ imagealt: "Città di Porto Sant'Elpidio"
 
 # Porto Sant’Elpidio, arriva Pasquetta con la Granfondo!
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Città di Porto Sant'Elpidio]({{ site.baseurl }}/assets/images/12798908_491897601011765_3248414447887008172_n.jpg)
 

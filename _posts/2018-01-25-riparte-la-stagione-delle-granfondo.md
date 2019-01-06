@@ -9,7 +9,7 @@ imagealt: "I due arrivi delle Gran Fondo di Porto Sant'Elpidio 2017"
 
 # Porto Sant’Elpidio e Fermano: riparte la stagione delle granfondo nella città elpidiense
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![I due arrivi delle Gran Fondo di Porto Sant'Elpidio 2017](https://s3.eu-central-1.amazonaws.com/giovanissimi/arrivi_granfondo_pse-fermano.jpg)
 

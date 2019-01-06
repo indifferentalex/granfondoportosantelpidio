@@ -9,7 +9,7 @@ imagealt: "Locandina Granfondo Città di Porto Sant'Elpidio settima edizione 22 
 
 # Riparte a pieno ritmo l’organizzazione della Granfondo Città di Porto Sant’Elpidio 2019
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Locandina Granfondo Città di Porto Sant'Elpidio settima edizione 22 Aprile 2019](https://s3.eu-central-1.amazonaws.com/giovanissimi/GRanfondo+Porto+Sant'Elpidio+22042018+locandina+sponsor.jpg)
 

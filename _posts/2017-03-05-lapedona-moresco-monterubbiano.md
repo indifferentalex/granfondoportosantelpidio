@@ -9,7 +9,7 @@ imagealt: "Monterubbiano, attraversato dalla Granfondo Città di Porto Sant'Elpi
 
 # Lapedona, Moresco e Monterubbiano: pedalando tra i comuni della Granfondo Porto Sant’Elpidio
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Lapedona, attraversato dalla Granfondo Città di Porto Sant'Elpidio 2017, V Edizione]({{ site.baseurl }}/assets/images/Lapedona.jpg)
 

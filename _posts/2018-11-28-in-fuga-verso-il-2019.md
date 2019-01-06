@@ -9,7 +9,7 @@ imagealt: "L’ospite della serata Riccardo Magrini, ex professionista degli ann
 
 # In fuga verso il 2019: Riccardo Magrini “star” del Gran Gala del Ciclismo a Porto Sant’Elpidio
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![L’ospite della serata Riccardo Magrini, ex professionista degli anni ottanta e voce tecnica del ciclismo per conto di Eurosport](https://s3.eu-central-1.amazonaws.com/giovanissimi/Riccardo+Magrini.jpg)
 

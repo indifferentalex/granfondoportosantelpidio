@@ -9,7 +9,7 @@ imagealt: "Gran Fondo del Fermano 2017, vittoria di Manuel Fedele"
 
 # Ambro e Corva: il 23 settembre la Granfondo dei due Santuari del Fermano
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Gran Fondo del Fermano 2017, vittoria di Manuel Fedele](https://s3.eu-central-1.amazonaws.com/giovanissimi/Granfondo+del+Fermano+15102017+vittoria+Manuel+Fedele.jpg)
 

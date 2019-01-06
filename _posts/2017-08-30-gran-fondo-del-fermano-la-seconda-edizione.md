@@ -9,7 +9,7 @@ imagealt: "La seconda edizione si terrà domenica 15 ottobre"
 
 # Granfondo del Fermano: domenica 15 ottobre la seconda edizione
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![La seconda edizione si terrà domenica 15 ottobre](https://s3.eu-central-1.amazonaws.com/giovanissimi/Granfondo+del+Fermano+15102017.jpg)
 

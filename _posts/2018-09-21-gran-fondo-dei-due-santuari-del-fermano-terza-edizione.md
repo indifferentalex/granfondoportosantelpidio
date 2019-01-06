@@ -9,7 +9,7 @@ imagealt: "Gran Fondo dei Due Santuari del Fermano 2018, terza edizione"
 
 # Granfondo dei due Santuari del Fermano: preparativi quasi ultimati per la terza edizione
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Gran Fondo dei Due Santuari del Fermano 2018, terza edizione](https://s3.eu-central-1.amazonaws.com/giovanissimi/GF+Santuari+Fermano+23092018.jpeg)
 

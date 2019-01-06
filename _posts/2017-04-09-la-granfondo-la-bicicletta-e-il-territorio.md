@@ -9,7 +9,7 @@ imagealt: "Comitato organizzatore e tavolo d'onore"
 
 # Porto Sant’Elpidio: la granfondo, la bicicletta e il territorio
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Comitato organizzatore e tavolo d'onore]({{ site.baseurl }}/assets/images/GF_PSElpidio_tavolo_d_onore.jpg)
 
@@ -29,7 +29,7 @@ Il tracciato è il punto di forza della manifestazione: nel raggio di 50 chilome
 
 # DAL KURDISTAN A PORTO SANT’ELPIDIO
 
-Ospiti presso il centro Turistico Le Mimose, saranno ai nastri di partenza della granfondo sette ciclisti del Kurdistan per dare una dimensione più internazionale all’evento e per diffondere il messaggio che lo sport non è solo un diritto ma anche un simbolo di libertà e speranza nonostante i problemi di carattere bellico e geo-politico. 
+Ospiti presso il centro Turistico Le Mimose, saranno ai nastri di partenza della granfondo sette ciclisti del Kurdistan per dare una dimensione più internazionale all’evento e per diffondere il messaggio che lo sport non è solo un diritto ma anche un simbolo di libertà e speranza nonostante i problemi di carattere bellico e geo-politico.
 
 # E BIKE STORE TUTTI CAMPIONI
 

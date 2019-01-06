@@ -9,7 +9,7 @@ imagealt: "Giorgio Martino e Simona Rolandi al Galà In Fuga verso il 2019 per l
 
 # Spettacolo, musica, emozioni e tutto il bello del ciclismo nel Galà "In Fuga verso il 2019"
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Giorgio Martino e Simona Rolandi al Galà In Fuga verso il 2019 per la Gran Fondo della città di Porto Sant'Elpidio allo chalet Tropical a Porto San Giorgio](https://s3.eu-central-1.amazonaws.com/giovanissimi/Gala+del+Ciclismo+19122018+Giorgio+Martino-Simona+Rolandi.jpg)
 

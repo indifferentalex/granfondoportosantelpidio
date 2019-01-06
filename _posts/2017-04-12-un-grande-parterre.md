@@ -9,7 +9,7 @@ imagealt: "Partenza della Granfondo Città di Porto Sant'Elpidio"
 
 # Un grande parterre per la Granfondo Città di Porto Sant’Elpidio
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Partenza della Granfondo Città di Porto Sant'Elpidio]({{ site.baseurl }}/assets/images/17916872.jpg)
 

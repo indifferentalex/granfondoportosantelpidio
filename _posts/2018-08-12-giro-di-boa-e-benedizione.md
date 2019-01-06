@@ -9,7 +9,7 @@ imagealt: "Gran Fondo del Fermano 2018, passaggio previsto alla Madonna dell'Amb
 
 # Granfondo dei due Santuari del Fermano: alla Madonna dell’Ambro giro di boa e la benedizione ai ciclisti
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Gran Fondo del Fermano 2018, passaggio previsto alla Madonna dell'Ambro](https://s3.eu-central-1.amazonaws.com/giovanissimi/santuario_del_ambro.jpg)
 

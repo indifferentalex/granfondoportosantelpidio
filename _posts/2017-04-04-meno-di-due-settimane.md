@@ -9,7 +9,7 @@ imagealt: "Monte Rinaldo comune della Granfondo Città di Porto Sant'Elpidio 201
 
 # Granfondo Città di Porto Sant’Elpidio, meno di due settimane all’evento di Pasquetta
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Cartolina della Granfondo Città di Porto Sant'Elpidio 2017, V Edizione]({{ site.baseurl }}/assets/images/GF_Porto_SantElpidio_17apr2017_cartolina_piccola.jpg)
 

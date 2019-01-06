@@ -9,7 +9,7 @@ imagealt: "Gran Fondo Citta di Porto Sant'Elpidio, premiazione dell'edizione pas
 
 # Granfondo Porto Sant’Elpidio: non perderti l’arrivo sul lungomare!
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Gran Fondo Citta di Porto Sant'Elpidio, premiazione dell'edizione passata, quest'anno il 2 Aprile 2018, con arrivo sul lungomare](https://s3.eu-central-1.amazonaws.com/giovanissimi/gfpse_lungomare_rotonda_premiazione.jpg)
 

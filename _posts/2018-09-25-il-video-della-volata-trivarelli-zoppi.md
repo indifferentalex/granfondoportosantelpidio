@@ -9,7 +9,7 @@ imagealt: "Contatto all'arrivo tra Trivarelli e Zoppi alla Gran Fondo dei Due Sa
 
 # Granfondo dei due Santuari del Fermano: il video della volata Trivarelli-Zoppi fa il giro del web e del mondo con il record di visualizzazioni!
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Contatto all'arrivo tra Trivarelli e Zoppi alla Gran Fondo dei Due Santuari del Fermano 2018, terza edizione](https://s3.eu-central-1.amazonaws.com/giovanissimi/GF+dei+due+Santuari+del+Fermano+23092018+contatto+arrivo+Zoppi-Trivarelli.jpg)
 

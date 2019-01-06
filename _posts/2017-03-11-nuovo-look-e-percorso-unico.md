@@ -9,7 +9,7 @@ imagealt: "L'altimetria della Granfondo Città di Porto Sant'Elpidio 2017, V Edi
 
 # Nuovo look e percorso unico per la Granfondo Città di Porto Sant’Elpidio del 17 aprile
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![L'altimetria della Granfondo Città di Porto Sant'Elpidio 2017, V Edizione]({{ site.baseurl }}/assets/images/GF_PSE_17_alt.jpg)
 

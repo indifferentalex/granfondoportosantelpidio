@@ -9,7 +9,7 @@ imagealt: "Podio maschile della Gran Fondo dei Due Santuari del Fermano 2018, te
 
 # Successo a tutto tondo della Granfondo dei due Santuari del Fermano
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Podio maschile della Gran Fondo dei Due Santuari del Fermano 2018, terza edizione](https://s3.eu-central-1.amazonaws.com/giovanissimi/GF+dei+due+Santuari+del+Fermano+23092018+podio.jpg)
 

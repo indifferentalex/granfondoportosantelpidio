@@ -9,7 +9,7 @@ imagealt: "Granfondo Città di Porto Sant'Elpidio 2017, V Edizione"
 
 # Porto Sant’Elpidio, Pasquetta con la Granfondo all’insegna del turismo lento
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Granfondo Città di Porto Sant'Elpidio 2017, V Edizione]({{ site.baseurl }}/assets/images/GF_Porto_SantElpidio_17apr2017_cartolina_piccola.jpg)
 

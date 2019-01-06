@@ -9,7 +9,7 @@ imagealt: "Voltanino Gran Gala del Ciclismo, in fuga verso il 2019 al Ristorante
 
 # In fuga verso il 2019, grandi preparativi per l’immancabile festa del ciclismo elpidiense di fine anno
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Voltanino Gran Gala del Ciclismo, in fuga verso il 2019 al Ristorante Chalet Tropical](https://s3.eu-central-1.amazonaws.com/giovanissimi/Gran+Gala+Ciclismo-In+Fuga+verso+il+2019+-+19122018+volantino.jpeg)
 

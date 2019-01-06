@@ -9,7 +9,7 @@ imagealt: "Petritoli comune della Granfondo Città di Porto Sant'Elpidio 2017, V
 
 # Petritoli, Monte Vidon Combatte e Ortezzano: pedalando tra i comuni della Granfondo Porto Sant’Elpidio
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Petritoli comune della Granfondo Città di Porto Sant'Elpidio 2017, V Edizione]({{ site.baseurl }}/assets/images/Petritoli_panorama.jpg)
 

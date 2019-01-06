@@ -9,7 +9,7 @@ imagealt: "Voltanino Gran Gala del Ciclismo, in fuga verso il 2019 al Ristorante
 
 # Porto San Giorgio 19 dicembre: cambio di data e di sede per l’evento “In fuga verso il 2019”
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Voltanino Gran Gala del Ciclismo, in fuga verso il 2019 al Ristorante Chalet Tropical](https://s3.eu-central-1.amazonaws.com/giovanissimi/Gran+Gala+Ciclismo-In+Fuga+verso+il+2019+-+19122018+volantino.jpeg)
 

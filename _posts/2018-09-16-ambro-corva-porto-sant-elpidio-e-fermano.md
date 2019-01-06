@@ -9,7 +9,7 @@ imagealt: "Gran Fondo del Fermano 2018, presentazione presso l'hotel-ristorante 
 
 # Ambro, Corva, Porto Sant’Elpidio e Fermano: territorio, spiritualità e sport al centro della Granfondo del 23 settembre
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Gran Fondo del Fermano 2018, presentazione presso l'hotel-ristorante Madonna dell'Ambro](https://s3.eu-central-1.amazonaws.com/giovanissimi/GF+Santuari+Fermano+15092018+presentazione.jpeg)
 

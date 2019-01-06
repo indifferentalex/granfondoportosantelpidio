@@ -9,7 +9,7 @@ imagealt: "Cartolina della Granfondo Città di Porto Sant'Elpidio 2017, V Edizio
 
 # Granfondo Porto Sant’Elpidio, un pranzo di pasquetta coi fiocchi nel dopo gara!
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Cartolina della Granfondo Città di Porto Sant'Elpidio 2017, V Edizione]({{ site.baseurl }}/assets/images/GF_Porto_SantElpidio_17apr2017_cartolina_piccola.jpg)
 

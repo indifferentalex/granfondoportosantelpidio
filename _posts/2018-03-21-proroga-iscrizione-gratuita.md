@@ -9,7 +9,7 @@ imagealt: "23 Marzo, i Moser a Porto Sant'Elpidio, mio padre una leggenda"
 
 # Granfondo Porto Sant’Elpidio: proroga dell’iscrizione gratuita fino a venerdì 30 marzo
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Gran Fondo Citta di Porto Sant'Elpidio, 2 Aprile 2018, Pasquetta, iscrizione gratuita fino al 30 marzo](https://s3.eu-central-1.amazonaws.com/giovanissimi/copertina_gfpse_2018.jpeg)
 

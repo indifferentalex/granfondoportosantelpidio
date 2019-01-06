@@ -9,7 +9,7 @@ imagealt: "Podio alla Gran Fondo Citta di Porto Sant'Elpidio, perla delle Marche
 
 # Granfondo Porto Sant’Elpidio: vernissage della sesta edizione venerdì 23 marzo
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Podio alla Gran Fondo Città di Porto Sant'Elpidio, perla delle Marche](https://s3.eu-central-1.amazonaws.com/giovanissimi/GFONDO_PSELPIDIO_PODIO.jpg)
 

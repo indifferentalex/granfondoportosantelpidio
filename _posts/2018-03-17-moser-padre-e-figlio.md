@@ -9,7 +9,7 @@ imagealt: "Gran Fondo Citta di Porto Sant'Elpidio, 2 Aprile 2018, Pasquetta"
 
 # Venerdì 23 marzo Moser padre e figlio a confronto nella serata di presentazione della Granfondo Porto Sant’Elpidio
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![23 Marzo, i Moser a Porto Sant'Elpidio, mio padre una leggenda](https://s3.eu-central-1.amazonaws.com/giovanissimi/locandina_i_moser_pse.jpeg)
 

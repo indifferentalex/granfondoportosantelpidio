@@ -9,7 +9,7 @@ imagealt: "Podio Maschile Gran Fondo Citta di Porto Sant'Elpido 2017 V Edizione"
 
 # Sole, mare, colline e biciclette: che Pasquetta alla Granfondo Città di Porto Sant’Elpidio!
 
-#### Luca Alò - {{ page.date | date: '%m/%d/%Y' }}
+#### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
 ![Podio Maschile Gran Fondo Città di Porto Sant'Elpido 2017 V Edizione]({{ site.baseurl }}/assets/images/GF PSElpidio 17042017 podio maschile.jpg)
 
