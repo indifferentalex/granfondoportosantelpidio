@@ -1,6 +1,6 @@
 ---
 layout: article_no_sponsor
-title: Il regolamento della Granfondo Città di Porto Sant'Elpidio 2018
+title: Il regolamento della Granfondo Città di Porto Sant'Elpidio 2019
 permalink: /regolamento_pse/
 logo: logo_gfpse
 ---
@@ -9,7 +9,7 @@ logo: logo_gfpse
 
 La VII Gran Fondo Internazionale Città di Porto Sant’Elpidio partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
-La Gran Fondo Internazionale Città di Porto Sant’Elpidio è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2018, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
+La Gran Fondo Internazionale Città di Porto Sant’Elpidio è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2019, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
 
 Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2019, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 15,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
 
@@ -89,7 +89,6 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 *Sabato 20 Aprile 2019*, dalle ore 15.00 alle ore 19.00.
 *Domenica 21 Aprile 2019*, dalle 15.00 alle ore 19.00.
 *Lunedì 22 Aprile 2019*, dalle ore 6.30 alle ore 8.30.
-Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, lista premi ed informazioni sul percorso
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, lista premi ed informazioni sul percorso.
 

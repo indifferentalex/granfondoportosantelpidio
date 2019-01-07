@@ -1,39 +1,39 @@
 ---
 layout: article_no_sponsor
-title: Il regolamento della Gran Fondo del Fermano 2018
+title: Il regolamento della Gran Fondo dei Due Santuari del Fermano 2019
 permalink: /regolamento_gran_fondo_del_fermano/
 logo: logo_gfddsdf
 ---
 
 # Il regolamento
 
-La III Gran Fondo del Fermano partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
+La IV Gran Fondo dei Due Santuari del Fermano partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
-La Gran Fondo del Fermano è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2018, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
+La Gran Fondo dei Due Santuari del Fermano è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2019, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
 
-Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2018, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 15,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
+Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2019, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 15,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
 
 Il Comitato Organizzatore potrà in ogni momento ed a suo insindacabile giudizio decidere se accettare o meno l’iscrizione oppure escludere un iscritto dalla manifestazione, qualora arrecasse danno alla immagine della stessa.
 
-Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l'anno 2018 e:
+Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l’anno 2019 e:
 
-* di avere preso visione del regolamento e di accettarlo integralmente
+* di avere preso visione del regolamento e di accettarlo integralmente;
 
-* di avere i requisiti regolamentari
+* di avere i requisiti regolamentari;
 
-* di conoscere le caratteristiche della manifestazione e di essere in condizioni psicofisiche adeguate alla partecipazione
+* di conoscere le caratteristiche della manifestazione e di essere in condizioni psicofisiche adeguate alla partecipazione;
 
-* di voler adeguarsi al regolamento, alle indicazioni della Direzione di gara e del personale addetto all'organizzazione
+* di voler adeguarsi al regolamento, alle indicazioni della Direzione di gara e del personale addetto all'organizzazione;
 
-* di consentire l'utilizzo dei propri dati da parte dei soggetti coinvolti nell'organizzazione della manifestazione nel rispetto del d. lgs 196/03
+* di consentire l'utilizzo dei propri dati da parte dei soggetti coinvolti nell'organizzazione della manifestazione nel rispetto del d. lgs 196/03;
 
-* di consentire l'utilizzo di fotografie, immagini filmate, registrazioni, derivanti dalla propria partecipazione alla manifestazione per ogni legittimo scopo, anche pubblicitario
+* di consentire l'utilizzo di fotografie, immagini filmate, registrazioni, derivanti dalla propria partecipazione alla manifestazione per ogni legittimo scopo, anche pubblicitario;
 
 * di rinunciare a qualsiasi azione di responsabilità o rivalsa nei confronti della società organizzatrice, dei partner o fornitori di quest'ultima, del personale addetto a qualsiasi titolo all'organizzazione, degli sponsor e dei patrocinatori, derivante dalla propria partecipazione alla manifestazione e ai suoi eventi collaterali. Così dicasi per coloro che effettuano l'iscrizione individuale sia a mezzo modulo, on-line, lettera, fax o tramite iscrizione collettiva di squadra.
 
 ## 1. Ritrovo e Partenza
 
-Domenica 23 settembre 2018 dalle ore 6.30 alle ore 8.00, con Partenza alle ore 8.30, presso Piazza Risorgimento via XX Settembre - Porto Sant’Elpidio sud (Uscita A14, subito a sinistra, altra rotonda a sinistra, direzione centro).
+Domenica 22 Settembre 2019 dalle ore 6.30 alle ore 8.00, con Partenza alle ore 8.30, presso Piazza Risorgimento via XX Settembre - Porto Sant’Elpidio sud (Uscita A14, subito a sinistra, altra rotonda a sinistra, direzione centro).
 
 ## 2. Tipo di partenza
 
@@ -45,9 +45,9 @@ Oltre alla normale procedura di partenza in gruppo prevista per le ore 8.30, vie
 
 La “partenza alla francese” sarà possibile dalle ore 7.00 e fino alle ore 8.00.
 
-È comunque obbligatorio l’uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta. La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di www.kronoservice.com posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso.
+È comunque obbligatorio l’uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta. La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di MyLaps ([www.endu.net](https://www.endu.net/)) posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso lungo.
 
-Con la “partenza alla francese” la segnaletica è la stessa della Gran Fondo con le indicazioni di colore giallo.
+Con la “partenza alla francese” la segnalazione stradale è la stessa della Gran Fondo con le indicazioni di colore giallo.
 
 E’ obbligatorio rispettare il Codice della Strada prestando particolare attenzione agli incroci che non saranno ancora presidiati dal personale della organizzazione e non muniti da apri corsa e fine corsa.
 
@@ -57,38 +57,42 @@ Chi utilizza la “partenza alla francese” dovrà procedere lungo il percorso 
 
 ## 4. Quota di partecipazione
 
-L'iscrizione è gratuita per tutti fino al 21 Settembre 2018, successivamente pari ad: Euro 25,00. Per gruppi superiori a 10 atleti sconto del 20% e per i partecipanti “partenza alla Francese” Euro 10,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
+*L’iscrizione è a Pagamento. La quota di partecipazione è di euro 15,00 per coloro che si iscrivono on line.*
 
-Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce, pasta party all’arrivo, pacco regalo.
+Per i partecipanti *“partenza alla Francese” Euro 10,00* (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
-Il Pacco Premio, può essere ritirato: il Sabato 22 settembre 2018 presso l’E Bike Store Tutticampioni in via XX Settembre 23 dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Domenica23 settembre dalle 6.30 alle ore 8.00 presso il Ritrovo Piazza Risorgimento in via XX Settembre, e dalle ore 14.00 presso il Santuario della Corva.
+Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce e pacco regalo.
+
+*Il Pacco Premio, può essere ritirato presso Piazza Garibaldi - Teatro Beniamino Gigli:*
+*Sabato 21 Settembre 2019*, presso l’E-Bike Store Tutticampioni in via XX Settembre 23 dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00.
+*Domenica 22 Settembre 2019*, dalle ore 6.30 alle ore 8.00 presso il ritrovo Piazza Risorgimento e dalle ore 14.00 presso il Santuario della Corva.
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
-Finita la gara gli atleti iscritti possono partecipare al pranzo: Pasta Party, che si svolgerà presso il Santuario Madonna della Corva dalle ore 12.15. Atleti, famigliari ed accompagnatori possono partecipare al Pasta Party acquistando il buono pasto ad Euro 13,00 al ritiro del pacco gara o busta tecnica, oppure è gradita la prenotazione al n. 389 1607169 di Vincenzo Santoni.
+*Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 13,00 euro.* Il pranzo si svolgerà all'arrivo presso il Santuario Madonna della Corva dalle ore 12.15. Famigliari ed accompagnatori possono partecipare sempre al costo 13,00 euro.
 
-<!-- Per tutti gli iscritti attivo il servizio docce presso Palestra Comunale, Scuola Media G. Galilei, chiaramente segnalato con frecce. -->
+Non saranno accettate sostituzioni il giorno della gara.
 
-Non saranno accettate sostituzioni il giorno della gara. In caso di mancata partecipazione la quota d’iscrizione versata non sarà restituita. In caso di
-
-annullamento della manifestazione causa forze maggiori la quota di partecipazione non verrà restituita.
+In caso di mancata partecipazione la quota d’iscrizione versata non sarà restituita. In caso di annullamento della manifestazione causa forze maggiori la quota di partecipazione non verrà restituita.
 
 ## 5. Apertura e Chiusura iscrizioni
 
-Le iscrizioni on line si aprono il 17 Ottobre 2017 e chiuderanno Venerdì 21 settembre 2018 alle ore 20.00.
+*Le iscrizioni on line si aprono il 07 Gennaio 2018 e chiuderanno Venerdì 20 Settembre alle ore 24.00.*
 
-Le iscrizioni con operatore sono aperte: Sabato 22 settembre 2018 dalle ore 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00 presso E Bike Store Tutticampioni via XX Settembre 23. Domenica 23 settembre 2018 dalle ore 6.30 alle ore 8.00 presso il Ritrovo in Piazza Risorgimento via XX Settembre.
+*Le iscrizioni con operatore, al costo di 20,00 euro, sono aperte presso l’E-Bike Store Tutticampioni in via XX Settembre:*
 
-Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, card per il ritiro del pacco premio, card per il Pasta Party, lista premi ed informazioni sul percorso.
+*Sabato 21 Settembre 2019*, presso l’E-Bike Store Tutticampioni in via XX Settembre 23 dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00.
+*Domencia 22 Settembre 2019*, dalle ore 6.30 alle ore 8.30 presso il Ritrovo in Piazza Risorgimento via XX Settembre.
 
-## 6. Iscrizioni individuali e collettive e Modalità di pagamento
+Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, lista premi ed informazioni sul percorso.
 
-Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Sabato e Domenica all’operatore, oppure attraverso bonifico bancario per Iscrizioni on line solo per i giorni 22 e 23 Settembre in quanto gli altri giorni iscrizioni gratuite. Vedi sul sito voce “Iscrizioni”, oppure attraverso il sito di www.kronoservice.com
+## 6. Iscrizioni individuali e collettive e modalità di pagamento
+
+Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Sabato e Domenica *all’operatore al costo di Euro 20,00*, attraverso bonifico bancario per Iscrizioni on line sul sito *www.granfondopse.it al costo di Euro 15,00* (Vedi sul sito voce “Iscrizioni”), oppure attraverso il sito di [www.endu.net](https://www.endu.net/) con possibilità di pagamento tramite carta di credito, Paypal, Bonifico Bancario SOFORT, sempre *al costo di euro 15,00.*
 
 ## 7. Controlli e Cronometraggio
 
-Il servizio di cronometraggio sarà fornito da KronoService, distributore ufficiale del marchio Winning Time.
-Per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito kronoservice.com.
+Il servizio di cronometraggio sarà fornito da MyLaps per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito [www.endu.net](https://www.endu.net/).
 
 ## 8. Chilometri totali percorso
 
@@ -98,23 +102,23 @@ Partenza alla francese – velocità libera km. 129,300.
 
 ## 9. Categorie e Classifiche individuali
 
-È responsabilità dei singoli partecipanti controllare l’esattezza dei propri dati pubblicati nella lista ufficiale degli iscritti. Non saranno accettate richieste di diversa assegnazione dopo la gara. Categorie della Gran Fondo sono:
+È responsabilità dei singoli partecipanti controllare l'esattezza dei propri dati pubblicati nella lista ufficiale degli iscritti. Non saranno accettate richieste di diversa assegnazione dopo la gara. Categorie della Gran Fondo sono:
 
-Junior Sport, Elite Sport, Master 1, Master 2, Master 3, Master 4, Master 5, Master 6, Master 7/8.
+* Junior Sport, Elite Sport, Master 1, Master 2, Master 3, Master 4, Master 5, Master 6, Master 7/8.
 
-Junior Women Sport, Elite Women Sport, Master Women Sport 1, Master Women 2.
+* Junior Women Sport, Elite Women Sport, Master Women Sport 1, Master Women 2.
 
-Ciclo Sportivo.
+* Ciclo Sportivo.
 
-Comunque tutte le categorie riconosciute dalla Federazione Ciclistica Italiana.
+* Comunque tutte le categorie riconosciute dalla Federazione Ciclistica Italiana.
 
-Saranno premiati i primi 3 assoluti uomini e donne e premi ai primi tre arrivati di tutte le categorie. Nella busta tecnica ci sarà elenco premi.
+Saranno premiati i primi 3 assoluti uomini e donne e premi al primo arrivato di tutte le categorie. Nella busta tecnica ci sarà elenco premi.
 
-Le classifiche assolute e di categoria saranno redatte sulla base dell’ordine d’arrivo e dei tempi rilevati con il sistema Winnigtime®, Fotofinish e Giudici di Gara.
+Le classifiche assolute e di categoria saranno redatte sulla base dell’ordine d’arrivo e dei tempi rilevati con il sistema [www.endu.net](https://www.endu.net/), Fotofinish e Giudici di Gara.
 
 ## 10. Classifica generale per società
 
-Sarà stilata una classifica per società con più numero di partecipanti.
+Sarà stilata una classifica per società con più numero di partecipanti arrivati.
 
 ## 11. Premi e Premiazioni
 
@@ -122,7 +126,7 @@ Saranno subito premiati sul palco premiazioni di arrivo i primi tre arrivati uom
 
 ## 12. Assistenza sanitaria
 
-Prevede l'impiego di più autoambulanze con medici e infermieri, punti fissi di Pronto Soccorso: uno permanente in zona arrivo. Punti mobili.
+Prevede l’impiego di più autoambulanze con medici e infermieri, punti fissi di Pronto Soccorso: uno permanente in zona arrivo. Punti mobili.
 
 ## 13. Assistenza meccanica
 
@@ -132,7 +136,7 @@ Sono autorizzate al seguito auto regolarmente registrate dal direttore di corsa,
 
 ## 14. Equipaggiamento obbligatorio
 
-**Tutti i partecipanti durante tutta la durata della gara dovranno obbligatoriamente indossare il casco, avere e utilizzare correttamente il CHIP per il cronometraggio, avere posizionati correttamente il cartellino numerato della bicicletta e il dorsale numerato sul retro della maglia.**
+Tutti i partecipanti durante tutta la durata della gara dovranno obbligatoriamente indossare il casco, avere e utilizzare correttamente il CHIP per il cronometraggio, avere posizionati correttamente il cartellino numerato della bicicletta e il dorsale numerato sul retro della maglia.
 
 ## 15. Assicurazione
 
@@ -148,7 +152,7 @@ I ciclisti che vengono superati dal mezzo "Fine Gara Ciclistica" devono rigorosa
 
 ## 17. Norme
 
-Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L’A.S.D. Gruppo Ciclistico Faleriense come società titolare della Gran Fondo Internazionale Città di Porto Sant’Elpidio declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell’auto di fine manifestazione ciclistica, saranno segnalati all’autorità competente che attuerà le relative azioni.
+Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L’A.S.D. Gruppo Ciclistico Faleriense come società titolare della Gran Fondo dei Due Santuari del Fermano declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell’auto di fine manifestazione ciclistica, saranno segnalati all’autorità competente che attuerà le relative azioni.
 
 ## 18. Giuria
 
