@@ -7,7 +7,7 @@ logo: logo_gfpse
 
 # Il regolamento
 
-### Nuovo Percorso Totalmente Agonistico Km 95,600.
+### Nuovo Percorso Totalmente Agonistico Km 90,600.
 
 ### Quota di Partecipazione € 15.00.
 
@@ -108,9 +108,9 @@ Il servizio di cronometraggio sarà fornito da MyLaps per informazioni o chiarim
 
 ## 8. Chilometri totali percorso
 
-**La Gran Fondo Totalmente agonistica misura KM 95,600.**
+**La Gran Fondo Totalmente agonistica misura KM 90,600.**
 
-Partenza alla francese – velocità libera km. 95,600.
+Partenza alla francese – velocità libera km. 90,600.
 
 ## 9. Categorie e Classifiche individuali
 
