@@ -39,9 +39,9 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-Ritrovo presso Piazza Garibaldi - Teatro Beniamino Gigli, Lunedì 22 Aprile 2018 dalle ore 6.30 alle ore 8.30
+Ritrovo presso Piazza Risorgimento - E-Bike Store Tutticampioni, Lunedì 22 Aprile 2018 dalle ore 6.30 alle ore 8.30
 
-Partenza presso Via Cesare Battisti (Porto Sant’Elpidio centro, adiacente alla Piazza Garibaldi) alle ore 9.00
+Partenza presso Pizza Risorgimento (Porto Sant’Elpidio sud) alle ore 9.00
 
 ## 2. Tipo di partenza
 
@@ -71,7 +71,7 @@ Per i partecipanti *“partenza alla Francese” Euro 10,00* (nel modulo d’isc
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce e pacco regalo.
 
-*Il Pacco Premio, può essere ritirato presso Piazza Garibaldi - Teatro Beniamino Gigli:*
+*Il Pacco Premio, può essere ritirato presso Piazza Risorgimento:*
 *Sabato 20 Aprile 2019*, dalle ore 15.00 alle ore 19.00.
 *Domenica 21 Aprile 2019*, dalle 15,00 alle ore 19,00.
 *Lunedì 22 Aprile 2019*, dalle ore 6.30 alle ore 8.30 e dalle ore 14.00 presso il ritrovo del Pranzo.
@@ -80,7 +80,7 @@ Il pacco premio può essere ritirato anche da terze persone presentando card del
 
 *Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro.* Il pranzo si svolgerà presso il Ristorante Il Gambero o altri ristoranti Convenzionati di Porto Sant’Elpidio dalle ore 13.00. Famigliari ed accompagnatori possono partecipare sempre al costo *15,00 euro. Prenotazione a Vostro carico presso Ristoranti convenzionati.*
 
-Per tutti gli iscritti attivo il servizio docce presso Palestra Comunale, Scuola Media G. Galilei, chiaramente segnalato con frecce.
+Per tutti gli iscritti attivo il servizio docce presso Palestra comunale via Pesaro, chiaramente segnalato con frecce.
 
 Non saranno accettate sostituzioni il giorno della gara.
 
@@ -90,7 +90,7 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 *Le iscrizioni on line si aprono il 07 Gennaio 2018 e chiuderanno Giovedì 18 Aprile alle ore 24.00.*
 
-*Le iscrizioni con operatore, al costo di 20,00 euro, sono aperte presso Piazza Garibaldi - Teatro Beniamino Gigli:*
+*Le iscrizioni con operatore, al costo di 20,00 euro, sono aperte presso Piazza Risorgimento - E-Bike Store Tutticampioni:*
 
 *Sabato 20 Aprile 2019*, dalle ore 15.00 alle ore 19.00.
 *Domenica 21 Aprile 2019*, dalle 15.00 alle ore 19.00.
