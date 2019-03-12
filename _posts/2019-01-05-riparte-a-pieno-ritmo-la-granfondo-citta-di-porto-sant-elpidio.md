@@ -3,7 +3,7 @@ layout: article
 title: "Riparte a pieno ritmo l’organizzazione della Granfondo Città di Porto Sant’Elpidio 2019"
 description: "Porto Sant’Elpidio si prepara a vivere per il settimo anno di fila il prestigio della sua Granfondo nel tradizionale appuntamento di Pasquetta (lunedì 22 aprile)."
 date: 2019-01-05 10:00:00 -0600
-image: https://s3.eu-central-1.amazonaws.com/giovanissimi/GRanfondo+Porto+Sant'Elpidio+22042018+locandina+sponsor.jpg
+image: https://s3.eu-central-1.amazonaws.com/giovanissimi/copertina-gfpse-2019.jpg
 imagealt: "Locandina Granfondo Città di Porto Sant'Elpidio settima edizione 22 Aprile 2019"
 ---
 
@@ -11,7 +11,7 @@ imagealt: "Locandina Granfondo Città di Porto Sant'Elpidio settima edizione 22 
 
 #### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
-![Locandina Granfondo Città di Porto Sant'Elpidio settima edizione 22 Aprile 2019](https://s3.eu-central-1.amazonaws.com/giovanissimi/GRanfondo+Porto+Sant'Elpidio+22042018+locandina+sponsor.jpg)
+![Locandina Granfondo Città di Porto Sant'Elpidio settima edizione 22 Aprile 2019](https://s3.eu-central-1.amazonaws.com/giovanissimi/copertina-gfpse-2019.jpg)
 
 Porto Sant’Elpidio si prepara a vivere per il settimo anno di fila il prestigio della sua Granfondo nel tradizionale appuntamento di Pasquetta (lunedì 22 aprile).
 
