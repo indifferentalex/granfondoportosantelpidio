@@ -837,7 +837,7 @@ p.image-alt-text {
 	}
 
 	.home-banner-image {
-		display: none;
+		/* display: none; */
 	}
 }
 
