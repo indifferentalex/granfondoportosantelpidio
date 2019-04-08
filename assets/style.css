@@ -827,6 +827,13 @@ p.image-alt-text {
 	text-decoration: underline;
 }
 
+.row.centerpiece img.banner-over-banner {
+	position: absolute;
+	width: 35%;
+	left: 36px;
+	top: 36px;
+}
+
 @media (max-width: 992px) {
 	.home-banner-text {
 		color: #03345d;
@@ -838,6 +845,13 @@ p.image-alt-text {
 
 	.home-banner-image {
 		/* display: none; */
+	}
+
+	.row.centerpiece img.banner-over-banner {
+		position: absolute;
+		width: 50%;
+		left: 24px;
+		top: 24px;
 	}
 }
 
