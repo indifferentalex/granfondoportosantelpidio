@@ -11,7 +11,7 @@ logo: logo_gfpse
 
 ### Quota di Partecipazione € 15.00.
 
-### Pranzo Ristoranti Convenzionati € 15,00.
+### Pranzo con servizio catering a base di pesce al prezzo speciale € 15,00.
 
 La Lipobreak Race partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
@@ -78,7 +78,7 @@ Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccors
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
-*Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro.* Il pranzo si svolgerà presso il Ristorante Il Gambero o altri ristoranti Convenzionati di Porto Sant’Elpidio dalle ore 13.00. Famigliari ed accompagnatori possono partecipare sempre al costo *15,00 euro. Prenotazione a Vostro carico presso Ristoranti convenzionati.*
+*Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro.* Il pranzo si svolgerà presso l'arrivo dalle ore 13.00 con un servizio di catering a base di pesce. Famigliari ed accompagnatori possono partecipare sempre al costo *15,00 euro.*
 
 Per tutti gli iscritti attivo il servizio docce presso Palestra comunale via Pesaro, chiaramente segnalato con frecce.
 
