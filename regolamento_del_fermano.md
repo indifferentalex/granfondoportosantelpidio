@@ -2,7 +2,7 @@
 layout: article_no_sponsor
 title: Il regolamento della Gran Fondo dei Due Santuari del Fermano 2019
 permalink: /regolamento_gran_fondo_del_fermano/
-logo: logo_gfddsdf
+logo: logo_gftsdf
 ---
 
 # Il regolamento
