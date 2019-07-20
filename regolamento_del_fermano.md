@@ -146,6 +146,23 @@ I ciclisti non iscritti non devono inserirsi nel gruppo pena l'espulsione ed in 
 
 ## 16. Manifestazione ciclistica
 
+<div class="row promotion-banner">
+	<div class="col-md-3"></div>
+	<div class="col-md-6">
+		<div class="row">
+			<div class="col-xs-6">
+				<a href="http://motostaffettateramo.blogspot.com/" target="_blank">
+					<img src="https://s3.eu-central-1.amazonaws.com/giovanissimi/scorta_tecnica_teramo.jpeg" />
+				</a>
+			</div>
+			<div class="col-xs-6">
+				<img src="https://s3.eu-central-1.amazonaws.com/giovanissimi/scorte_tecniche_molisane.jpeg" />
+			</div>
+		</div>
+	</div>
+	<div class="col-md-3"></div>
+</div>
+
 Vettura con scritta "Inizio gara ciclistica", vettura con scritta "Fine gara ciclistica".
 
 I ciclisti che vengono superati dal mezzo "Fine Gara Ciclistica" devono rigorosamente rispettare il Codice della Strada.
