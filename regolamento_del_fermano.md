@@ -1,15 +1,15 @@
 ---
 layout: article_no_sponsor
-title: Il regolamento della Gran Fondo dei Due Santuari del Fermano 2019
+title: Il regolamento della Gran Fondo dei Tre Santuari del Fermano 2019
 permalink: /regolamento_gran_fondo_del_fermano/
-logo: logo_gftsdf
+logo: logo_gftsdf_2019
 ---
 
 # Il regolamento
 
-La IV Gran Fondo dei Due Santuari del Fermano partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
+La V Gran Fondo dei Tre Santuari del Fermano partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
-La Gran Fondo dei Due Santuari del Fermano è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2019, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
+La Gran Fondo dei Tre Santuari del Fermano è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2019, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
 
 Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2019, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 15,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
 
@@ -33,17 +33,17 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-Domenica 22 Settembre 2019 dalle ore 6.30 alle ore 8.00, con Partenza alle ore 8.30, presso Piazza Risorgimento via XX Settembre - Porto Sant’Elpidio sud (Uscita A14, subito a sinistra, altra rotonda a sinistra, direzione centro).
+Domenica 22 Settembre 2019 dalle ore 7.30 alle ore 8.30, con Partenza alle ore 9:00, presso il Santuario della Madonna delle Grazie - Monte Giberto.
 
 ## 2. Tipo di partenza
 
-La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento in Piazza Risorgimento Porto Sant’Elpidio sud e i primi 62,800 km saranno non agonistici, la velocità sarà assistita per una media di kmh 30,00. I restanti 66,500 km saranno agonistici velocità libera. Per il tratto agonistico velocità libera il via sarà volante.
+La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento in Piazza Risorgimento Porto Sant’Elpidio sud e i primi 48,200 km saranno non agonistici, la velocità sarà assistita per una media di kmh 30,00. I restanti 65,900 km saranno agonistici velocità libera. Per il tratto agonistico velocità libera il via sarà volante.
 
 ## 3. Partenza alla Francese
 
-Oltre alla normale procedura di partenza in gruppo prevista per le ore 8.30, viene inserita anche la possibilità, per chi lo desiderasse, di poter partire con la modalità definita “alla francese”.
+Oltre alla normale procedura di partenza in gruppo prevista per le ore 9.00, viene inserita anche la possibilità, per chi lo desiderasse, di poter partire con la modalità definita “alla francese”.
 
-La “partenza alla francese” sarà possibile dalle ore 7.00 e fino alle ore 8.00.
+La “partenza alla francese” sarà possibile dalle ore 7.30 e fino alle ore 8.30.
 
 È comunque obbligatorio l’uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta. La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di MyLaps ([www.endu.net](https://www.endu.net/)) posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso lungo.
 
@@ -63,9 +63,9 @@ Per i partecipanti *“partenza alla Francese” Euro 10,00* (nel modulo d’isc
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce e pacco regalo.
 
-*Il Pacco Premio, può essere ritirato presso Piazza Garibaldi - Teatro Beniamino Gigli:*
+*Il Pacco Premio, può essere ritirato:*
 *Sabato 21 Settembre 2019*, presso l’E-Bike Store Tutticampioni in via XX Settembre 23 dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00.
-*Domenica 22 Settembre 2019*, dalle ore 6.30 alle ore 8.00 presso il ritrovo Piazza Risorgimento e dalle ore 14.00 presso il Santuario della Corva.
+*Domenica 22 Settembre 2019* dalle ore 14.00 presso il Santuario della Corva.
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
@@ -77,12 +77,12 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 ## 5. Apertura e Chiusura iscrizioni
 
-*Le iscrizioni on line si aprono il 07 Gennaio 2018 e chiuderanno Venerdì 20 Settembre alle ore 24.00.*
+*Le iscrizioni on line si aprono il 07 Gennaio 2019 e chiuderanno Venerdì 20 Settembre alle ore 24.00.*
 
 *Le iscrizioni con operatore, al costo di 20,00 euro, sono aperte presso l’E-Bike Store Tutticampioni in via XX Settembre:*
 
 *Sabato 21 Settembre 2019*, presso l’E-Bike Store Tutticampioni in via XX Settembre 23 dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00.
-*Domencia 22 Settembre 2019*, dalle ore 6.30 alle ore 8.30 presso il Ritrovo in Piazza Risorgimento via XX Settembre.
+*Domenica 22 Settembre 2019*, dalle ore 6.30 alle ore 8.30 presso il Ritrovo a Monte Giberto, al Santuario della Madonna delle Grazie.
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, lista premi ed informazioni sul percorso.
 
@@ -96,9 +96,9 @@ Il servizio di cronometraggio sarà fornito da MyLaps per informazioni o chiarim
 
 ## 8. Chilometri totali percorso
 
-Gran Fondo - Percorso velocità assistita Km. 62,800 - Percorso agonistico velocità libera Km. 66,500. Totale km 129,300.
+Gran Fondo - Percorso velocità assistita Km. 48,200 - Percorso agonistico velocità libera Km. 65,900. Totale km 114,100.
 
-Partenza alla francese – velocità libera km. 129,300.
+Partenza alla francese – velocità libera km. 114,100.
 
 ## 9. Categorie e Classifiche individuali
 
@@ -169,7 +169,7 @@ I ciclisti che vengono superati dal mezzo "Fine Gara Ciclistica" devono rigorosa
 
 ## 17. Norme
 
-Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L’A.S.D. Gruppo Ciclistico Tutti Campioni come società titolare della Gran Fondo dei Due Santuari del Fermano declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell’auto di fine manifestazione ciclistica, saranno segnalati all’autorità competente che attuerà le relative azioni.
+Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L’A.S.D. Gruppo Ciclistico Tutti Campioni come società titolare della Gran Fondo dei Tre Santuari del Fermano declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell’auto di fine manifestazione ciclistica, saranno segnalati all’autorità competente che attuerà le relative azioni.
 
 ## 18. Giuria
 
