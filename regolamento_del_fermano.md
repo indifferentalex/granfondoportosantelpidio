@@ -33,11 +33,13 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-Domenica 22 Settembre 2019 dalle ore 7.30 alle ore 8.30, con Partenza alle ore 9:00, presso il Santuario della Madonna delle Grazie - Monte Giberto.
+Ritrovo, Domenica 22 Settembre 2019 dalle ore 7.30 alle ore 8.30 (Partenza alle ore 9:00), presso Casa di Riposo di Monte Giberto in Via Armando Diaz.
+
+<strong style="color: red;">IMPORTANTE: presso il santuario Madonna della Corva (arrivo) sarà attivo il servizio navetta per coloro che hanno parcheggiato la macchina a Monte Giberto.</strong>
 
 ## 2. Tipo di partenza
 
-La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento in Piazza Risorgimento Porto Sant’Elpidio sud e i primi 48,200 km saranno non agonistici, la velocità sarà assistita per una media di kmh 30,00. I restanti 65,900 km saranno agonistici velocità libera. Per il tratto agonistico velocità libera il via sarà volante.
+La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento davanti il Santuario Madonna delle Grazie di Montegiberto e i primi 48,200 km saranno non agonistici, la velocità sarà assistita per una media di kmh 30,00. I restanti 65,900 km saranno agonistici velocità libera. Per il tratto agonistico velocità libera il via sarà volante.
 
 ## 3. Partenza alla Francese
 
@@ -63,13 +65,11 @@ Per i partecipanti *“partenza alla Francese” Euro 10,00* (nel modulo d’isc
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce e pacco regalo.
 
-*Il Pacco Premio, può essere ritirato:*
-*Sabato 21 Settembre 2019*, presso l’E-Bike Store Tutticampioni in via XX Settembre 23 dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00.
-*Domenica 22 Settembre 2019* dalle ore 14.00 presso il Santuario della Corva.
+*Il Pacco Premio*, può essere ritirato: *Sabato 21 Settembre 2019*, presso Casa di Riposo di Monte Giberto in Via Armando Diaz dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. *Domenica 22 Settembre 2019* dalle ore 14.00 presso il Santuario della Corva.
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
-*Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 13,00 euro.* Il pranzo si svolgerà all'arrivo presso il Santuario Madonna della Corva dalle ore 12.15. Famigliari ed accompagnatori possono partecipare sempre al costo 13,00 euro.
+*Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro*. Il pranzo si svolgerà all’arrivo presso il Santuario Madonna della Corva dalle ore 12.15. Famigliari ed accompagnatori possono partecipare sempre al costo 15,00 euro.
 
 Non saranno accettate sostituzioni il giorno della gara.
 
@@ -79,10 +79,7 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 *Le iscrizioni on line si aprono il 07 Gennaio 2019 e chiuderanno Venerdì 20 Settembre alle ore 24.00.*
 
-*Le iscrizioni con operatore, al costo di 20,00 euro, sono aperte presso l’E-Bike Store Tutticampioni in via XX Settembre:*
-
-*Sabato 21 Settembre 2019*, presso l’E-Bike Store Tutticampioni in via XX Settembre 23 dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00.
-*Domenica 22 Settembre 2019*, dalle ore 6.30 alle ore 8.30 presso il Ritrovo a Monte Giberto, al Santuario della Madonna delle Grazie.
+Le iscrizioni con operatore, al costo di 20,00 euro, sono aperte presso la Casa di Riposo di Monte Giberto in Via Armando Diaz: Sabato 21 Settembre 2019,  dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Domenica 22 Settembre 2019, dalle ore 6.30 alle ore 8.30.
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, lista premi ed informazioni sul percorso.
 
