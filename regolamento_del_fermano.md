@@ -7,11 +7,11 @@ logo: logo_gftsdf_2019
 
 # Il regolamento
 
-La V Gran Fondo dei Tre Santuari del Fermano partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
+La IV Gran Fondo dei Tre Santuari del Fermano partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
 La Gran Fondo dei Tre Santuari del Fermano è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2019, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
 
-Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2019, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 15,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
+Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2019, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 10,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
 
 Il Comitato Organizzatore potrà in ogni momento ed a suo insindacabile giudizio decidere se accettare o meno l’iscrizione oppure escludere un iscritto dalla manifestazione, qualora arrecasse danno alla immagine della stessa.
 
@@ -65,11 +65,11 @@ Per i partecipanti *“partenza alla Francese” Euro 10,00* (nel modulo d’isc
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce e pacco regalo.
 
-*Il Pacco Premio*, può essere ritirato: *Sabato 21 Settembre 2019*, presso Casa di Riposo di Monte Giberto in Via Armando Diaz dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. *Domenica 22 Settembre 2019* dalle ore 14.00 presso il Santuario della Corva.
+*Il Pacco Premio*, può essere ritirato: *Sabato 21 Settembre 2019*, presso Casa di Riposo di Monte Giberto in Via Armando Diaz dalle ore 15.00 alle ore 19.00. *Domenica 22 Settembre 2019* dalle ore 14.00 presso il Diamante Loriblu.
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
-*Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro*. Il pranzo si svolgerà all’arrivo presso il Santuario Madonna della Corva dalle ore 12.15. Famigliari ed accompagnatori possono partecipare sempre al costo 15,00 euro.
+*Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro*. Il pranzo si svolgerà all’arrivo presso Primo Piatto del Diamante Loriblu dalle ore 12.15. Famigliari ed accompagnatori possono partecipare sempre al costo 15,00 euro.
 
 Non saranno accettate sostituzioni il giorno della gara.
 
@@ -79,13 +79,13 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 *Le iscrizioni on line si aprono il 07 Gennaio 2019 e chiuderanno Venerdì 20 Settembre alle ore 24.00.*
 
-Le iscrizioni con operatore, al costo di 20,00 euro, sono aperte presso la Casa di Riposo di Monte Giberto in Via Armando Diaz: Sabato 21 Settembre 2019,  dalle 10.00 alle ore 13.00 e dalle ore 15.00 alle ore 19.00. Domenica 22 Settembre 2019, dalle ore 6.30 alle ore 8.30.
+Le iscrizioni con operatore, al costo di 15,00 euro, sono aperte presso la Casa di Riposo di Monte Giberto in Via Armando Diaz: Sabato 21 Settembre 2019, dalle ore 15.00 alle ore 19.00. Domenica 22 Settembre 2019, dalle ore 6.30 alle ore 8.30.
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, lista premi ed informazioni sul percorso.
 
 ## 6. Iscrizioni individuali e collettive e modalità di pagamento
 
-Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Sabato e Domenica *all’operatore al costo di Euro 20,00*, attraverso bonifico bancario per Iscrizioni on line sul sito *www.granfondopse.it al costo di Euro 15,00* (Vedi sul sito voce “Iscrizioni”), oppure attraverso il sito di [www.endu.net](https://www.endu.net/) con possibilità di pagamento tramite carta di credito, Paypal, Bonifico Bancario SOFORT, sempre *al costo di euro 15,00.*
+Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Sabato e Domenica *all’operatore al costo di Euro 15,00*, attraverso bonifico bancario per Iscrizioni on line sul sito *www.granfondopse.it al costo di Euro 15,00* (Vedi sul sito voce “Iscrizioni”), oppure attraverso il sito di [www.endu.net](https://www.endu.net/) con possibilità di pagamento tramite carta di credito, Paypal, Bonifico Bancario SOFORT, sempre *al costo di euro 15,00.*
 
 ## 7. Controlli e Cronometraggio
 
