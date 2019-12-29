@@ -1,6 +1,6 @@
 ---
 layout: article_no_sponsor
-title: Il regolamento della Lipobreak Race 2019
+title: Il regolamento della Granfondo Città di Porto Sant'Elpidio 2020
 permalink: /regolamento_pse/
 logo: logo_gfpse
 ---
@@ -9,19 +9,19 @@ logo: logo_gfpse
 
 ### Nuovo Percorso Totalmente Agonistico Km 90,600.
 
-### Quota di Partecipazione € 15.00.
+### Quota di Partecipazione € 20.00.
 
 ### Pranzo con servizio catering a base di pesce al prezzo speciale € 15,00.
 
-La Lipobreak Race partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
+La Granfondo Città di Porto Sant'Elpidio partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
-La Lipobreak Race è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2019, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
+La Granfondo Città di Porto Sant'Elpidio è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2020, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
 
-Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2019, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 10,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
+Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2020, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 10,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
 
 Il Comitato Organizzatore potrà in ogni momento ed a suo insindacabile giudizio decidere se accettare o meno l’iscrizione oppure escludere un iscritto dalla manifestazione, qualora arrecasse danno alla immagine della stessa.
 
-Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l’anno 2019 e:
+Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l’anno 2020 e:
 
 * di avere preso visione del regolamento e di accettarlo integralmente;
 
@@ -39,7 +39,7 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-Ritrovo presso Piazza Risorgimento - E-Bike Store Tutticampioni, Lunedì 22 Aprile 2018 dalle ore 6.30 alle ore 8.30
+Ritrovo presso Piazza Risorgimento - E-Bike Store Tutticampioni, Domenica 22 Marzo 2020 dalle ore 6.30 alle ore 8.30
 
 Partenza presso Pizza Risorgimento (Porto Sant’Elpidio sud) alle ore 9.00
 
@@ -53,7 +53,7 @@ Oltre alla normale procedura di partenza in gruppo prevista per le ore 9.00, vie
 
 La “partenza alla francese” sarà possibile dalle ore 7.30 e fino alle ore 8.30.
 
-È comunque obbligatorio l’uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta. La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di MyLaps ([www.endu.net](https://www.endu.net/)) posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso lungo.
+È comunque obbligatorio l'uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta (di colore diverso dagli altri). La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di [www.kronoservice.com](http://www.kronoservice.com) posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso lungo.
 
 Con la “partenza alla francese” la segnalazione stradale è la stessa della Gran Fondo con le indicazioni di colore giallo.
 
@@ -72,9 +72,9 @@ Per i partecipanti *“partenza alla Francese” Euro 10,00* (nel modulo d’isc
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce e pacco regalo.
 
 *Il Pacco Premio, può essere ritirato presso Piazza Risorgimento:*
-*Sabato 20 Aprile 2019*, dalle ore 15.00 alle ore 19.00.
-*Domenica 21 Aprile 2019*, dalle 15,00 alle ore 19,00.
-*Lunedì 22 Aprile 2019*, dalle ore 6.30 alle ore 8.30 e dalle ore 14.00 presso il ritrovo del Pranzo.
+*Venerdì 20 Marzo 2020*, dalle ore 15.00 alle ore 19.00.
+*Sabato 21 Marzo 2020*, dalle 15,00 alle ore 19,00.
+*Domenica 22 Marzo 2020*, dalle ore 6.30 alle ore 8.30 e dalle ore 14.00 presso il ritrovo del Pranzo.
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
@@ -88,23 +88,24 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 ## 5. Apertura e Chiusura iscrizioni
 
-*Le iscrizioni on line si aprono il 07 Gennaio 2018 e chiuderanno Giovedì 18 Aprile alle ore 24.00.*
+*Le iscrizioni on line chiuderanno Giovedì 18 Marzo alle ore 24.00.*
 
 *Le iscrizioni con operatore, al costo di 20,00 euro, sono aperte presso Piazza Risorgimento - E-Bike Store Tutticampioni:*
 
-*Sabato 20 Aprile 2019*, dalle ore 15.00 alle ore 19.00.
-*Domenica 21 Aprile 2019*, dalle 15.00 alle ore 19.00.
-*Lunedì 22 Aprile 2019*, dalle ore 6.30 alle ore 8.30.
+*Venerdì 20 Marzo 2020*, dalle ore 15.00 alle ore 19.00.
+*Sabato 21 Marzo 2020*, dalle 15.00 alle ore 19.00.
+*Domenica 22 Marzo 2020*, dalle ore 6.30 alle ore 8.30.
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, lista premi ed informazioni sul percorso.
 
 ## 6. Iscrizioni individuali e collettive e modalità di pagamento
 
-Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Sabato, Domenica e Lunedì *all’operatore al costo di Euro 20,00*, attraverso bonifico bancario per Iscrizioni on line sul sito *www.granfondopse.it al costo di Euro 15,00* (Vedi sul sito voce “Iscrizioni”), oppure attraverso il sito di [www.endu.net](https://www.endu.net/) con possibilità di pagamento tramite carta di credito, Paypal, Bonifico Bancario SOFORT, sempre *al costo di euro 15,00.*
+Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Venerdì, Sabato e Domenica *all’operatore al costo di Euro 30,00*, attraverso bonifico bancario per Iscrizioni on line sul sito *www.granfondopse.it al costo di Euro 20,00* (Vedi sul sito voce “Iscrizioni”), oppure attraverso il sito di [www.endu.net](https://www.endu.net/) con possibilità di pagamento tramite carta di credito, Paypal, Bonifico Bancario SOFORT, sempre *al costo di euro 20,00.*
 
 ## 7. Controlli e Cronometraggio
 
-Il servizio di cronometraggio sarà fornito da MyLaps per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito [www.endu.net](https://www.endu.net/).
+Il servizio di cronometraggio sarà fornito da K per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito [www.endu.net](https://www.endu.net/).
+
 
 ## 8. Chilometri totali percorso
 
@@ -164,7 +165,7 @@ I ciclisti che vengono superati dal mezzo "Fine Gara Ciclistica" devono rigorosa
 
 ## 17. Norme
 
-Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L’A.S.D. Gruppo Ciclistico Tutti Campioni come società titolare della Lipobreak Race declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell’auto di fine manifestazione ciclistica, saranno segnalati all’autorità competente che attuerà le relative azioni.
+Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L’A.S.D. Gruppo Ciclistico Tutti Campioni come società titolare della Granfondo Città di Porto Sant'Elpidio declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell’auto di fine manifestazione ciclistica, saranno segnalati all’autorità competente che attuerà le relative azioni.
 
 ## 18. Giuria
 
