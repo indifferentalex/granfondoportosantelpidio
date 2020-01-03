@@ -9,7 +9,7 @@ logo: logo_gfpse
 
 ### Nuovo Percorso Totalmente Agonistico Km 90,600.
 
-### Quota di Partecipazione € 20.00.
+### Quota di Partecipazione € 20.00 fino al 24 febbraio, € 25.00 fino al 10 marzo, € 30.00 fino al 22 marzo.
 
 ### Pranzo con servizio catering a base di pesce al prezzo speciale € 15,00.
 
@@ -17,7 +17,7 @@ La Granfondo Città di Porto Sant'Elpidio partecipa alla combinata “Gran Prix 
 
 La Granfondo Città di Porto Sant'Elpidio è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2020, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
 
-Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2020, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 10,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
+Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2020, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 20,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
 
 Il Comitato Organizzatore potrà in ogni momento ed a suo insindacabile giudizio decidere se accettare o meno l’iscrizione oppure escludere un iscritto dalla manifestazione, qualora arrecasse danno alla immagine della stessa.
 
@@ -45,7 +45,7 @@ Partenza presso Pizza Risorgimento (Porto Sant’Elpidio sud) alle ore 9.00
 
 ## 2. Tipo di partenza
 
-La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento in Via Cesare Battisti e i primi 2,00 km saranno non agonistici e per il tratto agonistico velocità libera il via sarà volante.
+La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento in Piazza Risorgimento e i primi 2,00 km saranno non agonistici e per il tratto agonistico velocità libera il via sarà volante.
 
 ## 3. Partenza alla Francese
 
@@ -65,14 +65,13 @@ Chi utilizza la “partenza alla francese” dovrà procedere lungo il percorso 
 
 ## 4. Quota di partecipazione
 
-*L’iscrizione è a Pagamento. La quota di partecipazione è di euro 15,00 per coloro che si iscrivono on line.*
+*L’iscrizione è a Pagamento. La quota di partecipazione è di euro 20,00 per coloro che si iscrivono on line.  fino al 24 febbraio, € 25.00 fino al 10 marzo, € 30.00 fino al 22 marzo.*
 
-Per i partecipanti *“partenza alla Francese” Euro 10,00* (nel modulo d’iscrizione va specificato “partenza alla francese”).
+Per i partecipanti *“partenza alla Francese” Euro 15,00* (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce e pacco regalo.
 
 *Il Pacco Premio, può essere ritirato presso Piazza Risorgimento:*
-*Venerdì 20 Marzo 2020*, dalle ore 15.00 alle ore 19.00.
 *Sabato 21 Marzo 2020*, dalle 15,00 alle ore 19,00.
 *Domenica 22 Marzo 2020*, dalle ore 6.30 alle ore 8.30 e dalle ore 14.00 presso il ritrovo del Pranzo.
 
@@ -90,9 +89,8 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 *Le iscrizioni on line chiuderanno Giovedì 18 Marzo alle ore 24.00.*
 
-*Le iscrizioni con operatore, al costo di 20,00 euro, sono aperte presso Piazza Risorgimento - E-Bike Store Tutticampioni:*
+*Le iscrizioni con operatore, al costo di 30,00 euro, sono aperte presso E-Bike Store Tutti Campioni Via Mazzini 224 Porto Sant'Elpidio:*
 
-*Venerdì 20 Marzo 2020*, dalle ore 15.00 alle ore 19.00.
 *Sabato 21 Marzo 2020*, dalle 15.00 alle ore 19.00.
 *Domenica 22 Marzo 2020*, dalle ore 6.30 alle ore 8.30.
 
