@@ -1,21 +1,26 @@
 ---
 layout: article_no_sponsor
-title: Il regolamento della Gran Fondo dei Tre Santuari del Fermano 2019
+title: Il regolamento della Gran Fondo dei Tre Santuari del Fermano 2020
 permalink: /regolamento_gran_fondo_del_fermano/
 logo: logo_gftsdf_2019
 ---
 
 # Il regolamento
 
-La IV Gran Fondo dei Tre Santuari del Fermano partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
+<strong>Quota di partecipazione € 20.00 fino al 31 Agosto, € 25.00 fino al 15 Settembre, € 30.00 fino
+al 27 Settembre</strong>
 
-La Gran Fondo dei Tre Santuari del Fermano è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2019, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
+<strong>Pranzo con servizio catering a base di pesce al prezzo speciale € 15.00</strong>
 
-Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2019, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 10,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
+La V Gran Fondo dei Tre Santuari del Fermano partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
+
+La Gran Fondo dei Tre Santuari del Fermano è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2020, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
+
+Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2020, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 10,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
 
 Il Comitato Organizzatore potrà in ogni momento ed a suo insindacabile giudizio decidere se accettare o meno l’iscrizione oppure escludere un iscritto dalla manifestazione, qualora arrecasse danno alla immagine della stessa.
 
-Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l’anno 2019 e:
+Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l’anno 2020 e:
 
 * di avere preso visione del regolamento e di accettarlo integralmente;
 
@@ -33,7 +38,7 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-Ritrovo, Domenica 22 Settembre 2019 dalle ore 7.30 alle ore 8.30 (Partenza alle ore 9:00), presso Casa di Riposo di Monte Giberto in Via Armando Diaz.
+Ritrovo, Domenica 22 Settembre 2020 dalle ore 7.30 alle ore 8.30 (Partenza alle ore 9:00), presso Casa di Riposo di Monte Giberto in Via Armando Diaz.
 
 <strong style="color: red;">IMPORTANTE: presso il santuario Madonna della Corva (arrivo) sarà attivo il servizio navetta per coloro che hanno parcheggiato la macchina a Monte Giberto.</strong>
 
@@ -47,7 +52,7 @@ Oltre alla normale procedura di partenza in gruppo prevista per le ore 9.00, vie
 
 La “partenza alla francese” sarà possibile dalle ore 7.30 e fino alle ore 8.30.
 
-È comunque obbligatorio l’uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta. La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di MyLaps ([www.endu.net](https://www.endu.net/)) posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso lungo.
+È comunque obbligatorio l’uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta. La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di MyLaps ([www.kronoservice.com](https://www.kronoservice.com)) posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso lungo.
 
 Con la “partenza alla francese” la segnalazione stradale è la stessa della Gran Fondo con le indicazioni di colore giallo.
 
@@ -59,13 +64,13 @@ Chi utilizza la “partenza alla francese” dovrà procedere lungo il percorso 
 
 ## 4. Quota di partecipazione
 
-*L’iscrizione è a Pagamento. La quota di partecipazione è di euro 15,00 per coloro che si iscrivono on line.*
+*L’iscrizione è a Pagamento. La quota di partecipazione è di euro 20,00 fino al 31 Agosto, € 25 fino al 15 Settembre, € 30 fino al 27 Settembre.*
 
-Per i partecipanti *“partenza alla Francese” Euro 10,00* (nel modulo d’iscrizione va specificato “partenza alla francese”).
+Per i partecipanti “partenza alla Francese” Euro 15,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce e pacco regalo.
 
-*Il Pacco Premio*, può essere ritirato: *Sabato 21 Settembre 2019*, presso Casa di Riposo di Monte Giberto in Via Armando Diaz dalle ore 15.00 alle ore 19.00. *Domenica 22 Settembre 2019* dalle ore 14.00 presso il Diamante Loriblu.
+*Il Pacco Premio*, può essere ritirato: *Sabato 21 Settembre 2020*, presso Casa di Riposo di Monte Giberto in Via Armando Diaz dalle ore 15.00 alle ore 19.00. *Domenica 22 Settembre 2020* dalle ore 14.00 presso il Diamante Loriblu al Primo Piatto.
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
@@ -77,19 +82,24 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 ## 5. Apertura e Chiusura iscrizioni
 
-*Le iscrizioni on line si aprono il 07 Gennaio 2019 e chiuderanno Venerdì 20 Settembre alle ore 24.00.*
+Le iscrizioni on line si aprono il 01 Gennaio 2020 e chiuderanno Venerdì 20 Settembre alle ore
+12.00.
 
-Le iscrizioni con operatore, al costo di 15,00 euro, sono aperte presso la Casa di Riposo di Monte Giberto in Via Armando Diaz: Sabato 21 Settembre 2019, dalle ore 15.00 alle ore 19.00. Domenica 22 Settembre 2019, dalle ore 6.30 alle ore 8.30.
+Le iscrizioni con operatore, al costo di 30,00 euro, sono aperte presso la Casa di Riposo di Monte
+Giberto in Via Armando Diaz.
+
+Sabato 21 Settembre 2020, dalle ore 15.00 alle ore 19.00. Domenica 22 Settembre 2020, dalle ore
+6.30 alle ore 8.30.
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, lista premi ed informazioni sul percorso.
 
 ## 6. Iscrizioni individuali e collettive e modalità di pagamento
 
-Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Sabato e Domenica *all’operatore al costo di Euro 15,00*, attraverso bonifico bancario per Iscrizioni on line sul sito *www.granfondopse.it al costo di Euro 15,00* (Vedi sul sito voce “Iscrizioni”), oppure attraverso il sito di [www.endu.net](https://www.endu.net/) con possibilità di pagamento tramite carta di credito, Paypal, Bonifico Bancario SOFORT, sempre *al costo di euro 15,00.*
+Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Sabato e Domenica *all’operatore al costo di Euro 30,00*, attraverso bonifico bancario per Iscrizioni on line sul sito *www.granfondopse.it al costo di Euro 20,00* (fino al 31 Agosto sul sito voce “Iscrizioni”), oppure attraverso il sito di [www.kronoservice.com](https://www.kronoservice.com) con possibilità di pagamento tramite carta di credito, Paypal, bonifico bancario, sempre *al costo di euro 20,00 fino al 31 Agosto.*
 
 ## 7. Controlli e Cronometraggio
 
-Il servizio di cronometraggio sarà fornito da MyLaps per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito [www.endu.net](https://www.endu.net/).
+Il servizio di cronometraggio sarà fornito da MyLaps per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito [www.kronoservice.com](https://www.kronoservice.com).
 
 ## 8. Chilometri totali percorso
 
@@ -111,7 +121,7 @@ Partenza alla francese – velocità libera km. 114,100.
 
 Saranno premiati i primi 3 assoluti uomini e donne e premi al primo arrivato di tutte le categorie. Nella busta tecnica ci sarà elenco premi.
 
-Le classifiche assolute e di categoria saranno redatte sulla base dell’ordine d’arrivo e dei tempi rilevati con il sistema [www.endu.net](https://www.endu.net/), Fotofinish e Giudici di Gara.
+Le classifiche assolute e di categoria saranno redatte sulla base dell’ordine d’arrivo e dei tempi rilevati con il sistema [www.kronoservice.com](https://www.kronoservice.com), Fotofinish e Giudici di Gara.
 
 ## 10. Classifica generale per società
 
@@ -127,7 +137,7 @@ Prevede l’impiego di più autoambulanze con medici e infermieri, punti fissi d
 
 ## 13. Assistenza meccanica
 
-Sarà presente assistenza cambio ruote Kemo. www.teamcambioruote.com.
+Sarà presente assistenza cambio ruote Selle Italia.
 
 Sono autorizzate al seguito auto regolarmente registrate dal direttore di corsa, munite con apposito tagliando.
 
