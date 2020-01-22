@@ -98,11 +98,11 @@ Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenen
 
 ## 6. Iscrizioni individuali e collettive e modalità di pagamento
 
-Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Venerdì, Sabato e Domenica *all’operatore al costo di Euro 30,00*, attraverso bonifico bancario per Iscrizioni on line sul sito *www.granfondopse.it al costo di Euro 20,00* (Vedi sul sito voce “Iscrizioni”), oppure attraverso il sito di [www.endu.net](https://www.endu.net/) con possibilità di pagamento tramite carta di credito, Paypal, Bonifico Bancario SOFORT, sempre *al costo di euro 20,00.*
+Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Venerdì, Sabato e Domenica *all’operatore al costo di Euro 30,00*, attraverso bonifico bancario per Iscrizioni on line sul sito *www.granfondopse.it al costo di Euro 20,00* (Vedi sul sito voce “Iscrizioni”), oppure attraverso il sito di [www.kronoservice.com](https://www.kronoservice.com) con possibilità di pagamento tramite carta di credito, Paypal, Bonifico Bancario, sempre *al costo di euro 20,00.*
 
 ## 7. Controlli e Cronometraggio
 
-Il servizio di cronometraggio sarà fornito da K per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito [www.endu.net](https://www.endu.net/).
+Il servizio di cronometraggio sarà fornito da K per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito [www.kronoservice.com](https://www.kronoservice.com).
 
 
 ## 8. Chilometri totali percorso
@@ -125,7 +125,7 @@ Partenza alla francese – velocità libera km. 90,600.
 
 Saranno premiati i primi 3 assoluti uomini e donne e premi al primo arrivato di tutte le categorie. Nella busta tecnica ci sarà elenco premi.
 
-Le classifiche assolute e di categoria saranno redatte sulla base dell’ordine d’arrivo e dei tempi rilevati con il sistema [www.endu.net](https://www.endu.net/), Fotofinish e Giudici di Gara.
+Le classifiche assolute e di categoria saranno redatte sulla base dell’ordine d’arrivo e dei tempi rilevati con il sistema [www.kronoservice.com](https://www.kronoservice.com), Fotofinish e Giudici di Gara.
 
 ## 10. Classifica generale per società
 
