@@ -7,9 +7,9 @@ logo: logo_gfpse
 
 # Il regolamento
 
-### Nuovo Percorso Totalmente Agonistico Km 90,600.
+### Nuovo Percorso Totalmente Agonistico Km 91,300.
 
-### Quota di Partecipazione € 20.00 fino al 29 febbraio, € 25.00 fino al 10 marzo, € 30.00 fino al 22 marzo.
+### Quota di Partecipazione € 20.00 fino al 31 marzo, € 25.00 fino al 10 aprile, € 30.00 fino al 13 aprile.
 
 ### Pranzo con servizio catering a base di pesce al prezzo speciale € 15,00.
 
@@ -39,13 +39,13 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-Ritrovo presso Piazza Risorgimento - E-Bike Store Tutticampioni, Domenica 22 Marzo 2020 dalle ore 6.30 alle ore 8.30
+Ritrovo presso Largo della Resistenza quartiere San Filippo, lunedì 13 aprile 2020 dalle ore 6.30 alle ore 8.30
 
-Partenza presso Pizza Risorgimento (Porto Sant’Elpidio sud) alle ore 9.00
+Partenza presso Largo della Resistenza quartiere San Filippo (Porto Sant’Elpidio sud) alle ore 9.00
 
 ## 2. Tipo di partenza
 
-La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento in Piazza Risorgimento e i primi 2,00 km saranno non agonistici e per il tratto agonistico velocità libera il via sarà volante.
+La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento in Largo della Resistenza e i primi 2,00 km saranno non agonistici e per il tratto agonistico velocità libera il via sarà volante.
 
 ## 3. Partenza alla Francese
 
@@ -65,19 +65,19 @@ Chi utilizza la “partenza alla francese” dovrà procedere lungo il percorso 
 
 ## 4. Quota di partecipazione
 
-*L’iscrizione è a Pagamento. La quota di partecipazione è di euro 20,00 per coloro che si iscrivono on line.  fino al 29 febbraio, € 25.00 fino al 10 marzo, € 30.00 fino al 22 marzo.*
+*L’iscrizione è a Pagamento. La quota di partecipazione è di euro 20,00 per coloro che si iscrivono on line.  fino al 31 marzo, € 25.00 fino al 10 aprile, € 30.00 fino al 13 aprile.*
 
 Per i partecipanti *“partenza alla Francese” Euro 15,00* (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce e pacco regalo.
 
-*Il Pacco Premio, può essere ritirato presso Piazza Risorgimento:*
-*Sabato 21 Marzo 2020*, dalle 15,00 alle ore 19,00.
-*Domenica 22 Marzo 2020*, dalle ore 6.30 alle ore 8.30 e dalle ore 14.00 presso il ritrovo del Pranzo.
+*Il Pacco Premio, può essere ritirato presso Larga della Resistenza Bar San Filippo (Porto Sant'Elpidio):*
+*Domenica 12 Aprile 2020*, dalle 15,30 alle ore 19,30.
+*Lunedì 13 Aprile 2020*, dalle ore 6.30 alle ore 8.30 e dalle ore 14.00 presso il ritrovo del Pranzo nel quartiere San Filippo.
 
 Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
 
-*Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro.* Il pranzo si svolgerà presso l'arrivo dalle ore 13.00 con un servizio di catering a base di pesce. Famigliari ed accompagnatori possono partecipare sempre al costo *15,00 euro.*
+*Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro.* Il pranzo si svolgerà presso la partenza (Largo della Resistenza, quartiere San Filippo) dalle ore 13.00 con un servizio di catering a base di pesce. Famigliari ed accompagnatori possono partecipare sempre al costo *15,00 euro.*
 
 Per tutti gli iscritti attivo il servizio docce presso Palestra comunale via Pesaro, chiaramente segnalato con frecce.
 
@@ -87,18 +87,18 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 ## 5. Apertura e Chiusura iscrizioni
 
-*Le iscrizioni on line chiuderanno Giovedì 18 Marzo alle ore 24.00.*
+*Le iscrizioni on line chiuderanno Venerdì 10 Aprile alle ore 13.00.*
 
-*Le iscrizioni con operatore, al costo di 30,00 euro, sono aperte presso E-Bike Store Tutti Campioni Via Mazzini 224 Porto Sant'Elpidio:*
+*Le iscrizioni con operatore, al costo di 30,00 euro, sono aperte presso Largo della Resistenza Bar San Filippo Porto Sant'Elpidio:*
 
-*Sabato 21 Marzo 2020*, dalle 15.00 alle ore 19.00.
-*Domenica 22 Marzo 2020*, dalle ore 6.30 alle ore 8.30.
+*Domenica 12 Aprile*, dalle 15.30 alle ore 19.30.
+*Lunedì 13 Aprile*, dalle ore 6.30 alle ore 8.30.
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, lista premi ed informazioni sul percorso.
 
 ## 6. Iscrizioni individuali e collettive e modalità di pagamento
 
-Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Venerdì, Sabato e Domenica *all’operatore al costo di Euro 30,00*, attraverso bonifico bancario per Iscrizioni on line sul sito *www.granfondopse.it al costo di Euro 20,00* (Vedi sul sito voce “Iscrizioni”), oppure attraverso il sito di [www.kronoservice.com](https://www.kronoservice.com) con possibilità di pagamento tramite carta di credito, Paypal, Bonifico Bancario, sempre *al costo di euro 20,00.*
+Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Domenica 12 Aprile e Lunedì 13 Aprile *all’operatore al costo di Euro 30,00*, attraverso bonifico bancario per Iscrizioni on line sul sito *www.granfondopse.it al costo di €20.00 fino al 31 marzo, €25.00 fino al 10 aprile, €30.00 fino al 13 aprile* (Vedi sul sito voce “Iscrizioni”), oppure attraverso il sito di [www.kronoservice.com](https://www.kronoservice.com) con possibilità di pagamento tramite carta di credito, Paypal, bonifico bancario, sempre *al costo di €20.00 fino al 31 marzo, €25.00 fino al 10 aprile, €30.00 fino al 13 aprile.*
 
 ## 7. Controlli e Cronometraggio
 
@@ -107,9 +107,9 @@ Il servizio di cronometraggio sarà fornito da K per informazioni o chiarimenti 
 
 ## 8. Chilometri totali percorso
 
-**La Gran Fondo Totalmente agonistica misura KM 90,600.**
+**La Gran Fondo Totalmente agonistica misura KM 91,300.**
 
-Partenza alla francese – velocità libera km. 90,600.
+Partenza alla francese – velocità libera km. 91,300.
 
 ## 9. Categorie e Classifiche individuali
 
