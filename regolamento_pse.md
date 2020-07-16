@@ -7,11 +7,9 @@ logo: logo_gfpse
 
 # Il regolamento
 
-### Nuovo Percorso Totalmente Agonistico Km 91,300.
+<strong>Il vincitore assoluto vestirà la maglia rosa del giro d’Italia e la dovrà indossare per la Gran Fondo Dei Tre Santuari</strong>
 
-### Quota di Partecipazione € 20.00 fino al 31 marzo, € 25.00 fino al 10 aprile, € 30.00 fino al 13 aprile.
-
-### Pranzo con servizio catering a base di pesce al prezzo speciale € 15,00.
+<strong>I costi delle iscrizioni per entrambi le gran fondo sono fino al 30 Agosto € 40,00, successivamente fino al giorno della gara € 50,00.</strong>
 
 La Granfondo Città di Porto Sant'Elpidio partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
@@ -39,19 +37,19 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-Ritrovo presso Largo della Resistenza quartiere San Filippo, lunedì 13 aprile 2020 dalle ore 6.30 alle ore 8.30
+Ritrovo presso Largo della Resistenza quartiere San Filippo, sabato 26 settembre 2020 dalle ore 8.00 alle ore 14
 
-Partenza presso Largo della Resistenza quartiere San Filippo (Porto Sant’Elpidio sud) alle ore 9.00
+Partenza presso Largo della Resistenza quartiere San Filippo (Porto Sant’Elpidio sud) alle ore 14.30
 
 ## 2. Tipo di partenza
 
-La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento in Largo della Resistenza e i primi 2,00 km saranno non agonistici e per il tratto agonistico velocità libera il via sarà volante.
+La partenza per la Gran Fondo si effettua tutti insieme mantenendo il distanziamento sociale e con la mascherina,  incolonnamento in Largo della Resistenza e i primi 2,00 km saranno non agonistici permettendo a tutti di togliere la mascherina e per il tratto agonistico velocità libera il via sarà volante.
 
 ## 3. Partenza alla Francese
 
-Oltre alla normale procedura di partenza in gruppo prevista per le ore 9.00, viene inserita anche la possibilità, per chi lo desiderasse, di poter partire con la modalità definita “alla francese”.
+Oltre alla normale procedura di partenza in gruppo prevista per le ore 14.30, viene inserita anche la possibilità, per chi lo desiderasse, di poter partire con la modalità definita “alla francese”.
 
-La “partenza alla francese” sarà possibile dalle ore 7.30 e fino alle ore 8.30.
+La “partenza alla francese” sarà possibile dalle ore 12.30 e fino alle ore 13.30.
 
 È comunque obbligatorio l'uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta (di colore diverso dagli altri). La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di [www.kronoservice.com](http://www.kronoservice.com) posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso lungo.
 
@@ -65,19 +63,13 @@ Chi utilizza la “partenza alla francese” dovrà procedere lungo il percorso 
 
 ## 4. Quota di partecipazione
 
-*L’iscrizione è a Pagamento. La quota di partecipazione è di euro 20,00 per coloro che si iscrivono on line.  fino al 31 marzo, € 25.00 fino al 10 aprile, € 30.00 fino al 13 aprile.*
+*L’iscrizione è a Pagamento. I costi delle iscrizioni per entrambi le gran fondo sono fino al 30 Agosto € 40,00, successivamente fino al giorno della gara € 50,00.*
 
-Per i partecipanti *“partenza alla Francese” Euro 15,00* (nel modulo d’iscrizione va specificato “partenza alla francese”).
+Per i partecipanti “partenza alla Francese” Euro 30,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
-Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce e pacco regalo.
-
-*Il Pacco Premio, può essere ritirato presso Larga della Resistenza Bar San Filippo (Porto Sant'Elpidio):*
-*Domenica 12 Aprile 2020*, dalle 15,30 alle ore 19,30.
-*Lunedì 13 Aprile 2020*, dalle ore 6.30 alle ore 8.30 e dalle ore 14.00 presso il ritrovo del Pranzo nel quartiere San Filippo.
-
-Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
-
-*Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro.* Il pranzo si svolgerà presso la partenza (Largo della Resistenza, quartiere San Filippo) dalle ore 13.00 con un servizio di catering a base di pesce. Famigliari ed accompagnatori possono partecipare sempre al costo *15,00 euro.*
+Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori e docce.
+<!--
+*Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro*. Il pranzo si svolgerà all’arrivo presso Primo Piatto del Diamante Loriblu dalle ore 12.15. Famigliari ed accompagnatori possono partecipare sempre al costo 15,00 euro. -->
 
 Per tutti gli iscritti attivo il servizio docce presso Palestra comunale via Pesaro, chiaramente segnalato con frecce.
 
@@ -87,22 +79,20 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 ## 5. Apertura e Chiusura iscrizioni
 
-*Le iscrizioni on line chiuderanno Venerdì 10 Aprile alle ore 13.00.*
+Le iscrizioni on line si aprono il 01 Gennaio 2020 e chiuderanno Venerdì 25 Settembre alle ore
+12.00.
 
-*Le iscrizioni con operatore, al costo di 30,00 euro, sono aperte presso Largo della Resistenza Bar San Filippo Porto Sant'Elpidio:*
+Le iscrizioni con operatore, al costo di 50,00 euro, sono aperte presso il Bar San Filippo in Via XX Settembre, 198 a Porto Sant’Elpidio ed esattamente Venerdì 25 Settembre 2020, dalle ore 15.00 alle ore 19.00. Sabato 26 Settembre 2020, dalle ore 8.00 alle ore 11.
 
-*Domenica 12 Aprile*, dalle 15.30 alle ore 19.30.
-*Lunedì 13 Aprile*, dalle ore 6.30 alle ore 8.30.
-
-Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, lista premi ed informazioni sul percorso.
+Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero ed informazioni sul percorso.
 
 ## 6. Iscrizioni individuali e collettive e modalità di pagamento
 
-Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Domenica 12 Aprile e Lunedì 13 Aprile *all’operatore al costo di Euro 30,00*, attraverso bonifico bancario per Iscrizioni on line sul sito *www.granfondopse.it al costo di €20.00 fino al 31 marzo, €25.00 fino al 10 aprile, €30.00 fino al 13 aprile* (Vedi sul sito voce “Iscrizioni”), oppure attraverso il sito di [www.kronoservice.com](https://www.kronoservice.com) con possibilità di pagamento tramite carta di credito, Paypal, bonifico bancario, sempre *al costo di €20.00 fino al 31 marzo, €25.00 fino al 10 aprile, €30.00 fino al 13 aprile.*
+Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Venerdì e Sabato all’operatore, oppure attraverso il sito di [www.kronoservice.com](https://www.kronoservice.com) con possibilità di pagamento tramite carta di credito, Paypal, bonifico bancario.
 
 ## 7. Controlli e Cronometraggio
 
-Il servizio di cronometraggio sarà fornito da K per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito [www.kronoservice.com](https://www.kronoservice.com).
+Il servizio di cronometraggio sarà fornito da Krono Service per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito [www.kronoservice.com](https://www.kronoservice.com).
 
 
 ## 8. Chilometri totali percorso
@@ -123,6 +113,8 @@ Partenza alla francese – velocità libera km. 91,300.
 
 * Comunque tutte le categorie riconosciute dalla Federazione Ciclistica Italiana.
 
+<strong>Il vincitore assoluto vestirà la maglia rosa del giro d’Italia e la dovrà indossare per la Gran Fondo Dei Tre Santuari</strong>
+
 Saranno premiati i primi 3 assoluti uomini e donne e premi al primo arrivato di tutte le categorie. Nella busta tecnica ci sarà elenco premi.
 
 Le classifiche assolute e di categoria saranno redatte sulla base dell’ordine d’arrivo e dei tempi rilevati con il sistema [www.kronoservice.com](https://www.kronoservice.com), Fotofinish e Giudici di Gara.
@@ -131,9 +123,11 @@ Le classifiche assolute e di categoria saranno redatte sulla base dell’ordine 
 
 Sarà stilata una classifica per società con più numero di partecipanti arrivati.
 
+Sarà stilata una classifica generale a tempi, al termine delle due Gran Fondo il vincitore di ogni categoria indosserà la Maglia Rosa del Giro D’Italia.
+
 ## 11. Premi e Premiazioni
 
-Saranno subito premiati sul palco premiazioni di arrivo i primi tre arrivati uomini e donne, il resto durante il Pasta Party. I premi sono consegnati esclusivamente il giorno della gara.
+Saranno subito premiati sul palco premiazioni di arrivo i primi tre arrivati uomini e donne, il resto saranno premiati il giorno della Gran Fondo Dei Tre Santuari.
 
 ## 12. Assistenza sanitaria
 
@@ -147,7 +141,7 @@ Sono autorizzate al seguito auto regolarmente registrate dal direttore di corsa,
 
 ## 14. Equipaggiamento obbligatorio
 
-Tutti i partecipanti durante tutta la durata della gara dovranno obbligatoriamente indossare il casco, avere e utilizzare correttamente il CHIP per il cronometraggio, avere posizionati correttamente il cartellino numerato della bicicletta e il dorsale numerato sul retro della maglia.
+Tutti i partecipanti durante tutta la durata della gara dovranno obbligatoriamente indossare il casco, avere e utilizzare correttamente il CHIP per il cronometraggio, avere posizionati correttamente il cartellino numerato della bicicletta e il dorsale numerato sul retro della maglia, indossare la mascherina durante la punzonatura, al raduno di partenza e premiazioni.
 
 ## 15. Assicurazione
 
@@ -163,7 +157,7 @@ I ciclisti che vengono superati dal mezzo "Fine Gara Ciclistica" devono rigorosa
 
 ## 17. Norme
 
-Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L’A.S.D. Gruppo Ciclistico Tutti Campioni come società titolare della Granfondo Città di Porto Sant'Elpidio declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell’auto di fine manifestazione ciclistica, saranno segnalati all’autorità competente che attuerà le relative azioni.
+Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L’A.S.D. Gruppo Ciclistico Tutti Campioni come società titolare della Granfondo Città di Porto Sant'Elpidio declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada, dal Comitato Tecnico Scientifico e dei DPCM del Presidente del Consiglio Giuseppe Conte. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell’auto di fine manifestazione ciclistica, saranno segnalati all’autorità competente che attuerà le relative azioni.
 
 ## 18. Giuria
 

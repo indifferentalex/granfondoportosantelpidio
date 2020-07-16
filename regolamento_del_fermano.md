@@ -7,10 +7,11 @@ logo: logo_gftsdf_2019
 
 # Il regolamento
 
-<strong>Quota di partecipazione € 20.00 fino al 31 Agosto, € 25.00 fino al 15 Settembre, € 30.00 fino
-al 27 Settembre</strong>
+<strong>Il vincitore della Gran Fondo Stefano Garzelli alla partenza dovrà indossare la maglia rosa del Giro D’Italia.</strong>
 
-<strong>Pranzo con servizio catering a base di pesce al prezzo speciale € 15.00</strong>
+<strong>I costi delle iscrizioni per entrambi le gran fondo sono fino al 30 Agosto € 40,00, successivamente fino al giorno della Gran Fondo Stefano Garzelli € 50,00.</strong>
+
+<!-- <strong>Pranzo con servizio catering a base di pesce al prezzo speciale € 15.00</strong> -->
 
 La V Gran Fondo dei Tre Santuari del Fermano partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
@@ -38,19 +39,19 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-Ritrovo, Domenica 22 Settembre 2020 dalle ore 7.30 alle ore 8.30 (Partenza alle ore 9:00), presso Casa di Riposo di Monte Giberto in Via Armando Diaz.
+Ritrovo presso Largo della Resistenza quartiere San Filippo, domenica 27 settembre 2020 dalle ore 8.00 alle ore 10.30.
 
-<strong style="color: red;">IMPORTANTE: presso il santuario Madonna della Corva (arrivo) sarà attivo il servizio navetta per coloro che hanno parcheggiato la macchina a Monte Giberto.</strong>
+Partenza  presso Largo della Resistenza quartiere San Filippo (Porto Sant’Elpidio Sud) alle ore 11.00
 
 ## 2. Tipo di partenza
 
-La partenza per la Gran Fondo si effettua tutti insieme, incolonnamento davanti il Santuario Madonna delle Grazie di Montegiberto e i primi 48,200 km saranno non agonistici, la velocità sarà assistita per una media di kmh 30,00. I restanti 65,900 km saranno agonistici velocità libera. Per il tratto agonistico velocità libera il via sarà volante.
+La partenza per la Gran Fondo si effettua tutti insieme mantenendo il distanziamento sociale e con la mascherina, incolonnamenti in Largo della Resistenza, i primi 75,00 km saranno non agonistici, la velocità sarà assistita per una media di kmh 27,00. I restanti 54,300 km saranno agonistici velocità libera. Per il tratto agonistico velocità libera il via sarà volante, sarà dato finita la discesa di Amandola.
 
 ## 3. Partenza alla Francese
 
-Oltre alla normale procedura di partenza in gruppo prevista per le ore 9.00, viene inserita anche la possibilità, per chi lo desiderasse, di poter partire con la modalità definita “alla francese”.
+Oltre alla normale procedura di partenza in gruppo prevista alle ore 11.00, viene inserita anche la possibilità, per chi lo desiderasse, di poter partire con la modalità definita “alla francese”.
 
-La “partenza alla francese” sarà possibile dalle ore 7.30 e fino alle ore 8.30.
+La “partenza alla francese” sarà possibile dalle ore 9.00 e fino alle ore 10.30.
 
 È comunque obbligatorio l’uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta. La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di MyLaps ([www.kronoservice.com](https://www.kronoservice.com)) posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso lungo.
 
@@ -64,17 +65,13 @@ Chi utilizza la “partenza alla francese” dovrà procedere lungo il percorso 
 
 ## 4. Quota di partecipazione
 
-*L’iscrizione è a Pagamento. La quota di partecipazione è di euro 20,00 fino al 31 Agosto, € 25 fino al 15 Settembre, € 30 fino al 27 Settembre.*
+*L’iscrizione è a Pagamento. I costi delle iscrizioni per entrambi le gran fondo sono fino al 30 Agosto € 40,00, successivamente fino al giorno della gara € 50,00.*
 
-Per i partecipanti “partenza alla Francese” Euro 15,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
+Per i partecipanti “partenza alla Francese” Euro 30,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
-Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori, docce e pacco regalo.
-
-*Il Pacco Premio*, può essere ritirato: *Sabato 21 Settembre 2020*, presso Casa di Riposo di Monte Giberto in Via Armando Diaz dalle ore 15.00 alle ore 19.00. *Domenica 22 Settembre 2020* dalle ore 14.00 presso il Diamante Loriblu al Primo Piatto.
-
-Il pacco premio può essere ritirato anche da terze persone presentando card del pacco premio. Per i gruppi sportivi potrà presentarsi il solo capogruppo munito di varie card pacco premio (le card sono all’interno della busta tecnica).
-
-*Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro*. Il pranzo si svolgerà all’arrivo presso Primo Piatto del Diamante Loriblu dalle ore 12.15. Famigliari ed accompagnatori possono partecipare sempre al costo 15,00 euro.
+Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori e docce.
+<!--
+*Finita la gara tutti gli iscritti possono partecipare al pranzo al costo di 15,00 euro*. Il pranzo si svolgerà all’arrivo presso Primo Piatto del Diamante Loriblu dalle ore 12.15. Famigliari ed accompagnatori possono partecipare sempre al costo 15,00 euro. -->
 
 Non saranno accettate sostituzioni il giorno della gara.
 
@@ -82,30 +79,25 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 ## 5. Apertura e Chiusura iscrizioni
 
-Le iscrizioni on line si aprono il 01 Gennaio 2020 e chiuderanno Venerdì 20 Settembre alle ore
-12.00.
+Le iscrizioni on line si aprono il 01 Gennaio 2020 e chiuderanno Venerdì 25 Settembre alle ore 12.00.
 
-Le iscrizioni con operatore, al costo di 30,00 euro, sono aperte presso la Casa di Riposo di Monte
-Giberto in Via Armando Diaz.
+Le iscrizioni con operatore, al costo di 50,00 euro, sono aperte presso il Bar San Filippo in Via XX Settembre, 198 a Porto Sant’Elpidio ed esattamente Venerdì 25 Settembre 2020, dalle ore 15.00 alle ore 19.00. Sabato 26 Settembre, dalle ore 8.00 alle ore 11.00.
 
-Sabato 21 Settembre 2020, dalle ore 15.00 alle ore 19.00. Domenica 22 Settembre 2020, dalle ore
-6.30 alle ore 8.30.
-
-Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero, lista premi ed informazioni sul percorso.
+Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero ed informazioni sul percorso.
 
 ## 6. Iscrizioni individuali e collettive e modalità di pagamento
 
-Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Sabato e Domenica *all’operatore al costo di Euro 30,00*, attraverso bonifico bancario per Iscrizioni on line sul sito *www.granfondopse.it al costo di Euro 20,00* (fino al 31 Agosto sul sito voce “Iscrizioni”), oppure attraverso il sito di [www.kronoservice.com](https://www.kronoservice.com) con possibilità di pagamento tramite carta di credito, Paypal, bonifico bancario, sempre *al costo di euro 20,00 fino al 31 Agosto.*
+Per le iscrizioni collettive si ritiene responsabile dei dati forniti il presidente della società a cui fanno parte gli iscritti; il presidente fornendo l’elenco degli iscritti sottoscrive e accetta da parte di ogni atleta il regolamento in ogni sua parte. Per fare richiesta d’iscrizione occorre effettuare il pagamento della quota d’iscrizione nei giorni di Venerdì e Sabato all’operatore, oppure attraverso il sito di [www.kronoservice.com](https://www.kronoservice.com) con possibilità di pagamento tramite carta di credito, Paypal, bonifico bancario.
 
 ## 7. Controlli e Cronometraggio
 
-Il servizio di cronometraggio sarà fornito da MyLaps per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito [www.kronoservice.com](https://www.kronoservice.com).
+Il servizio di cronometraggio sarà fornito da Krono Service per informazioni o chiarimenti riguardo l’utilizzo del Chip consultare il sito [www.kronoservice.com](https://www.kronoservice.com).
 
 ## 8. Chilometri totali percorso
 
-Gran Fondo - Percorso velocità assistita Km. 48,200 - Percorso agonistico velocità libera Km. 65,900. Totale km 114,100.
+La Gran Fondo è di un totale di km 129,300. Percorso velocità assistita alla media oraria di km 27 Km. 75,0000 - Percorso agonistico velocità libera Km. 54,300.
 
-Partenza alla francese – velocità libera km. 114,100.
+Partenza alla francese – velocità libera km. 129,300.
 
 ## 9. Categorie e Classifiche individuali
 
@@ -119,17 +111,17 @@ Partenza alla francese – velocità libera km. 114,100.
 
 * Comunque tutte le categorie riconosciute dalla Federazione Ciclistica Italiana.
 
-Saranno premiati i primi 3 assoluti uomini e donne e premi al primo arrivato di tutte le categorie. Nella busta tecnica ci sarà elenco premi.
+Saranno premiati i primi 3 assoluti uomini e donne e premi al primi tre arrivati di tutte le categorie. Nella busta tecnica ci sarà elenco premi.
 
 Le classifiche assolute e di categoria saranno redatte sulla base dell’ordine d’arrivo e dei tempi rilevati con il sistema [www.kronoservice.com](https://www.kronoservice.com), Fotofinish e Giudici di Gara.
 
 ## 10. Classifica generale per società
 
-Sarà stilata una classifica per società con più numero di partecipanti arrivati.
+Sarà stilata una classifica generale a tempi, al termine delle due Gran Fondo il vincitore di ogni categoria indosserà la Maglia Rosa del Giro D’Italia. (Oltre al vincitore della generale.)
 
 ## 11. Premi e Premiazioni
 
-Saranno subito premiati sul palco premiazioni di arrivo i primi tre arrivati uomini e donne, il resto durante il Pasta Party. I premi sono consegnati esclusivamente il giorno della gara.
+Saranno subito premiati sul palco premiazioni di arrivo i primi tre arrivati uomini e donne e il vincitore della maglia rosa classifica generale. Seguiranno le premiazioni di entrambi le gare.
 
 ## 12. Assistenza sanitaria
 
@@ -143,7 +135,7 @@ Sono autorizzate al seguito auto regolarmente registrate dal direttore di corsa,
 
 ## 14. Equipaggiamento obbligatorio
 
-Tutti i partecipanti durante tutta la durata della gara dovranno obbligatoriamente indossare il casco, avere e utilizzare correttamente il CHIP per il cronometraggio, avere posizionati correttamente il cartellino numerato della bicicletta e il dorsale numerato sul retro della maglia.
+Tutti i partecipanti durante tutta la durata della gara dovranno obbligatoriamente indossare il casco, avere e utilizzare correttamente il CHIP per il cronometraggio, avere posizionati correttamente il cartellino numerato della bicicletta e il dorsale numerato sul retro della maglia, indossare la mascherina durante la punzonatura e al raduno di partenza.
 
 ## 15. Assicurazione
 
@@ -153,30 +145,13 @@ I ciclisti non iscritti non devono inserirsi nel gruppo pena l'espulsione ed in 
 
 ## 16. Manifestazione ciclistica
 
-<div class="row promotion-banner">
-	<div class="col-md-3"></div>
-	<div class="col-md-6">
-		<div class="row">
-			<div class="col-xs-6">
-				<a href="http://motostaffettateramo.blogspot.com/" target="_blank">
-					<img src="https://s3.eu-central-1.amazonaws.com/giovanissimi/scorta_tecnica_teramo.jpeg" />
-				</a>
-			</div>
-			<div class="col-xs-6">
-				<img src="https://s3.eu-central-1.amazonaws.com/giovanissimi/scorte_tecniche_molisane.jpeg" />
-			</div>
-		</div>
-	</div>
-	<div class="col-md-3"></div>
-</div>
-
 Vettura con scritta "Inizio gara ciclistica", vettura con scritta "Fine gara ciclistica".
 
 I ciclisti che vengono superati dal mezzo "Fine Gara Ciclistica" devono rigorosamente rispettare il Codice della Strada.
 
 ## 17. Norme
 
-Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L’A.S.D. Gruppo Ciclistico Tutti Campioni come società titolare della Gran Fondo dei Tre Santuari del Fermano declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell’auto di fine manifestazione ciclistica, saranno segnalati all’autorità competente che attuerà le relative azioni.
+Per quanto non contemplato nel presente regolamento vige il regolamento e le norme generali della F.C.I. L’A.S.D. Gruppo Ciclistico Tutti Campioni come società titolare della Gran Fondo dei Tre Santuari del Fermano declina ogni responsabilità per sé, per il comitato organizzatore, per La Gio.Ca communications srl acquirente dei diritti organizzativi e per i propri collaboratori, per incidenti o danni a persone o cose, che dovessero verificarsi prima, durante e dopo la manifestazione o per effetto della stessa. Tutti i concorrenti devono obbligatoriamente osservare le norme stabilite dal Codice della Strada, dal Comitato Tecnico Scientifico e dei DPCM del Presidente del Consiglio Giuseppe Conte. Le strade sono aperte al traffico. I ciclisti che si inseriscono al seguito della manifestazione non regolarmente iscritti, prima del passaggio dell’auto di fine manifestazione ciclistica, saranno segnalati all’autorità competente che attuerà le relative azioni.
 
 ## 18. Giuria
 
