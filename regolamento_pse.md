@@ -7,8 +7,6 @@ logo: logo_gfpse
 
 # Il regolamento
 
-<strong>Il vincitore assoluto vestirà la maglia rosa del giro d’Italia e la dovrà indossare per la Gran Fondo Dei Tre Santuari</strong>
-
 <strong>I costi delle iscrizioni per entrambi le gran fondo sono fino al 30 Agosto € 40,00, successivamente fino al giorno della gara € 50,00.</strong>
 
 La Granfondo Città di Porto Sant'Elpidio partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
@@ -113,8 +111,6 @@ Partenza alla francese – velocità libera km. 91,300.
 
 * Comunque tutte le categorie riconosciute dalla Federazione Ciclistica Italiana.
 
-<strong>Il vincitore assoluto vestirà la maglia rosa del giro d’Italia e la dovrà indossare per la Gran Fondo Dei Tre Santuari</strong>
-
 Saranno premiati i primi 3 assoluti uomini e donne e premi al primo arrivato di tutte le categorie. Nella busta tecnica ci sarà elenco premi.
 
 Le classifiche assolute e di categoria saranno redatte sulla base dell’ordine d’arrivo e dei tempi rilevati con il sistema [www.kronoservice.com](https://www.kronoservice.com), Fotofinish e Giudici di Gara.
@@ -123,7 +119,7 @@ Le classifiche assolute e di categoria saranno redatte sulla base dell’ordine 
 
 Sarà stilata una classifica per società con più numero di partecipanti arrivati.
 
-Sarà stilata una classifica generale a tempi, al termine delle due Gran Fondo il vincitore di ogni categoria indosserà la Maglia Rosa del Giro D’Italia.
+Sarà stilata una classifica generale a tempi, al termine delle due Gran Fondo.
 
 ## 11. Premi e Premiazioni
 

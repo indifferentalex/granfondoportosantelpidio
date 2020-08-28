@@ -19,7 +19,7 @@ C’è una grande voglia di fare e di proporre il meglio dalle due manifestazion
 
 Le due granfondo si svolgeranno su due percorsi suggestivi, dal mare attraverso le dolci colline dell’entroterra fermano fino ai piedi dei Monti Sibillini. Entrambi partiranno da Porto Sant'Elpidio: la prima di 95 chilometri, la seconda di 114 chilometri ma con velocità controllata e tutti in gruppo fino al Santuario della Madonna dell’Ambro.
 
-La novità di quest’anno è la vestizione della maglia rosa del Giro d’Italia al vincitore della granfondo del sabato (in omaggio alla Corsa Rosa che avrà Porto Sant'Elpidio come sede di partenza di tappa il 14 ottobre) mentre con la seconda granfondo dei Tre Santuari del giorno 27 sarà stilata quella finale che premierà il miglior corridore nella due giorni.
+Con la seconda granfondo dei Tre Santuari del giorno 27 sarà stilata quella finale che premierà il miglior corridore nella due giorni.
 
 Il costo d’iscrizione per entrambe le granfondo è di 40 euro in vigore fino al 30 agosto, poi la quota sale a 50 euro fino al giorno della gara. Per iscriversi, il link è [endu.net](https://shop.endu.net/edit/52730).
 

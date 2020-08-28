@@ -7,8 +7,6 @@ logo: logo_gftsdf_2019
 
 # Il regolamento
 
-<strong>Il vincitore della Gran Fondo Stefano Garzelli alla partenza dovrà indossare la maglia rosa del Giro D’Italia.</strong>
-
 <strong>I costi delle iscrizioni per entrambi le gran fondo sono fino al 30 Agosto € 40,00, successivamente fino al giorno della Gran Fondo Stefano Garzelli € 50,00.</strong>
 
 <!-- <strong>Pranzo con servizio catering a base di pesce al prezzo speciale € 15.00</strong> -->
@@ -117,11 +115,11 @@ Le classifiche assolute e di categoria saranno redatte sulla base dell’ordine 
 
 ## 10. Classifica generale per società
 
-Sarà stilata una classifica generale a tempi, al termine delle due Gran Fondo il vincitore di ogni categoria indosserà la Maglia Rosa del Giro D’Italia. (Oltre al vincitore della generale.)
+Sarà stilata una classifica generale a tempi.
 
 ## 11. Premi e Premiazioni
 
-Saranno subito premiati sul palco premiazioni di arrivo i primi tre arrivati uomini e donne e il vincitore della maglia rosa classifica generale. Seguiranno le premiazioni di entrambi le gare.
+Saranno subito premiati sul palco premiazioni di arrivo i primi tre arrivati uomini e donne classifica generale. Seguiranno le premiazioni di entrambi le gare.
 
 ## 12. Assistenza sanitaria
 
