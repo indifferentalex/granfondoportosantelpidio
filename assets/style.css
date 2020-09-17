@@ -693,6 +693,10 @@ p.image-alt-text {
 	margin: 24px 0px;
 }
 
+.article-content li p {
+	font-size: 16px;
+}
+
 .footer-links {
 	position: relative;
 	color: #fff;
