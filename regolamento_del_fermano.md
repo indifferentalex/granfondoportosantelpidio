@@ -79,7 +79,7 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 Le iscrizioni on line si aprono il 01 Gennaio 2020 e chiuderanno Venerdì 25 Settembre alle ore 12.00.
 
-Le iscrizioni con operatore, al costo di 50,00 euro, sono aperte presso il Bar San Filippo Sabato 26 Settembre, dalle ore 8.00 alle ore 11.00 e domenica 27 settembre dalle ore 8.00 alle ore 11.00
+Le iscrizioni con operatore, al costo di 50,00 euro, sono aperte presso il Bar San Filippo Sabato 26 Settembre, dalle ore 8.00 alle ore 13.00 e domenica 27 settembre dalle ore 8.00 alle ore 10.00
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero ed informazioni sul percorso.
 
