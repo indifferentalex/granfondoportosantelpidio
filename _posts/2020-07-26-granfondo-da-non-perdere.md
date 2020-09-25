@@ -21,8 +21,6 @@ Le due granfondo si svolgeranno su due percorsi suggestivi, dal mare attraverso 
 
 Con la seconda granfondo dei Tre Santuari del giorno 27 sarà stilata quella finale che premierà il miglior corridore nella due giorni.
 
-Il costo d’iscrizione per entrambe le granfondo è di 40 euro in vigore fino al 30 agosto, poi la quota sale a 50 euro fino al giorno della gara. Per iscriversi, il link è [endu.net](https://shop.endu.net/edit/52730).
-
 Sul sito [www.granfondopse.it](https://granfondopse.it/) si può consultare la lista degli hotel e dei ristoranti a prezzo convenzionato.
 
 Comunicato Stampa Marche Ciclando

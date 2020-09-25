@@ -19,7 +19,5 @@ Le due granfondo si svolgeranno su due percorsi suggestivi, dal mare attraverso 
 
 Per avere maggiori informazioni sulle gare: [https://granfondopse.it/](https://granfondopse.it/)
 
-Per iscrivervi: [https://www.endu.net/it/events/grand-prix-delle-coste-fermane/events](https://www.endu.net/it/events/grand-prix-delle-coste-fermane/events)
-
 Comunicato Stampa Marche Ciclando
 

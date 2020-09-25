@@ -21,8 +21,6 @@ Nel rispetto delle normative anti Covid-19, la partenza si effettuerà tutti ins
 
 La “partenza alla francese” sarà prevista dalle 12:30 alle 13.30.
 
-Il costo d’iscrizione per entrambe le granfondo è di 40 euro in vigore fino al 30 agosto, poi la quota sale a 50 euro fino al giorno della gara. Per iscriversi, il link è [endu.net](https://shop.endu.net/edit/52730).
-
 Sul sito [www.granfondopse.it](https://granfondopse.it/) si può consultare la lista degli hotel e dei ristoranti a prezzo convenzionato.
 
 Comunicato Stampa Marche Ciclando
