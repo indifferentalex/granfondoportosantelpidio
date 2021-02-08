@@ -1,29 +1,29 @@
 ---
 layout: article_no_sponsor
-title: Il regolamento della Granfondo Città di Porto Sant'Elpidio 2020
+title: Il regolamento della Granfondo Città di Porto Sant'Elpidio 2021
 permalink: /regolamento_pse/
 logo: logo_gfpse
 ---
 
 # Il regolamento
 
-<strong>I costi delle iscrizioni per entrambi le gran fondo sono fino al 30 Agosto € 40,00, successivamente fino al giorno della gara € 50,00.</strong>
+<strong>I costi delle iscrizioni per entrambi le gran fondo sono fino al 30 Marzo € 30,00, successivamente fino al giorno della gara € 35,00.</strong>
 
-La Granfondo Città di Porto Sant'Elpidio partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
+La Gran Fondo Claudio Chiappucci - Città di Porto Sant’Elpidio partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
-La Granfondo Città di Porto Sant'Elpidio è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2020, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
+La Gran Fondo Claudio Chiappucci - Città di Porto Sant’Elpidio è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2021, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
 
-Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2020, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 10,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
+Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2021, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 10,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
 
 Il Comitato Organizzatore potrà in ogni momento ed a suo insindacabile giudizio decidere se accettare o meno l’iscrizione oppure escludere un iscritto dalla manifestazione, qualora arrecasse danno alla immagine della stessa.
 
-Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l’anno 2020 e:
+Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l’anno 2021 e:
 
 * di avere preso visione del regolamento e di accettarlo integralmente;
 
-* di avere i requisiti regolamentari;
+* di avere i requisiti regolamentari e di conoscere le caratteristiche della manifestazione;
 
-* di conoscere le caratteristiche della manifestazione e di essere in condizioni psicofisiche adeguate alla partecipazione;
+* di essere in condizioni psicofisiche adeguate alla partecipazione e in regola con il certificato medico all’attività sportiva agonistica;
 
 * di voler adeguarsi al regolamento, alle indicazioni della Direzione di gara e del personale addetto all'organizzazione;
 
@@ -35,7 +35,7 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-Ritrovo presso Largo della Resistenza quartiere San Filippo, sabato 26 settembre 2020 dalle ore 8.00 alle ore 14
+Ritrovo presso Largo della Resistenza quartiere San Filippo, sabato 10 Aprile 2021 dalle ore 8.00 alle ore 14
 
 Partenza presso Largo della Resistenza quartiere San Filippo (Porto Sant’Elpidio sud) alle ore 14.30
 
@@ -61,9 +61,9 @@ Chi utilizza la “partenza alla francese” dovrà procedere lungo il percorso 
 
 ## 4. Quota di partecipazione
 
-*L’iscrizione è a Pagamento. I costi delle iscrizioni per entrambi le gran fondo sono fino al 30 Agosto € 40,00, successivamente fino al giorno della gara € 50,00.*
+*L’iscrizione è a Pagamento. Il costo dell’iscrizione fino al 30 Marzo 2021 è di € 30,00, successivamente fino al giorno della gara € 35,00.*
 
-Per i partecipanti “partenza alla Francese” Euro 30,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
+Per i partecipanti “partenza alla Francese” Euro 20,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori e docce.
 <!--
@@ -77,10 +77,9 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 ## 5. Apertura e Chiusura iscrizioni
 
-Le iscrizioni on line si aprono il 01 Gennaio 2020 e chiuderanno Venerdì 25 Settembre alle ore
-12.00.
+Le iscrizioni on line si aprono il 10 Febbraio 2021 e chiuderanno Giovedì 08 Aprile 2021 alle ore 12.00.
 
-Le iscrizioni con operatore, al costo di 50,00 euro, sono aperte presso il Bar San Filippo in Via XX Settembre, 198 a Porto Sant'Elpidio Sabato 26 Settembre 2020, dalle ore 8.00 alle ore 13.00
+Le iscrizioni con operatore, al costo di 35,00 euro, sono aperte presso il Bar San Filippo in Via XX Settembre, 198 a Porto Sant’Elpidio Sabato 26 Settembre 2020, dalle ore 8.00 alle ore 13.00
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero ed informazioni sul percorso.
 

@@ -1,31 +1,31 @@
 ---
 layout: article_no_sponsor
-title: Il regolamento della Gran Fondo dei Tre Santuari del Fermano 2020
+title: Il regolamento della Gran Fondo dei Tre Santuari del Fermano 2021
 permalink: /regolamento_gran_fondo_del_fermano/
 logo: logo_gftsdf_2019
 ---
 
 # Il regolamento
 
-<strong>I costi delle iscrizioni per entrambi le gran fondo sono fino al 30 Agosto € 40,00, successivamente fino al giorno della Gran Fondo Stefano Garzelli € 50,00.</strong>
+<strong>I costi delle iscrizioni per la gran fondo è di 30 euro fino al 30 Marzo 2021, successivamente fino al giorno della Gran Fondo Tre Santuari 35,00 euro.</strong>
 
 <!-- <strong>Pranzo con servizio catering a base di pesce al prezzo speciale € 15.00</strong> -->
 
-La V Gran Fondo dei Tre Santuari del Fermano partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
+La VI Gran Fondo dei Tre Santuari del Fermano partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
-La Gran Fondo dei Tre Santuari del Fermano è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2020, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
+La Gran Fondo dei Tre Santuari del Fermano è aperta a tutti i tesserati F.C.I. e Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2021, in possesso di idoneità medico sportiva per la pratica del ciclismo agonistico ed ai cicloamatori stranieri in possesso di licenza UCI valida per l’anno in corso, rilasciata dalla propria Federazione Ciclistica Nazionale, e previa presentazione della certificazione etica in lingua inglese e certificato di idoneità redatto secondo il modello E. I soggetti stranieri che non siano in possesso della licenza UCI, dovranno presentare, prima della partenza della gara, un certificato medico che attesti lo stato di idoneità alla partecipazione ad una manifestazione sportiva ciclistica agonistica. Tale certificato deve non essere antecedente di oltre un anno rispetto alla data di iscrizione alla manifestazione.
 
-Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2020, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 10,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
+Per coloro che non sono in possesso di tessera annuale F.C.I. o Enti di Promozione Sportiva che hanno sottoscritto la convenzione con la F.C.I. per l’anno 2021, è possibile sottoscrivere la tessera giornaliera F.C.I. del costo di Euro 10,00. Il tesseramento va richiesto all’atto dell’iscrizione alla segreteria iscrizioni e regolarizzata la posizione dell’atleta dal punto di vista assicurativo. È altresì necessario inviare o presentare copia del certificato di idoneità all’attività agonistica e sottoscrivere la dichiarazione etica.
 
 Il Comitato Organizzatore potrà in ogni momento ed a suo insindacabile giudizio decidere se accettare o meno l’iscrizione oppure escludere un iscritto dalla manifestazione, qualora arrecasse danno alla immagine della stessa.
 
-Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l’anno 2020 e:
+Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di regolare tessera per lo svolgimento di attività sportiva valida per l’anno 2021 e:
 
 * di avere preso visione del regolamento e di accettarlo integralmente;
 
-* di avere i requisiti regolamentari;
+* di avere i requisiti regolamentari e di conoscere le caratteristiche della manifestazione;
 
-* di conoscere le caratteristiche della manifestazione e di essere in condizioni psicofisiche adeguate alla partecipazione;
+* di essere in condizioni psicofisiche adeguate alla partecipazione e in regola con il certificato medico all’attività sportiva agonistica;
 
 * di voler adeguarsi al regolamento, alle indicazioni della Direzione di gara e del personale addetto all'organizzazione;
 
@@ -37,9 +37,9 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-Ritrovo presso Largo della Resistenza quartiere San Filippo, domenica 27 settembre 2020 dalle ore 8.00 alle ore 10.30.
+Ritrovo presso Largo della Resistenza quartiere San Filippo, domenica 11 Aprile 2021 dalle ore 06.00 alle ore 08.30.
 
-Partenza  presso Largo della Resistenza quartiere San Filippo (Porto Sant’Elpidio Sud) alle ore 11.00
+Partenza presso Largo della Resistenza quartiere San Filippo (Porto Sant’Elpidio Sud) alle ore 08.40.
 
 ## 2. Tipo di partenza
 
@@ -47,9 +47,9 @@ La partenza per la Gran Fondo si effettua tutti insieme mantenendo il distanziam
 
 ## 3. Partenza alla Francese
 
-Oltre alla normale procedura di partenza in gruppo prevista alle ore 11.00, viene inserita anche la possibilità, per chi lo desiderasse, di poter partire con la modalità definita “alla francese”.
+Oltre alla normale procedura di partenza in gruppo prevista alle ore 8.40, viene inserita anche la possibilità, per chi lo desiderasse, di poter partire con la modalità definita “alla francese”.
 
-La “partenza alla francese” sarà possibile dalle ore 9.00 e fino alle ore 10.30.
+La “partenza alla francese” sarà possibile dalle ore 07.00 e fino alle ore 08.30.
 
 È comunque obbligatorio l’uso del chip elettronico e del numero di pettorale applicato sulla maglia e sul manubrio della bicicletta. La rilevazione del tempo di partenza inizierà dal momento del passaggio obbligatorio sul tappeto di MyLaps ([www.kronoservice.com](https://www.kronoservice.com)) posto all’inizio del percorso di accesso alle griglie e continuerà in altri molteplici punti lungo tutto il percorso lungo.
 
@@ -63,9 +63,9 @@ Chi utilizza la “partenza alla francese” dovrà procedere lungo il percorso 
 
 ## 4. Quota di partecipazione
 
-*L’iscrizione è a Pagamento. I costi delle iscrizioni per entrambi le gran fondo sono fino al 30 Agosto € 40,00, successivamente fino al giorno della gara € 50,00.*
+*L’iscrizione è a Pagamento. I costi delle iscrizioni per la gran fondo dei Tre Santuari è di 30,00 euro sono fino al 30 Marzo 2021, successivamente fino al giorno della gara 35,00 euro*
 
-Per i partecipanti “partenza alla Francese” Euro 30,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
+Per i partecipanti “partenza alla Francese” 20,00 euro (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori e docce.
 <!--
@@ -77,9 +77,9 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 ## 5. Apertura e Chiusura iscrizioni
 
-Le iscrizioni on line si aprono il 01 Gennaio 2020 e chiuderanno Venerdì 25 Settembre alle ore 12.00.
+Le iscrizioni on line si aprono il 10 Febbraio 2021 e chiuderanno Giovedì 08 Aprile 2021 alle ore 12.00.
 
-Le iscrizioni con operatore, al costo di 50,00 euro, sono aperte presso il Bar San Filippo Sabato 26 Settembre, dalle ore 8.00 alle ore 13.00 e domenica 27 settembre dalle ore 8.00 alle ore 10.00
+Le iscrizioni con operatore, al costo di 35,00 euro, sono aperte presso il Bar San Filippo Sabato 10 Aprile 2021, dalle ore 8.00 alle ore 13.00 e domenica 11 Aprile 2021 dalle ore 06.00 alle ore 08.30
 
 Nelle stesse date e stessi orari può essere ritirata la busta tecnica, contenente il numero ed informazioni sul percorso.
 
