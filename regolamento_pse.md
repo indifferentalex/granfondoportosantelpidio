@@ -7,7 +7,7 @@ logo: logo_gfpse
 
 # Il regolamento
 
-<strong>I costi delle iscrizioni per entrambi le gran fondo sono fino al 30 Marzo € 30,00, successivamente fino al giorno della gara € 35,00.</strong>
+<strong>I costi delle iscrizioni per la gran fondo è di € 30,00 fino al 31 Marzo, successivamente fino al giorno della gara € 35,00.</strong>
 
 La Gran Fondo Claudio Chiappucci - Città di Porto Sant’Elpidio partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
@@ -61,7 +61,7 @@ Chi utilizza la “partenza alla francese” dovrà procedere lungo il percorso 
 
 ## 4. Quota di partecipazione
 
-*L’iscrizione è a Pagamento. Il costo dell’iscrizione fino al 30 Marzo 2021 è di € 30,00, successivamente fino al giorno della gara € 35,00.*
+*L’iscrizione è a Pagamento. Il costo dell’iscrizione fino al 31 Marzo 2021 è di € 30,00, successivamente fino al giorno della gara € 35,00.*
 
 Per i partecipanti “partenza alla Francese” Euro 20,00 (nel modulo d’iscrizione va specificato “partenza alla francese”).
 

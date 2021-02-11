@@ -7,7 +7,7 @@ logo: logo_gftsdf_2019
 
 # Il regolamento
 
-<strong>I costi delle iscrizioni per la gran fondo è di 30 euro fino al 30 Marzo 2021, successivamente fino al giorno della Gran Fondo Tre Santuari 35,00 euro.</strong>
+<strong>I costi delle iscrizioni per la gran fondo è di 30 euro fino al 31 Marzo 2021, successivamente fino al giorno della Gran Fondo Tre Santuari 35,00 euro.</strong>
 
 <!-- <strong>Pranzo con servizio catering a base di pesce al prezzo speciale € 15.00</strong> -->
 
@@ -63,7 +63,7 @@ Chi utilizza la “partenza alla francese” dovrà procedere lungo il percorso 
 
 ## 4. Quota di partecipazione
 
-*L’iscrizione è a Pagamento. I costi delle iscrizioni per la gran fondo dei Tre Santuari è di 30,00 euro sono fino al 30 Marzo 2021, successivamente fino al giorno della gara 35,00 euro*
+*L’iscrizione è a Pagamento. I costi delle iscrizioni per la gran fondo dei Tre Santuari è di 30,00 euro sono fino al 31 Marzo 2021, successivamente fino al giorno della gara 35,00 euro*
 
 Per i partecipanti “partenza alla Francese” 20,00 euro (nel modulo d’iscrizione va specificato “partenza alla francese”).
 
