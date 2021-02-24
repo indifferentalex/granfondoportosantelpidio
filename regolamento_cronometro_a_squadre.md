@@ -7,6 +7,23 @@ logo: logo_gfpse
 
 # Cronometro a squadre Claudio Chiappucci - Città di Porto Sant’Elpidio
 
+La cronometro si svolge su tutto il  lungomare di Porto Sant’Elpidio per Km 12,800
+
+Partecipanti:
+
+Amatori - ore 18.00
+Under 23 - ore 17.00
+Juniores - ore 16.00
+Allievi - ore 15.00
+Esordienti - ore 14.00
+
+Per queste categorie la partecipazione è a coppie, il tempo verrà preso sul secondo.
+
+Per quanto riguarda gli Amatori la cronometro è a Squadre secondo il seguente regolamento.
+
+## Iscrizioni
+
+Le iscrizioni sono possibili al seguente link: [https://www.endu.net/it/events/cronometro-a-squadre-porto-santelpidio/entry](https://www.endu.net/it/events/cronometro-a-squadre-porto-santelpidio/entry)
 ## Il regolamento
 
 Il costo dell’iscrizione per la Cronometro a Squadre, fino  al 31 Marzo è di € 130,00, successivamente fino al giorno 08 Aprile è di € 200,00.
