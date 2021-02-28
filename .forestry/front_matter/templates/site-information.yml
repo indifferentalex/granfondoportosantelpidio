@@ -1,4 +1,10 @@
 ---
 label: Site information
 hide_body: true
-fields: []
+fields:
+- name: global_title
+  type: text
+  config:
+    required: false
+  label: Global title
+  description: Il nome della gara attuale (incl. l'anno)
