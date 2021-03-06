@@ -26,7 +26,7 @@ Per quanto riguarda gli Amatori la cronometro è a Squadre secondo il seguente r
 Le iscrizioni sono possibili al seguente link: [https://www.endu.net/it/events/cronometro-a-squadre-porto-santelpidio/entry](https://www.endu.net/it/events/cronometro-a-squadre-porto-santelpidio/entry)
 ## Il regolamento
 
-Il costo dell’iscrizione per la Cronometro a Squadre, fino  al 31 Marzo è di € 130,00, successivamente fino al giorno 08 Aprile è di € 200,00.
+Il costo dell’iscrizione per la Cronometro a Squadre, fino al 31 Marzo è di € 130,00, successivamente fino al giorno 06 Maggio è di € 200,00.
 
 La Cronometro a Squadre Claudio Chiappucci - Città di Porto Sant’Elpidio partecipa alla combinata “Gran Prix Coste Fermane” (Per il regolamento della combinata cliccare su: Gran Prix Coste Fermane) con assegnazione di un mega premio al vincitore della combinata.
 
@@ -52,13 +52,13 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-Ritrovo presso Lungomare Sud di Porto Sant’Elpidio Venerdì 09 Aprile 2021 alle ore 17.00
+Ritrovo presso Lungomare Sud di Porto Sant’Elpidio Venerdì 07 Maggio 2021 alle ore 17.00
 
 Partenza prima squadra alle ore 18.00
 
 ## 2. Quota di partecipazione
 
-L’iscrizione è a Pagamento. Il costo dell’iscrizione fino al 31 Marzo 2021 è di € 130,00, successivamente fino al giorno 08 Aprile 2021 € 200,00.
+L’iscrizione è a Pagamento. Il costo dell’iscrizione fino al 31 Marzo 2021 è di € 130,00, successivamente fino al giorno 06 Maggio 2021 € 200,00.
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori e docce.
 Per tutti gli iscritti attivo il servizio docce presso Palestra comunale via Pesaro, chiaramente segnalato con frecce.
@@ -69,7 +69,7 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 ## 3. Apertura e Chiusura iscrizioni
 
-Le iscrizioni on line si aprono il 10 Febbraio 2021 e chiuderanno Giovedì 08 Aprile 2021 alle ore
+Le iscrizioni on line si aprono il 10 Febbraio 2021 e chiuderanno Giovedì 06 Maggio 2021 alle ore
 12.00.
 
 ## 4. Composizione squadre
