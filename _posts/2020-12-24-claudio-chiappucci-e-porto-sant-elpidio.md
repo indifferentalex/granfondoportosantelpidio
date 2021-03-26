@@ -15,7 +15,7 @@ imagealt: "Claudia Chiappucci con Indurain, El Diablo"
 
 Per la Gio.Ca. Communication e l’amministrazione comunale di Porto Sant’Elpidio parte una nuova ed entusiasmante avventura organizzativa e promozionale in compagnia di “El Diablo” Claudio Chiappucci.
 
-El Diablo Cycling Festival avrà il suo clou in primavera nel fine settimana del 9-10-9 Maggio 2021 con lo svolgimento della cronometro di apertura al venerdì di circa 13 chilometri sul lungomare, la Granfondo Porto Sant’Elpidio al sabato e la Tre Santuari del Fermano la domenica. Contemporaneamente avrà luogo una pedalata amatoriale per gli amanti del gravel e della mountain bike sul nuovo percorso ciclabile, lungo il fiume Chienti, denominato “le antiche vie imperiali di Santa Croce” con la collaborazione della Ca7dete-Bike&Run e l’E-bike Store Tutti Campioni.
+El Diablo Cycling Festival avrà il suo clou in primavera nel fine settimana del 8-9-10 Maggio 2021 con lo svolgimento della cronometro di apertura al venerdì di circa 13 chilometri sul lungomare, la Granfondo Porto Sant’Elpidio al sabato e la Tre Santuari del Fermano la domenica. Contemporaneamente avrà luogo una pedalata amatoriale per gli amanti del gravel e della mountain bike sul nuovo percorso ciclabile, lungo il fiume Chienti, denominato “le antiche vie imperiali di Santa Croce” con la collaborazione della Ca7dete-Bike&Run e l’E-bike Store Tutti Campioni.
 
 Claudio Chiappucci è soprannominato “El diablo” per il suo stile di corsa, irruente e sempre all’attacco, che gli ha permesso di vincere una classica monumento come la Milano-Sanremo nel 1991, tre tappe al Tour de France e una al Giro d’Italia, la Tre Valli Varesine nel 1994, anno in cui si è guadagnato anche un argento mondiale ad Agrigento.
 
