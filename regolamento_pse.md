@@ -35,7 +35,7 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 ## 1. Ritrovo e Partenza
 
-Ritrovo presso Largo della Resistenza quartiere San Filippo, sabato 8 Maggio 2021 dalle ore 8.00 alle ore 14
+Ritrovo presso Largo della Resistenza quartiere San Filippo, sabato 22 Maggio 2021 dalle ore 8.00 alle ore 14
 
 Partenza presso Largo della Resistenza quartiere San Filippo (Porto Sant’Elpidio sud) alle ore 14.30
 
@@ -77,7 +77,7 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 ## 5. Apertura e Chiusura iscrizioni
 
-Le iscrizioni on line si aprono il 10 Febbraio 2021 e chiuderanno Giovedì 06 Maggio 2021 alle ore 12.00.
+Le iscrizioni on line si aprono il 10 Febbraio 2021 e chiuderanno Giovedì 20 Maggio 2021 alle ore 12.00.
 
 Le iscrizioni con operatore, al costo di 35,00 euro, sono aperte presso il Bar San Filippo in Via XX Settembre, 198 a Porto Sant’Elpidio Sabato 26 Settembre 2020, dalle ore 8.00 alle ore 13.00
 

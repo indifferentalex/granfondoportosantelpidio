@@ -58,7 +58,7 @@ Partenza prima squadra alle ore 18.00
 
 ## 2. Quota di partecipazione
 
-L’iscrizione è a Pagamento. Il costo dell’iscrizione fino al 30 Aprile 2021 è di € 130,00, successivamente fino al giorno 06 Maggio 2021 € 200,00.
+L’iscrizione è a Pagamento. Il costo dell’iscrizione fino al 30 Aprile 2021 è di € 130,00, successivamente fino al giorno 20 Maggio 2021 € 200,00.
 
 Le iscrizioni comprendono: assistenza meccanica, medico-sanitario, radio soccorso, ristori e docce.
 Per tutti gli iscritti attivo il servizio docce presso Palestra comunale via Pesaro, chiaramente segnalato con frecce.
@@ -69,7 +69,7 @@ In caso di mancata partecipazione la quota d’iscrizione versata non sarà rest
 
 ## 3. Apertura e Chiusura iscrizioni
 
-Le iscrizioni on line si aprono il 10 Febbraio 2021 e chiuderanno Giovedì 06 Maggio 2021 alle ore
+Le iscrizioni on line si aprono il 10 Febbraio 2021 e chiuderanno Giovedì 20 Maggio 2021 alle ore
 12.00.
 
 ## 4. Composizione squadre
