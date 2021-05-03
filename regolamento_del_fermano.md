@@ -35,6 +35,20 @@ Sottoscrivendo il modulo di iscrizione si dichiara di essere in possesso di rego
 
 * di rinunciare a qualsiasi azione di responsabilità o rivalsa nei confronti della società organizzatrice, dei partner o fornitori di quest'ultima, del personale addetto a qualsiasi titolo all'organizzazione, degli sponsor e dei patrocinatori, derivante dalla propria partecipazione alla manifestazione e ai suoi eventi collaterali. Così dicasi per coloro che effettuano l'iscrizione individuale sia a mezzo modulo, on-line, lettera, fax o tramite iscrizione collettiva di squadra.
 
+La partecipazione è subordinata al regolare possesso del seguente requisito:
+
+* per gli atleti tesserati alla FCI o a Ente di promozione sportiva: certificato di idoneità̀ alla pratica agonistica per il ciclismo (non sono validi certificati per altre tipologie di sport quali triathlon, duathlon, atletica leggera, ecc.);
+
+* solo per gli atleti non tesserati alla Federazione Ciclistica Italiana e non forniti di certificato convalidato con servizio DataHealth, caricamento dei dati e della copia del certificato medico su portale ENDU all’atto dell’iscrizione.”
+
+La verifica del corretto possesso di adeguato certificato potrà avvenire sul campo in una delle seguenti modalità̀:
+
+* verifica della tessera sportiva con relativo logo DataHealth e data di scadenza compatibile con la gara;
+
+* verifica tramite il possesso di QRcode-DH;
+
+* solo per gli atleti non tesserati alla Federazione Ciclistica Italiana, verifica di copia cartacea del certificato medico.”
+
 ## 1. Ritrovo e Partenza
 
 Ritrovo presso Largo della Resistenza quartiere San Filippo, domenica 23 Maggio 2021 dalle ore 06.00 alle ore 08.30.
