@@ -5,7 +5,7 @@ description: "Nel nome dell’ex professionista Claudio Chiappucci, aprile si st
 date: 2021-02-11 00:00:00 -0000
 image: https://giovanissimi.s3.eu-central-1.amazonaws.com/El+Diablo+Cycling+Festival+2021.jpg
 imagealt: "El Diablo Cycling Festival 2021 Porto Sant'Elpidio"
-published: false
+published: true
 ---
 
 # Mercoledì 10 febbraio apertura iscrizioni per El Diablo Cycling Festival

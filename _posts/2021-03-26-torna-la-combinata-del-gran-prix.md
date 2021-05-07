@@ -2,8 +2,8 @@
 layout: article
 title: "Con El Diablo Cycling Festival torna la combinata del Gran Prix Coste Fermane"
 description: "Con l’arrivo della primavera, a Porto Sant’Elpidio si sta mettendo nuovamente a punto il format di El Diablo Cycling Festival, in onore del mitico Claudio Chiappucci, dopo l’ufficializzazione dello spostamento di data nel fine settimana di venerdì 21, sabato 22 e domenica 23 maggio."
-date: 2021-02-11 00:00:00 -0000
-image: https://giovanissimi.s3.eu-central-1.amazonaws.com/EL+DIABLO+CYCLING+FETIVAL.jpg
+date: 2021-03-26 00:00:00 -0000
+image: https://giovanissimi.s3.eu-central-1.amazonaws.com/Percorso-Basilica+Imperiale+-+mod+(1)+(1).jpg
 imagealt: "El Diablo Cycling Festival 2021 Porto Sant'Elpidio"
 ---
 
@@ -11,7 +11,7 @@ imagealt: "El Diablo Cycling Festival 2021 Porto Sant'Elpidio"
 
 #### Luca Alò - {{ page.date | date: '%d/%m/%Y' }}
 
-![El Diablo Cycling Festival 2021 Porto Sant'Elpidio](https://giovanissimi.s3.eu-central-1.amazonaws.com/EL+DIABLO+CYCLING+FETIVAL.jpg)
+![El Diablo Cycling Festival 2021 Porto Sant'Elpidio](https://giovanissimi.s3.eu-central-1.amazonaws.com/Percorso-Basilica+Imperiale+-+mod+(1)+(1).jpg)
 
 Con l’arrivo della primavera, a Porto Sant’Elpidio si sta mettendo nuovamente a punto il format di El Diablo Cycling Festival, in onore del mitico Claudio Chiappucci, dopo l’ufficializzazione dello spostamento di data nel fine settimana di venerdì 21, sabato 22 e domenica 23 maggio.
 
