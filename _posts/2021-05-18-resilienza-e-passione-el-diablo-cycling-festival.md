@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Resilienza e passione per la bici per il bene del territorio: a Porto Sant’Elpidio alzato il sipario  su El Diablo Cycling Festival"
-description: "E in questo si rispecchia il ciclismo a Porto Sant’Elpidio che ha la scorza dura ed ha un grande traino promozionale sul territorio grazie a una tradizione organizzativa solida, ben oliata e di pura passione della Gio.Ca Communication di Vincenzo Santoni che lancia il nuovo format di El Diablo Cycling Festival dal 21 al 23 maggio."
-date: 2021-05-13 00:00:00 -0000
+description: "Crescere ancora, rinnovarsi e proporre un ciclismo di qualità sotto il segno di un grande campione come Claudio Chiappucci che ha legato la propria immagine al nuovo trittico di eventi ciclistici di Porto Sant’Elpidio che ingloba sia gli agonisti che gli amatori."
+date: 2021-05-18 00:00:00 -0000
 image: https://giovanissimi.s3.eu-central-1.amazonaws.com/El+Diablo+Cycling+Festival+18052021+autorit%C3%A0+intervenute.jpeg
 imagealt: "Presentazione del El Diablo Cycling Festival 2021"
 ---
@@ -31,7 +31,7 @@ Insieme alla Ca7dete-Bike&Run e all’E-Bike Store Tutti Campioni, la new entry 
 
 Con il giornalista Rai Giorgio Martino moderatore della presentazione che si è svolta presso il ristorante Perla su Mare, a fare gli onori di casa per il comune di Porto Sant’Elpidio il sindaco Nazareno Franchellucci: “In questo periodo di ripresa e di riaperture, El Diablo Cycling Festival è la prima manifestazione sportiva in assoluto che si svolge nella nostra città. Se ci deve essere un evento sportivo di grande risonanza che fa da volano al territorio, a Porto Sant’Elpidio non può che essere questo trittico di gare intitolato a Claudio Chiappucci. Molti stanno iniziando a toccare con mano la passione e l’impegno della Gio.Ca Communication di Vincenzo Santoni nel promuovere l’immagine della nostra città elpidiense. Stiamo già pregustando il successo e speriamo che possa essere l’inizio di una serie di altri eventi di questo tipo”.
 
-A prendere la parola anche l’ex consigliere della Regione Marche Francesco Giacinti, Mauro Pieroni (titolare dei marchi Dima e Hair Service, nonché socio onorario del comitato regionale FCI Marche), Fabio Luna (presidente regionale del Coni Marche), Lino Secchi (presidente regionale FCI Marche) e Gabriele Vesprini (titolare di Linea Oro) che hanno evidenziato il coraggio di ripartire per Porto Sant’Elpidio e per tutto il movimento ciclistico in cui gli amatori faranno da traino al mondo giovanile, senza dimenticare il sostegno degli sponsor locali che vogliono promuovere il territorio e le loro eccellenze attraverso le manifestazioni ciclistiche.
+A prendere la parola anche Mauro Pieroni (titolare dei marchi Dima e Hair Service, nonché socio onorario del comitato regionale FCI Marche), Fabio Luna (presidente regionale del Coni Marche), Lino Secchi (presidente regionale FCI Marche) e Gabriele Vesprini (titolare di Linea Oro) che hanno evidenziato il coraggio di ripartire per Porto Sant’Elpidio e per tutto il movimento ciclistico in cui gli amatori faranno da traino al mondo giovanile, senza dimenticare il sostegno degli sponsor locali che vogliono promuovere il territorio e le loro eccellenze attraverso le manifestazioni ciclistiche.
 
 A chiudere gli interventi Padre Gianfranco Priori, rettore del Santuario della Madonna dell’Ambro, che ha sottolineato come la bici sia un perfetto intreccio tra il coraggio e l’altruismo, oltre a riscoprire se stessi in piena sintonia con l’ambiente che ci circonda.
 

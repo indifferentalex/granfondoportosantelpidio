@@ -2,7 +2,7 @@
 layout: article
 title: "El Diablo Cycling Festival: vernissage a Porto Sant’Elpidio il 17 maggio"
 description: "Cronometro a coppie per agonisti e amatori (venerdì 21 maggio), Granfondo Porto Sant’Elpidio-Claudio Chiappucci (sabato 22 maggio) e Granfondo dei Tre Santuari del Fermano (domenica 23 maggio): sono i tre eventi racchiusi in seno a El Diablo Cycling Festival, alla Gio.Ca Communication il compito di portare avanti i preparativi in sintonia con l’amministrazione comunale elpidiense."
-date: 2021-05-13 00:00:00 -0000
+date: 2021-05-16 00:00:00 -0000
 image: https://giovanissimi.s3.eu-central-1.amazonaws.com/El+Diablo+Cycling+Festival+17052021+invito+presentazione.jpeg
 imagealt: "Invito alla presentazione di El Diablo Cycling Festival a Porto Sant'Elpidio, Marche con Claudi Chiappucci"
 ---
